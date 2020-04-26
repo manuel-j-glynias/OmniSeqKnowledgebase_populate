@@ -1,0 +1,196 @@
+interface NamedEntity {
+    id: ID!
+    name: String!
+}
+
+
+interface StatementWithEvidence {
+    id: ID!
+    statement: String!
+    references: [Reference]! @relation(name: "REFERENCE_FOR", direction: "OUT")
+}
+
+interface Reference {
+    id: ID!
+    shortReference: String!
+    statements_referenced: [StatementWithEvidence!]! @relation(name: "REFERENCE_FOR", direction: "IN")
+}
+
+type Author {
+    id: ID!
+    first_initial:  String!
+    surname:  String!
+    references:[LiteratureReference!]! @relation(name: "AUTHORED_BY", direction: "IN")
+}
+
+type Journal implements NamedEntity {
+    id: ID!
+    name: String!
+}
+
+type LiteratureReference implements Reference {
+    id: ID!
+    shortReference: String!
+    statements_referenced: [StatementWithEvidence!]!  @relation(name: "REFERENCE_FOR", direction: "IN")
+    authors : [Author!]!  @relation(name: "AUTHORED_BY", direction: "OUT")
+    title:  String!
+    journal:  Journal!  @relation(name: "PUBLISHED_IN", direction: "OUT")
+    volume: String!
+    first_page:  String!
+    last_page:  String!
+    publication_Year: String!
+    DOI:  String
+    PMID:  String
+    abstract:   String
+}
+
+type InternetReference implements Reference{
+    id: ID!
+    shortReference: String!
+    statements_referenced: [StatementWithEvidence!]!  @relation(name: "REFERENCE_FOR", direction: "IN")
+    web_address: String!
+    accessed_date: String!
+}
+
+type User implements NamedEntity {
+    id: ID!
+    name: String!
+    password: String!
+    isAdmin: Boolean!
+    edited_Statements: [EditableStatement]! @relation(name: "EDITED_BY", direction: "IN")
+}
+
+type EditableStatement implements StatementWithEvidence{
+    id: ID!
+    field:  String!
+    statement: String!
+    editor: User! @relation(name: "EDITED_BY", direction: "OUT")
+    edit_date: String!
+    deleted: Boolean!
+    references: [Reference]!  @relation(name: "REFERENCE_FOR", direction: "OUT")
+}
+
+type JaxGene implements NamedEntity  {
+    id: ID!
+    #    name == Gene Symbox
+    name: String!
+    #    statement = description
+    description: EditableStatement!
+    entrezId: String!
+    jaxId:  String!
+    chromosome: String!
+    synonyms: [String]!
+    canonicalTranscript:[String]!
+}
+
+enum Strand {
+    FORWARD
+    REVERSE
+}
+
+type MyGeneInfo_Gene implements NamedEntity  {
+    id: ID!
+    name: String!
+    description: EditableStatement!
+    chromosome: String!
+    strand: Strand!
+    start: Int
+    end: Int
+    synonyms: [String]!
+    entrezId: String!
+    uniprot_entry: Uniprot_Entry! @relation(name: "CODED_BY", direction: "IN")
+}
+
+type Uniprot_Entry implements NamedEntity {
+    id: ID!
+    name: String!
+    function: EditableStatement!
+    uniprot_id:String!
+    accessionNumber: String!
+    gene: MyGeneInfo_Gene! @relation(name: "CODED_BY", direction: "OUT")
+}
+
+
+type OmniGene implements NamedEntity  {
+    id: ID!
+    name: String!
+    panelName: String!
+    geneDescription: EditableStatement!
+    oncogenicCategory: EditableStatement!
+    synonymsString: EditableStatement!
+    myGeneInfoGene: MyGeneInfo_Gene!
+    uniprot_entry: Uniprot_Entry
+    jaxGene:    JaxGene
+}
+
+type JaxDrugClass implements NamedEntity {
+    id: ID!
+    name: String!
+    jaxId:  String!
+    drugs: [JaxDrug]! @relation(name: "DRUG_CLASS_MEMBER", direction: "OUT")
+}
+
+type JaxDrug implements NamedEntity {
+    id: ID!
+    name: String!
+    tradeName: String!
+    jaxId:  String!
+    synonyms: [String]!
+    description: EditableStatement!
+    drugClasses: [JaxDrugClass]! @relation(name: "DRUG_CLASS_MEMBER", direction: "IN")
+}
+
+type NCIDrug implements NamedEntity {
+    id: ID!
+    name: String!
+    concept: String!
+    definition: String!
+    drugCategory: String!
+    synonyms: [String]!
+    annotationDate: String!
+    isAntineoplastic: Boolean!
+    isImmuno: Boolean!
+    modulator: String!
+}
+
+interface TherapyComponent {
+    id: ID!
+    name: String!
+    component_of: [Therapy]!
+}
+
+type OmniDrug implements NamedEntity & TherapyComponent {
+    id: ID!
+    name: String!
+    tradeName: String!
+    definition: EditableStatement!
+    drugCategories: EditableStatement!
+    synonymsString: EditableStatement!
+    nciDrug:    NCIDrug
+    jaxDrug:    JaxDrug
+    component_of: [Therapy]! @relation(name: "THERAPY_COMPONENT", direction: "IN")
+}
+
+enum OmniConjuction {
+    ANY
+    ALL
+    NONE
+}
+
+type Therapy implements NamedEntity & TherapyComponent {
+    id: ID!
+    name: String!
+    conjuction: OmniConjuction
+    component: [TherapyComponent]! @relation(name: "THERAPY_COMPONENT", direction: "OUT")
+    component_of: [Therapy]! @relation(name: "THERAPY_COMPONENT", direction: "IN")
+}
+
+
+type TherapeuticIntervention implements NamedEntity {
+     id: ID!
+    name: String!
+    therapy: Therapy!
+    preceded_by: [TherapeuticIntervention]!
+    followed_by: [TherapeuticIntervention]!
+    concurrent_with: [TherapeuticIntervention]!
+}

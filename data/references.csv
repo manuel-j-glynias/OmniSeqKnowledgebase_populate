@@ -1,0 +1,142 @@
+PMID,DOI,title,journal_name,volume,first_page,last_page,publication_Year,authors_names
+24456693,10.1016/j.leukres.2013.12.025,"BCR-ABL kinase domain mutations, including 2 novel mutations in imatinib resistant Malaysian chronic myeloid leukemia patients-Frequency and clinical outcome.",Leuk. Res.,38,454,459,2014,Azlan et al.
+10373409,10.1074/jbc.274.26.18141,Signaling pathways activated by oncogenic forms of Abl tyrosine kinase.,J. Biol. Chem.,274,18141,18144,1999,Zou & Calame
+17525340,10.1126/science.1139476,Abraxas and RAP80 form a BRCA1 protein complex required for the DNA damage response.,Science,316,1194,1198,2007,Smogorzewska et al.
+28174424,10.1038/icb.2017.8,Targeting A2 adenosine receptors in cancer.,Immunol. Cell Biol.,95,333,None,2017,Turcotte et al.
+23856527,10.1016/j.phrs.2013.07.002,Adenosine receptors as potential targets in melanoma.,Pharmacol. Res.,76,34,None,2013,Montinaro et al.
+25377469,10.1158/0008-5472.CAN-13-3583,Myeloid expression of adenosine A2A receptor suppresses T and NK cell responses in the solid tumor microenvironment.,Cancer Res.,74,7250,7259,2014,Sag et al.
+17510365,10.1126/science/1141515,Wilms tumor suppressor WTX negatively regulates WNT/beta-catenin signaling.,Science,316,1043,1046,2007,Biechele et al.
+17925383,10.1242/jcs.011320,AMER1 regulates the distribution of the tumor suppressor APC between microtubules and the plasma membrane.,J. Cell. Sci.,120,3738,3747,2007,Alzner et al.
+21498506,10.1074/jbc.M111.224881,Structural and functional characterization of the Wnt inhibitor APC membrane recruitment 1 (Amer1).,J. Biol. Chem.,286,19204,19214,2011,Schambony et al.
+21220749,10.1182/blood-2010-08-301325,Dichotomous regulation of GVHD through bidirectional functions of the BTLA-HVEM pathway.,Blood,117,2506,2514,2011,Sakoda et al.
+31774112,10.1042/BSR20191770,Investigation of BTLA tagging variants with risk of esophagogastric junction adenocarcinoma.,Biosci. Rep.,39,None,None,2019,Liu et al.
+27717503,10.1016/j.cellimm.2016.09.015,BTLA-expressing CD11c antigen presenting cells in patients with active tuberculosis exhibit low capacity to stimulate T cell proliferation.,Cell. Immunol.,311,28,None,2017,Xiang et al.
+26885690,10.18632/oncotarget.7376,Targeting the CCL2-CCR2 signaling axis in cancer metastasis.,Oncotarget,7,28697,28710,2016,Lim et al.
+22789541,10.1016/j.ccr.2012.05.023,Endothelial CCR2 signaling induced by colon carcinoma cells enables extravasation via the JAK2-Stat5 and p38MAPK pathway.,Cancer Cell,22,91,None,2012,Knust et al.
+15900302,10.1038/sj.bjc.6602596,Reduced expression of chemokine (C-C motif) ligand-2 (CCL2) in ovarian adenocarcinoma.,Br. J. Cancer,92,2024,2031,2005,Huggard et al.
+23938203,10.1016/j.jmb.2013.08.001,Structural basis for the interaction of human beta-defensin 6 and its putative chemokine receptor CCR2 and breast cancer microvesicles.,J. Mol. Biol.,425,4479,4495,2013,Lima et al.
+15995708,10.1038/ni1222,Pivotal function for cytoplasmic protein FROUNT in CCR2-mediated monocyte chemotaxis.,Nat. Immunol.,6,827,835,2005,Motomura et al.
+23408426,10.1074/jbc.M112.447359,Tyrosine sulfation of chemokine receptor CCR2 enhances interactions with both monomeric and dimeric forms of the chemokine monocyte chemoattractant protein-1 (MCP-1).,J. Biol. Chem.,288,10024,10034,2013,Wedderburn et al.
+31383967,10.1038/s41379-019-0336-3,"PD-L1 expression is associated with ALK positivity and STAT3 activation, but not outcome in patients with systemic anaplastic large cell lymphoma.",Mod. Pathol.,33,324,None,2020,Medeiros et al.
+30546369,10.3389/fimmu.2018.02809,The Emerging Role of CD244 Signaling in Immune Cells of the Tumor Microenvironment.,Front Immunol,9,2809,None,2018,Janssen et al.
+26205583,10.1038/nri3862,Molecular and cellular insights into T cell exhaustion.,Nat. Rev. Immunol.,15,486,499,2015,Wherry & Kurachi
+15713798,10.1182/blood-2004-09-3796,Molecular basis for positive and negative signaling by the natural killer cell receptor 2B4 (CD244).,Blood,105,4722,4729,2005,Beauchamp et al.
+23264908,10.4161/onci.21425,Modulating CD27 signaling to treat cancer.,Oncoimmunology,1,1604,None,2012,Sch�rch et al.
+15886117,10.1016/j.coi.2005.04.004,CD27 and CD70 in T cell and B cell activation.,Curr. Opin. Immunol.,17,275,281,2005,Hendriks et al.
+25695955,10.1158/1535-7163.MCT-14-0983,PD-L1 Expression as a Predictive Biomarker in Cancer Immunotherapy.,Mol. Cancer Ther.,14,847,856,2015,Patel & Kurzrock
+24551119,10.1371/journal.pone.0088557,PD-L1 expression is increased in a subset of basal type breast cancer cells.,PLoS ONE,9,e88557,None,2014,Antonia et al.
+28102259,10.1038/nature21349,Elements of cancer immunity and the cancer-immune set point.,Nature,541,321,None,2017,Mellman & Chen
+30565239,10.1111/imr.12721,What did we learn from CTLA-4 insufficiency on the human immune system?,Immunol. Rev.,287,33,None,2019,Grimbacher et al.
+30012853,10.1158/2159-8290.CD-17-1033,CD38-Mediated Immunosuppression as a Mechanism of Tumor Cell Escape from PD-1/PD-L1 Blockade.,Cancer Discov,8,1156,None,2018,Rodriguez-Canales et al.
+30546360,10.3389/fimmu.2018.02722,CD38: A Target for Immunotherapeutic Approaches in Multiple Myeloma.,Front Immunol,9,2722,None,2018,Giuliani et al.
+29118010,10.1182/blood-2017-06-740944,CD38 antibodies in multiple myeloma: back to the future.,Blood,131,13,None,2018,Van et al.
+12215456,10.1074/jbc.M208119200,CD3 delta establishes a functional link between the T cell receptor and CD8.,J. Biol. Chem.,278,3257,3264,2003,Michielin et al.
+26507128,10.1093/intimm/dxv060,CD3epsilon recruits Numb to promote TCR degradation.,Int. Immunol.,28,127,137,2016,Canelles et al.
+22474485,10.1155/2012/925135,CD4+T cells: differentiation and functions.,Clin. Dev. Immunol.,2012,925135,None,2012,Xia et al.
+16951326,10.4049/jimmunol.177.6.3669,CD4 expression on activated NK cells: ligation of CD4 induces cytokine expression and cell migration.,J. Immunol.,177,3669,3676,2006,Schiff et al.
+19426221,10.1111/j.1600-065X.2009.00782.x,Molecular mechanism and function of CD40/CD40L engagement in the immune system.,Immunol. Rev.,229,152,172,2009,Elgueta et al.
+30265161,10.1080/08923973.2018.1510959,Enhanced CD40 and ICOSL expression on dendritic cells surface improve anti-tumor immune responses; effectiveness of mRNA/chitosan nanoparticles.,Immunopharmacol Immunotoxicol,40,375,None,2018,Forouzandeh-Moghaddam et al.
+15067037,10.1084/jem.20031705,The modulation of CD40 ligand signaling by transmembrane CD28 splice variant in human T cells.,J. Exp. Med.,199,1025,1031,2004,Mikolajczak et al.
+18405323,10.1111/j.1365-3083.2008.02091.x,Expression of CD68 in non-myeloid cell types.,Scand. J. Immunol.,67,453,463,2008,M�ller et al.
+23911524,10.1016/j.ab.2013.07.032,CD86 expression as a surrogate cellular biomarker for pharmacological inhibition of the histone demethylase lysine-specific demethylase 1.,Anal. Biochem.,442,104,106,2013,Wiseman et al.
+31102428,10.1111/cas.14069,Regulatory T (Treg) cells in cancer: Can Treg cells be a new therapeutic target?,Cancer Sci.,110,2080,None,2019,Nishikawa & Ohue
+17678538,10.1186/1471-2172-8-12,CD8 alpha is expressed by human monocytes and enhances Fc gamma R-dependent responses.,BMC Immunol.,8,12,None,2007,Befus et al.
+30387832,10.3892/ijo.2018.4617,Classification of tumor microenvironment immune types based on immune response-associated gene expression.,Int. J. Oncol.,54,219,None,2019,Akiyama et al.
+22186992,10.1182/blood-2011-09-379214,Therapeutic applications of macrophage colony-stimulating factor-1 (CSF-1) and antagonists of CSF-1 receptor (CSF-1R) signaling.,Blood,119,1810,1820,2012,Hume & MacDonald
+30065206,10.3390/cancers10080252,"CSF1R-Expressing Tumor-Associated Macrophages, Smoking and Survival in Lung Adenocarcinoma: Analyses Using Quantitative Phosphor-Integrated Dot Staining.",Cancers (Basel),10,None,None,2018,Ishikawa et al.
+15715909,10.1186/1475-2867-5-4,Cancer/testis antigens and gametogenesis: a review and brain-storming session.,Cancer Cell Int.,5,4,None,2005,Kalejs & Erenpreisa
+30122941,10.2147/OTT.S159491,Cancer/testis antigens (CTAs) expression in resected lung cancer.,Onco Targets Ther,11,4491,None,2018,Li et al.
+22936067,10.1038/modpathol.2012.133,The cancer-testis antigen NY-ESO-1 is highly expressed in myxoid and round cell subset of liposarcomas.,Mod. Pathol.,26,282,288,2013,Guttridge et al.
+14559844,None,The alternative open reading frame of LAGE-1 gives rise to multiple promiscuous HLA-DR-restricted epitopes recognized by T-helper 1-type tumor-reactive CD4+ T cells.,Cancer Res.,63,6506,6515,2003,Zarour et al.
+26325034,10.1172/JCI80012,Cytotoxic T lymphocyte antigen-4 and immune checkpoint blockade.,J. Clin. Invest.,125,3377,3383,2015,Hodi & Buchbinder
+27249753,10.1200/EDBK_158712,Immunotherapy: Beyond Anti-PD-1 and Anti-PD-L1 Therapies.,Am Soc Clin Oncol Educ Book,35,e450,8,2016,Antonia et al.
+23748107,10.1016/j.bbcan.2013.05.003,CTLA-4 blockade and the renaissance of cancer immunotherapy.,Biochim. Biophys. Acta,1836,187,196,2013,Nitti & Mocellin
+22652417,10.1016/j.cyto.2012.05.002,CXCL10 contributes to p38-mediated apoptosis in primary T lymphocytes in vitro.,Cytokine,59,433,441,2012,Kelvin et al.
+30319622,10.3389/fimmu.2018.02159,The Role of CXC Chemokine Receptors 1-4 on Immune Cells in the Tumor Microenvironment.,Front Immunol,9,2159,None,2018,Karvouni et al.
+22850671,10.1038/emboj.2012.212,Staphylococcus aureus Staphopain A inhibits CXCR2-dependent neutrophil activation and chemotaxis.,EMBO J.,31,3607,3619,2012,van et al.
+12914753,10.1016/s0008-8749(03)00130-8,Down-regulation of cell surface CXCR6 expression during T cell activation is predominantly mediated by calcineurin.,Cell. Immunol.,223,1,None,2003,Koprak et al.
+17942531,10.1128/JVI.01080-07,Distinct RIG-I and MDA5 signaling by RNA viruses in innate immunity.,J. Virol.,82,335,345,2008,Bajwa et al.
+14651845,10.1016/s0092-8674(03)00930-9,EMSY links the BRCA2 pathway to sporadic breast and ovarian cancer.,Cell,115,523,535,2003,Schuuring et al.
+30006565,10.1038/s41467-018-05072-0,Co-expression of CD39 and CD103 identifies tumor-reactive CD8 T cells in human solid tumors.,Nat Commun,9,2724,None,2018,Montler et al.
+29914571,10.1186/s40425-018-0360-8,Targeting adenosine for cancer immunotherapy.,J Immunother Cancer,6,57,None,2018,Leone & Emens
+19657377,10.1038/nrurol.2009.127,ETS gene fusions in prostate cancer.,Nat Rev Urol,6,429,439,2009,Cooper & Clark
+22508544,10.1530/ERC-12-0060,"Fibroblast growth factor receptors in breast cancer: expression, downstream effects, and possible drug targets.",Endocr. Relat. Cancer,19,R115,29,2012,Ivanova et al.
+30784578,10.1016/j.immuni.2019.01.020,Human FOXP3<sup>+</sup> Regulatory T Cell Heterogeneity and Function in Autoimmunity and Cancer.,Immunity,50,302,None,2019,Sakaguchi et al.
+17360565,10.1073/pnas.0700298104,FOXP3 interactions with histone acetyltransferase and class II histone deacetylases are required for repression.,Proc. Natl. Acad. Sci. U.S.A.,104,4571,4576,2007,Basu et al.
+21924928,10.1016/j.immuni.2011.08.012,An essential role of the transcription factor GATA-3 for the function of regulatory T cells.,Immunity,35,337,348,2011,Su et al.
+28320875,10.1128/MCB.00052-17,GATA3 Abundance Is a Critical Determinant of T Cell Receptor beta Allelic Exclusion.,Mol. Cell. Biol.,37,None,None,2017,Sekiguchi et al.
+27148356,10.3389/fgene.2016.00059,Gnaq and Gna11 in the Endothelin Signaling Pathway and Melanoma.,Front Genet,7,59,None,2016,Van & Urtatiz
+23640210,10.1038/nrc3521,The emerging mutational landscape of G proteins and G-protein-coupled receptors in cancer.,Nat. Rev. Cancer,13,412,424,2013,Seshagiri et al.
+29209985,10.1007/s12253-017-0371-7,Frequent and Yet Unreported GNAQ and GNA11 Mutations are Found in Uveal Melanomas.,Pathol. Oncol. Res.,25,1319,None,2019,Erbersdobler et al.
+11563964,10.1042/0264-6021:3590001,GSK3 takes centre stage more than 20 years after its discovery.,Biochem. J.,359,1,None,2001,Frame & Cohen
+28053024,10.1158/1078-0432.CCR-15-2240,Molecular Pathways: Revisiting Glycogen Synthase Kinase-3beta as a Target for the Treatment of Cancer.,Clin. Cancer Res.,23,1891,None,2017,Ugolkov et al.
+29379583,10.1155/2017/4629495,Multifaceted Roles of GSK-3 in Cancer and Autophagy-Related Diseases.,Oxid Med Cell Longev,2017,4629495,None,2017,Carpino et al.
+29669300,10.1016/j.biopha.2018.04.023,GZMB gene silencing confers protection against synovial tissue hyperplasia and articular cartilage tissue injury in rheumatoid arthritis through the MAPK signaling pathway.,Biomed. Pharmacother.,103,346,None,2018,Mou et al.
+14718166,10.1016/s0092-8674(03)01064-x,Histone H3.1 and H3.3 complexes mediate nucleosome assembly pathways dependent or independent of DNA synthesis.,Cell,116,51,None,2004,Almouzni et al.
+24825777,10.1007/s12026-014-8524-1,Regulation of T cell responses by the receptor molecule Tim-3.,Immunol. Res.,59,56,None,2014,Gorman & Colgan
+31733828,10.1053/j.seminoncol.2019.08.005,Significance of TIM3 expression in cancer: From biology to the clinic.,Semin. Oncol.,46,372,None,2019,Solinas et al.
+10549624,10.1016/s1074-7613(00)80117-x,"B7h, a novel costimulatory homolog of B7.1 and B7.2, is induced by TNFalpha.",Immunity,11,423,432,1999,Swallow et al.
+11973139,10.1016/s0952-7915(02)00342-4,The right place at the right time: novel B7 family members regulate effector T cell responses.,Curr. Opin. Immunol.,14,384,390,2002,Liang & Sha
+31634400,10.1093/neuonc/noz204,ICOSLG-mediated regulatory T-cell expansion and IL-10 production promote progression of glioblastoma.,Neuro-oncology,22,333,None,2020,Nakano et al.
+25157255,10.3389/fimmu.2014.00384,New Insights into IDO Biology in Bacterial and Viral Infections.,Front Immunol,5,384,None,2014,Schultze & Schmidt
+29413421,10.1016/j.trecan.2017.11.005,Inflammatory Reprogramming with IDO1 Inhibitors: Turning Immunologically Unresponsive 'Cold' Tumors 'Hot'.,Trends Cancer,4,38,None,2018,Laury-Kleintop et al.
+26378585,10.3390/vaccines3030703,"The Role of Indoleamine 2, 3-Dioxygenase in Immune Suppression and Autoimmunity.",Vaccines (Basel),3,703,729,2015,Torrez et al.
+16728393,10.1074/jbc.M603179200,MEK-ERK signaling is involved in interferon-gamma-induced death of oligodendroglial progenitor cells.,J. Biol. Chem.,281,20095,20106,2006,Pleasure et al.
+30402328,10.4110/in.2018.18.e33,Direct Antiviral Mechanisms of Interferon-Gamma.,Immune Netw,18,e33,None,2018,Kang et al.
+30336781,10.1186/s12957-018-1508-1,Assessment of expression of interferon gamma (IFN-G) gene and its antisense (IFNG-AS1) in breast cancer.,World J Surg Oncol,16,211,None,2018,Taheri et al.
+24076584,10.1097/CCO.0000000000000006,Current status of interleukin-10 and regulatory T-cells in cancer.,Curr Opin Oncol,25,637,645,2013,Khazaie et al.
+18424693,10.4049/jimmunol.180.9.5771,IL-10: the master regulator of immunity to infection.,J. Immunol.,180,5771,5777,2008,Riley et al.
+18083576,10.1016/j.immuni.2007.10.013,The heterodimeric assembly of the CD94-NKG2 receptor family and implications for human leukocyte antigen-E recognition.,Immunity,27,900,911,2007,Johnson et al.
+10023772,10.1016/s1074-7613(00)80008-4,Structure of CD94 reveals a novel C-type lectin fold: implications for the NK cell-associated CD94/NKG2 receptors.,Immunity,10,75,None,1999,Boyington et al.
+29439955,10.1182/blood-2017-06-792267,Dual PD1/LAG3 immune checkpoint blockade limits tumor development in a murine model of chronic lymphocytic leukemia.,Blood,131,1617,None,2018,Berchem et al.
+28258692,10.1111/imr.12519,LAG3 (CD223) as a cancer immunotherapy target.,Immunol. Rev.,276,80,None,2017,Marciscano et al.
+29900067,10.1080/2162402X.2018.1448332,Blockade of LAG3 enhances responses of tumor-infiltrating T cells in mismatch repair-proficient liver metastases of colorectal cancer.,Oncoimmunology,7,e1448332,None,2018,Mancham et al.
+28459460,10.1038/onc.2017.131,MAGEA1 interacts with FBXW7 and regulates ubiquitin ligase-mediated turnover of NICD1 in breast and ovarian cancer cells.,Oncogene,36,5023,None,2017,Wang et al.
+30498011,10.1242/jcs.218628,MAGEA1 inhibits the expression of BORIS via increased promoter methylation.,J. Cell. Sci.,132,None,None,2019,Wang et al.
+28300603,10.1016/j.jmb.2017.03.005,A Comprehensive Guide to the MAGE Family of Ubiquitin Ligases.,J. Mol. Biol.,429,1114,None,2017,Lee & Potts
+29763778,10.1016/j.ctrv.2018.04.009,MAGE-A antigens as targets for cancer immunotherapy.,Cancer Treat. Rev.,67,54,None,2018,Di et al.
+30588194,10.7150/ijms.27643,Cancer/testis Antigen MAGEA3 Interacts with STAT1 and Remodels the Tumor Microenvironment.,Int J Med Sci,15,1702,None,2018,Li et al.
+29656892,10.1016/j.cell.2018.03.026,Cancer-Germline Antigen Expression Discriminates Clinical Outcome to CTLA-4 Blockade.,Cell,173,624,633.e8,2018,Murphy et al.
+22842486,10.3892/or.2012.1934,MAGEA4 induces growth in normal oral keratinocytes by inhibiting growth             arrest and apoptosis.,Oncol. Rep.,28,1498,1502,2012,Chuang et al.
+12209610,10.1002/ijc.10540,Prognostic relevance of MAGE-A4 tumor antigen expression in transitional cell carcinoma of the urinary bladder: a tissue microarray study.,Int. J. Cancer,100,702,705,2002,Noppen et al.
+11225995,None,CD20: a gene in search of a function.,Semin. Oncol.,27,17,None,2000,Riley & Sliwkowski
+19687518,None,CD20-targeted therapy: a breakthrough in the treatment of non-Hodgkin's lymphoma.,Neth J Med,67,251,259,2009,van & Hagenbeek
+21992152,10.1089/jir.2010.0132,Interferon-inducible antiviral protein MxA enhances cell death triggered by endoplasmic reticulum stress.,J. Interferon Cytokine Res.,31,847,856,2011,Numajiri et al.
+15047845,10.1128/jvi.78.8.4323-4329.2004,Human MxA protein inhibits the replication of Crimean-Congo hemorrhagic fever virus.,J. Virol.,78,4323,4329,2004,Bladh et al.
+26755705,10.1084/jem.20150785,Identification of CD112R as a novel checkpoint for human T cells.,J. Exp. Med.,213,167,176,2016,Edil et al.
+29855615,10.1038/s41388-018-0288-y,Immune checkpoints PVR and PVRL2 are prognostic markers in AML and their blockade represents a new therapeutic option.,Oncogene,37,5269,None,2018,Dos et al.
+26325035,10.1172/JCI80011,"Anti-PD-1/PD-L1 therapy of human cancer: past, present, and future.",J. Clin. Invest.,125,3384,3391,2015,Han & Chen
+26681673,10.1093/annonc/mdv615,Regulation of PD-L1: a novel role of pro-survival signalling in cancer.,Ann. Oncol.,27,409,416,2016,Chen et al.
+26320063,10.1053/j.seminoncol.2015.05.013,Antagonists of PD-1 and PD-L1 in Cancer Treatment.,Semin. Oncol.,42,587,None,2015,Hammers et al.
+24403232,10.1002/cam4.106,PD-1 as a potential target in cancer therapy.,Cancer Med,2,662,673,2013,McDermott & Atkins
+26432723,10.1016/j.bbcan.2015.09.002,Signaling pathway and dysregulation of PD1 and its ligands in lymphoid malignancies.,Biochim. Biophys. Acta,1865,58,None,2016,Xia et al.
+11224527,10.1038/85330,PD-L2 is a second ligand for PD-1 and inhibits T cell activation.,Nat. Immunol.,2,261,268,2001,Latchman et al.
+28018338,10.3389/fimmu.2016.00550,The PD1:PD-L1/2 Pathway from Discovery to Clinical Implementation.,Front Immunol,7,550,None,2016,Boussiotis et al.
+28730595,10.1111/cas.13324,"CD155, an onco-immunologic molecule in human tumors.",Cancer Sci.,108,1934,None,2017,Zheng et al.
+15194502,10.1016/j.bbrc.2004.05.111,Ligand stimulation of CD155alpha inhibits cell adhesion and enhances cell migration in fibroblasts.,Biochem. Biophys. Res. Commun.,319,1253,1264,2004,Ohka et al.
+30186454,10.3892/etm.2018.6425,Antitumor effect of recombinant Mycobacterium smegmatis expressing MAGEA3 and SSX2 fusion proteins.,Exp Ther Med,16,2160,None,2018,Lei et al.
+25363656,10.1016/j.molonc.2014.09.001,Ectopic expression of cancer/testis antigen SSX2 induces DNA damage and promotes genomic instability.,Mol Oncol,9,437,449,2015,Lindgreen et al.
+27276714,10.18632/oncotarget.9802,SSX2 regulates focal adhesion but does not drive the epithelial to mesenchymal transition in prostate cancer.,Oncotarget,7,50997,None,2016,McNeel & Bloom
+24058806,10.4161/jkst.23353,The tumor suppressor function of STAT1 in breast cancer.,JAKSTAT,2,e23353,None,2013,Sexl & Koromilas
+29921905,10.1038/s41577-018-0029-z,"IFNgamma: signalling, epigenetics and roles in immunity, metabolism, disease and cancer immunotherapy.",Nat. Rev. Immunol.,18,545,None,2018,Ivashkiv
+10761931,10.1016/s0092-8674(00)80702-3,"A novel transcription factor, T-bet, directs Th1 lineage commitment.",Cell,100,655,669,2000,Fathman et al.
+28619709,10.1158/0008-5472.CAN-16-3011,Loss of FAM46C Promotes Cell Survival in Myeloma.,Cancer Res.,77,4317,None,2017,Zhu et al.
+30696809,10.1038/s41419-019-1308-8,"TTC3 contributes to TGF-beta<sub>1</sub>-induced epithelial-mesenchymal transition and myofibroblast differentiation, potentially through SMURF2 ubiquitylation and degradation.",Cell Death Dis,10,92,None,2019,Suh et al.
+25465800,10.1016/j.ccell.2014.10.018,The immunoreceptor TIGIT regulates antitumor and antiviral CD8(+) T cell effector function.,Cancer Cell,26,923,None,2014,Grogan et al.
+19011627,10.1038/ni.1674,The surface protein TIGIT suppresses T cell activation by promoting the generation of mature immunoregulatory dendritic cells.,Nat. Immunol.,10,48,None,2009,Irving et al.
+28620298,10.3389/fphar.2017.00304,Anti-tumor Activity of Toll-Like Receptor 7 Agonists.,Front Pharmacol,8,304,None,2017,Chi et al.
+28374903,10.1002/iub.1625,RNA sensors of the innate immune system and their detection of pathogens.,IUBMB Life,69,297,None,2017,Zhang et al.
+17932028,10.1074/jbc.M707682200,Signaling by Toll-like receptors 8 and 9 requires Bruton's tyrosine kinase.,J. Biol. Chem.,282,36953,36960,2007,Jefferies et al.
+23520111,10.1126/science.1229159,Structural reorganization of the Toll-like receptor 8 dimer induced by agonistic ligands.,Science,339,1426,1429,2013,Miyake et al.
+30585274,10.17179/excli2018-1759,The inflammatory cytokine TNF contributes with RAC3-induced malignant transformation.,EXCLI J,17,1030,None,2018,Urtreger et al.
+29484738,10.1111/cpr.12441,Anti-cancer therapy with TNFalpha and IFNgamma: A comprehensive review.,Cell Prolif.,51,e12441,None,2018,Zhao et al.
+27726761,10.1128/microbiolspec.MCHD-0022-2015,Anti-TNF Therapy.,Microbiol Spectr,4,None,None,2016,Monaco et al.
+22017438,10.1111/j.1600-065X.2011.01064.x,The signaling networks of the herpesvirus entry mediator (TNFRSF14) in immune regulation.,Immunol. Rev.,244,169,187,2011,Steinberg et al.
+21920726,10.1016/j.coi.2011.08.008,TNF Superfamily Networks: bidirectional and interference pathways of the herpesvirus entry mediator (TNFSF14).,Curr. Opin. Immunol.,23,627,631,2011,Sed� & Ware
+15326137,10.1167/iovs.03-0919,Constitutive and cytokine-induced GITR ligand expression on human retinal pigment epithelium and photoreceptors.,Invest. Ophthalmol. Vis. Sci.,45,3170,3176,2004,Nussenblatt et al.
+26215166,10.1007/s12016-015-8498-3,"OX40, OX40L and Autoimmunity: a Comprehensive Review.",Clin Rev Allergy Immunol,50,312,332,2016,Lane et al.
+28092803,10.1016/j.molimm.2017.01.006,OX40: Structure and function - What questions remain?,Mol. Immunol.,83,13,None,2017,Willoughby et al.
+12384425,10.1182/blood-2001-11-0136,Role of 4-1BB (CD137) in the functional activation of cord blood CD28(-)CD8(+) T cells.,Blood,100,3253,3260,2002,Kim et al.
+28776578,10.1038/modpathol.2017.89,Negative immune checkpoint regulation by VISTA: a mechanism of acquired resistance to anti-PD-1 therapy in metastatic melanoma patients.,Mod. Pathol.,30,1666,None,2017,Scolyer et al.
+31781843,10.1007/s00262-019-02434-5,VISTA expression is associated with a favorable prognosis in patients with high-grade serous ovarian cancer.,Cancer Immunol. Immunother.,69,33,None,2020,Xiang et al.
+30382166,10.1038/s41416-018-0313-5,VISTA expressed in tumour cells regulates T cell function.,Br. J. Cancer,120,115,None,2019,Yamaguchi et al.

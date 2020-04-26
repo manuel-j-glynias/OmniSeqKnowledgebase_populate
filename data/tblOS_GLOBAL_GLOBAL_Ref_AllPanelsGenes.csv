@@ -1,0 +1,596 @@
+"HGNC_Symbol","GeneType","GeneTypeSource","GeneTypeNotes","TSO500_DNA","TSO500_RNA","OCP_DNA_SNV_indel","OCP_DNA_CNV","OCP_RNA_fusion","IRC_RNA","IRC_DNA","IRC_IHC","IRC_NGS"
+"ABL1","Oncogene","ThermoFisher",,-1,-1,-1,0,-1,0,0,0,0
+"ABL2","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"ACVR1","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"ACVR1B","Tumor Suppressor Gene","JAX",,-1,0,0,0,0,0,0,0,0
+"ACVRL1","Oncogene","ThermoFisher",,0,0,0,-1,0,0,0,0,0
+"ADORA2A",,,,0,0,0,0,0,-1,0,0,0
+"AKT1","Oncogene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"AKT2","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"AKT3","Oncogene","ThermoFisher",,-1,-1,0,0,-1,0,0,0,0
+"ALK","Oncogene","ThermoFisher",,-1,-1,-1,0,-1,0,0,0,0
+"ALOX12B",,,,-1,0,0,0,0,0,0,0,0
+"ANKRD11",,,,-1,0,0,0,0,0,0,0,0
+"ANKRD26",,,,-1,0,0,0,0,0,0,0,0
+"APC","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"APEX1","Oncogene","ThermoFisher",,0,0,0,-1,0,0,0,0,0
+"AR","Oncogene","ThermoFisher",,-1,-1,-1,-1,0,0,0,0,0
+"ARAF","Oncogene","JAX",,-1,0,-1,0,0,0,0,0,0
+"ARFRP1",,,,-1,0,0,0,0,0,0,0,0
+"ARID1A","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"ARID1B","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"ARID2","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"ARID5B","Tumor Suppressor Gene",,"imputed from other ARID genes",-1,0,0,0,0,0,0,0,0
+"ASXL1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"ASXL2","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"ATM","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"ATP11B","Oncogene","ThermoFisher",,0,0,0,-1,0,0,0,0,0
+"ATR","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"ATRX","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"AURKA",,,,-1,0,0,0,0,0,0,0,0
+"AURKB",,,,-1,0,0,0,0,0,0,0,0
+"AXIN1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"AXIN2","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"AXL","Oncogene","ThermoFisher",,-1,-1,0,0,-1,0,0,0,0
+"B2M","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"BAP1","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"BARD1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"BAT25_T25",,,,-1,0,0,0,0,0,0,0,0
+"BAT26_A27",,,,-1,0,0,0,0,0,0,0,0
+"BBC3","Oncogene","JAX","???",-1,0,0,0,0,0,0,0,0
+"BCL10","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"BCL2","Oncogene","COSMIC",,-1,-1,0,0,0,0,0,0,0
+"BCL2L1","Oncogene","ThermoFisher",,-1,0,0,-1,0,0,0,0,0
+"BCL2L11","Oncogene",,"imputed from other BCL2 genes",-1,0,0,0,0,0,0,0,0
+"BCL2L2",,,"I had as TSG at one point but not sure why",-1,0,0,0,0,0,0,0,0
+"BCL6","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"BCL9","Oncogene","ThermoFisher",,0,0,0,-1,0,0,0,0,0
+"BCOR","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"BCORL1","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"BCR",,,"COSMIC says fusion",-1,0,0,0,0,0,0,0,0
+"BIRC2","Oncogene","ThermoFisher",,0,0,0,-1,0,0,0,0,0
+"BIRC3","Oncogene","ThermoFisher","COSMIC says both",-1,0,0,-1,0,0,0,0,0
+"BLM","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"BMPR1A","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"BRAF","Oncogene","ThermoFisher",,-1,-1,-1,0,-1,0,0,0,0
+"BRCA1","Tumor Suppressor Gene","ThermoFisher",,-1,-1,-1,-1,0,0,0,0,0
+"BRCA2","Tumor Suppressor Gene","ThermoFisher",,-1,-1,-1,-1,0,0,0,0,0
+"BRD4","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"BRIP1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"BTG1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"BTK","Oncogene","COSMIC",,-1,0,-1,0,0,0,0,0,0
+"BTLA",,,,0,0,0,0,0,-1,0,0,0
+"C10orf54",,,,0,0,0,0,0,-1,0,0,0
+"C11orf30",,,,-1,0,0,0,0,0,0,0,0
+"CALR","Oncogene","COSMIC","OKR has as GOF",-1,0,0,0,0,0,0,0,0
+"CARD11","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CASP8","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CBFB","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CBL","Oncogene","ThermoFisher","COSMIC has as both. name of gene is Cbl proto-oncogene C",-1,0,-1,0,0,0,0,0,0
+"CCL2",,,,0,0,0,0,0,-1,0,0,0
+"CCND1","Oncogene","ThermoFisher",,-1,0,0,-1,0,0,0,0,0
+"CCND2","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CCND3","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CCNE1","Oncogene","ThermoFisher",,-1,0,0,-1,0,0,0,0,0
+"CCR2",,,,0,0,0,0,0,-1,0,0,0
+"CD163",,,,0,0,0,0,0,-1,0,0,0
+"CD2",,,,0,0,0,0,0,-1,0,0,0
+"CD244",,,,0,0,0,0,0,-1,0,0,0
+"CD27",,,,0,0,0,0,0,-1,0,0,0
+"CD274","Oncogene","ThermoFisher","COSMIC shows as TSG",-1,0,0,-1,0,-1,0,-1,0
+"CD276",,,,-1,0,0,0,0,0,0,0,0
+"CD28",,,,0,0,0,0,0,-1,0,0,0
+"CD3D",,,,0,0,0,0,0,-1,0,0,0
+"CD3E",,,,0,0,0,0,0,-1,0,0,0
+"CD3G",,,,0,0,0,0,0,-1,0,0,0
+"CD38",,,,0,0,0,0,0,-1,0,0,0
+"CD4",,,,0,0,0,0,0,-1,0,0,0
+"CD40",,,,0,0,0,0,0,-1,0,0,0
+"CD40LG",,,,0,0,0,0,0,-1,0,0,0
+"CD44","Oncogene","ThermoFisher",,0,0,0,-1,0,0,0,0,0
+"CD68",,,,0,0,0,0,0,-1,0,0,0
+"CD74","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CD79A","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CD79B","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CD8A",,,,0,0,0,0,0,-1,0,-1,0
+"CD8B",,,,0,0,0,0,0,-1,0,-1,0
+"CD80",,,,0,0,0,0,0,-1,0,0,0
+"CD86",,,,0,0,0,0,0,-1,0,0,0
+"CD8A",,,,0,0,0,0,0,-1,0,-1,0
+"CD8B",,,,0,0,0,0,0,-1,0,-1,0
+"CDC73","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CDH1","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"CDK12","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CDK4","Oncogene","ThermoFisher",,-1,-1,-1,-1,0,0,0,0,0
+"CDK6","Oncogene","ThermoFisher",,-1,0,0,-1,0,0,0,0,0
+"CDK8","Oncogene",,"impute from other CDK",-1,0,0,0,0,0,0,0,0
+"CDKN1A","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CDKN1B","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CDKN2A","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"CDKN2B","Tumor Suppressor Gene","JAX",,-1,0,0,0,0,0,0,0,0
+"CDKN2C","Tumor Suppressor Gene","COSMIC","also in JAX",-1,0,0,0,0,0,0,0,0
+"CEBPA","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CENPA",,,,-1,0,0,0,0,0,0,0,0
+"CHD2","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CHD4","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CHEK1","Tumor Suppressor Gene","JAX",,-1,0,0,0,0,0,0,0,0
+"CHEK2","Oncogene","ThermoFisher","COSMIC has as TSG",-1,0,-1,0,0,0,0,0,0
+"CIC","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CREBBP","Both",,,-1,0,0,0,0,0,0,0,0
+"CRKL","Oncogene","JAX","name of gene is CRK-like proto-oncogene",-1,0,0,0,0,0,0,0,0
+"CRLF2","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CSF1R","Oncogene","ThermoFisher",,-1,-1,-1,0,0,-1,0,0,0
+"CSF3R","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CSNK1A1",,,,-1,0,0,0,0,0,0,0,0
+"CSNK2A1","Oncogene","ThermoFisher",,0,0,0,-1,0,0,0,0,0
+"CTCF","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CTLA4",,,,-1,0,0,0,0,-1,0,0,0
+"CTNNA1",,,,-1,0,0,0,0,0,0,0,0
+"CTNNB1","Oncogene","COSMIC",,-1,0,-1,0,0,0,0,0,0
+"CUL3","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CUX1","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CXCL10",,,,0,0,0,0,0,-1,0,0,0
+"CXCR4","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"CXCR6",,,,0,0,0,0,0,-1,0,0,0
+"CYLD","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"DAXX","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"DCUN1D1","Oncogene","ThermoFisher",,-1,0,0,-1,0,0,0,0,0
+"DDR2","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"DDX41",,,,-1,0,0,0,0,0,0,0,0
+"DDX58",,,,0,0,0,0,0,-1,0,0,0
+"DHX15",,,,-1,0,0,0,0,0,0,0,0
+"DICER1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"DIS3",,,,-1,0,0,0,0,0,0,0,0
+"DNAJB1",,,"COSMIC has as fusion",-1,0,0,0,0,0,0,0,0
+"DNMT1",,,,-1,0,0,0,0,0,0,0,0
+"DNMT3A","Oncogene","ThermoFisher","COSMIC has as TSG",-1,0,-1,0,0,0,0,0,0
+"DNMT3B",,,,-1,0,0,0,0,0,0,0,0
+"DOT1L",,,,-1,0,0,0,0,0,0,0,0
+"E2F3",,,,-1,0,0,0,0,0,0,0,0
+"EED","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"EGFL7",,,,-1,0,0,0,0,0,0,0,0
+"EGFR","Oncogene","ThermoFisher",,-1,-1,-1,-1,-1,0,0,0,0
+"EIF1AX",,,"COSMIC has blank",-1,0,0,0,0,0,0,0,0
+"EIF4A2",,,"COSMIC has fusion",-1,0,0,0,0,0,0,0,0
+"EIF4E",,,,-1,0,0,0,0,0,0,0,0
+"EML4",,,"COSMIC has fusion",-1,-1,0,0,0,0,0,0,0
+"ENTPD1",,,,0,0,0,0,0,-1,0,0,0
+"EP300","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"EPCAM",,,,-1,0,0,0,0,0,0,0,0
+"EPHA3",,,"COSMIC has blank",-1,0,0,0,0,0,0,0,0
+"EPHA5",,,,-1,0,0,0,0,0,0,0,0
+"EPHA7",,,"COSMIC has blank",-1,0,0,0,0,0,0,0,0
+"EPHB1",,,,-1,0,0,0,0,0,0,0,0
+"ERBB2","Oncogene","ThermoFisher",,-1,-1,-1,-1,-1,0,0,0,0
+"ERBB3","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"ERBB4","Oncogene","ThermoFisher","COSMIC has as both",-1,0,-1,0,0,0,0,0,0
+"ERCC1",,,,-1,0,0,0,0,0,0,0,0
+"ERCC2","Tumor Suppressor Gene","COSMIC","OKR has as GOF",-1,0,0,0,0,0,0,0,0
+"ERCC3","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"ERCC4","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"ERCC5","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"ERG","Oncogene","ThermoFisher",,-1,-1,0,0,-1,0,0,0,0
+"ERRFI1",,,,-1,0,0,0,0,0,0,0,0
+"ESR1","Oncogene","ThermoFisher","COSMIC has as both",-1,-1,-1,0,0,0,0,0,0
+"ETS1","Oncogene",,,-1,-1,0,0,0,0,0,0,0
+"ETV1","Oncogene","ThermoFisher",,-1,-1,0,0,-1,0,0,0,0
+"ETV4","Oncogene","ThermoFisher",,-1,-1,0,0,-1,0,0,0,0
+"ETV5","Oncogene","ThermoFisher",,-1,-1,0,0,-1,0,0,0,0
+"ETV6","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"EWSR1","Oncogene","COSMIC",,-1,-1,0,0,0,0,0,0,0
+"EZH2","Oncogene","ThermoFisher","COSMIC has as both",-1,0,-1,0,0,0,0,0,0
+"FAM123B",,,,-1,0,0,0,0,0,0,0,0
+"FAM175A",,,,-1,0,0,0,0,0,0,0,0
+"FAM46C",,,,-1,0,0,0,0,0,0,0,0
+"FANCA","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"FANCC","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"FANCD2","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"FANCE","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"FANCF","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"FANCG","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"FANCI","Tumor Suppressor Gene","OKR",,-1,0,0,0,0,0,0,0,0
+"FANCL","Tumor Suppressor Gene",,"impute from other FANC genes",-1,0,0,0,0,0,0,0,0
+"FAS","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"FAT1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"FBXW7","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"FGF1","Oncogene",,"impute from other FGF genes",-1,0,0,0,0,0,0,0,0
+"FGF10","Oncogene",,"impute from other FGF genes",-1,0,0,0,0,0,0,0,0
+"FGF14","Oncogene",,"impute from other FGF genes",-1,0,0,0,0,0,0,0,0
+"FGF19","Oncogene","OKR",,-1,0,0,0,0,0,0,0,0
+"FGF2","Oncogene",,"impute from other FGF genes",-1,0,0,0,0,0,0,0,0
+"FGF23","Oncogene",,"impute from other FGF genes",-1,0,0,0,0,0,0,0,0
+"FGF3","Oncogene","OKR",,-1,0,0,0,0,0,0,0,0
+"FGF4","Oncogene",,"impute from other FGF genes",-1,0,0,0,0,0,0,0,0
+"FGF5","Oncogene",,"impute from other FGF genes",-1,0,0,0,0,0,0,0,0
+"FGF6","Oncogene",,"impute from other FGF genes",-1,0,0,0,0,0,0,0,0
+"FGF7","Oncogene",,"impute from other FGF genes",-1,0,0,0,0,0,0,0,0
+"FGF8","Oncogene",,"impute from other FGF genes",-1,0,0,0,0,0,0,0,0
+"FGF9","Oncogene",,"impute from other FGF genes",-1,0,0,0,0,0,0,0,0
+"FGFR1","Oncogene","ThermoFisher",,-1,-1,-1,-1,-1,0,0,0,0
+"FGFR2","Oncogene","ThermoFisher",,-1,-1,-1,-1,-1,0,0,0,0
+"FGFR3","Oncogene","ThermoFisher",,-1,-1,-1,-1,-1,0,0,0,0
+"FGFR4","Oncogene","ThermoFisher",,-1,-1,0,-1,0,0,0,0,0
+"FH","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"FLCN","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"FLI1","Oncogene","COSMIC",,-1,-1,0,0,0,0,0,0,0
+"FLT1",,,,-1,-1,0,0,0,0,0,0,0
+"FLT3","Oncogene","ThermoFisher",,-1,-1,-1,-1,0,0,0,0,0
+"FLT4","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"FOXA1","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"FOXL2","Oncogene","ThermoFisher","COSMIC has as both",-1,0,-1,0,0,0,0,0,0
+"FOXO1","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"FOXP1","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"FOXP3",,,,0,0,0,0,0,-1,0,0,0
+"FRS2",,,,-1,0,0,0,0,0,0,0,0
+"FUBP1","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"FYN","Oncogene","JAX","gene name is FYN proto-oncogene",-1,0,0,0,0,0,0,0,0
+"GABRA6",,,,-1,0,0,0,0,0,0,0,0
+"GAS6","Oncogene","ThermoFisher",,0,0,0,-1,0,0,0,0,0
+"GATA1","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"GATA2","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"GATA3","Tumor Suppressor Gene","ThermoFisher","COSMIC has as both",-1,0,-1,-1,0,-1,0,0,0
+"GATA4",,,,-1,0,0,0,0,0,0,0,0
+"GATA6",,,,-1,0,0,0,0,0,0,0,0
+"GEN1",,,,-1,0,0,0,0,0,0,0,0
+"GID4",,,,-1,0,0,0,0,0,0,0,0
+"GLI1","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"GNA11","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"GNA13",,,,-1,0,0,0,0,0,0,0,0
+"GNAQ","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"GNAS","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"GPR124",,,,-1,0,0,0,0,0,0,0,0
+"GPS2","Tumor Suppressor Gene","JAX","gene name is G protein pathway suppressor 2",-1,0,0,0,0,0,0,0,0
+"GREM1",,,,-1,0,0,0,0,0,0,0,0
+"GRIN2A","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"GRM3","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"GSK3B",,,,-1,0,0,0,0,0,0,0,0
+"GZMB",,,,0,0,0,0,0,-1,0,0,0
+"H3F3A","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"H3F3B","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"H3F3C",,,,-1,0,0,0,0,0,0,0,0
+"HAVCR2",,,,0,0,0,0,0,-1,0,0,0
+"HGF",,,,-1,0,0,0,0,0,0,0,0
+"HIST1H1C",,,,-1,0,0,0,0,0,0,0,0
+"HIST1H2BD",,,,-1,0,0,0,0,0,0,0,0
+"HIST1H3A",,,,-1,0,0,0,0,0,0,0,0
+"HIST1H3B","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"HIST1H3C",,,,-1,0,0,0,0,0,0,0,0
+"HIST1H3D",,,,-1,0,0,0,0,0,0,0,0
+"HIST1H3E",,,,-1,0,0,0,0,0,0,0,0
+"HIST1H3F",,,,-1,0,0,0,0,0,0,0,0
+"HIST1H3G",,,,-1,0,0,0,0,0,0,0,0
+"HIST1H3H",,,,-1,0,0,0,0,0,0,0,0
+"HIST1H3I",,,,-1,0,0,0,0,0,0,0,0
+"HIST1H3J",,,,-1,0,0,0,0,0,0,0,0
+"HIST2H3A",,,,-1,0,0,0,0,0,0,0,0
+"HIST2H3C",,,,-1,0,0,0,0,0,0,0,0
+"HIST2H3D",,,,-1,0,0,0,0,0,0,0,0
+"HIST3H3",,,,-1,0,0,0,0,0,0,0,0
+"HLA-A",,,"COSMIC has as fusion",-1,0,0,0,0,0,0,0,0
+"HNF1A","Oncogene","ThermoFisher","COSMIC has as TSG",-1,0,-1,0,0,0,0,0,0
+"HNRNPK",,,,-1,0,0,0,0,0,0,0,0
+"HOXB13",,,,-1,0,0,0,0,0,0,0,0
+"HRAS","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"HSD3B1",,,,-1,0,0,0,0,0,0,0,0
+"HSP90AA1",,,"COSMIC has as fusion",-1,0,0,0,0,0,0,0,0
+"ICOS",,,,0,0,0,0,0,-1,0,0,0
+"ICOSLG",,,,-1,0,0,0,0,-1,0,0,0
+"ID3","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"IDH1","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"IDH2","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"IDO1",,,,0,0,0,0,0,-1,0,0,0
+"IFITM1","Oncogene","ThermoFisher",,0,0,-1,0,0,0,0,0,0
+"IFITM3","Oncogene","ThermoFisher",,0,0,-1,0,0,0,0,0,0
+"IFNG",,,,0,0,0,0,0,-1,0,0,0
+"IFNGR1",,,,-1,0,0,0,0,0,0,0,0
+"IGF1",,,,-1,0,0,0,0,0,0,0,0
+"IGF1R","Oncogene","ThermoFisher",,-1,0,0,-1,0,0,0,0,0
+"IGF2",,,,-1,0,0,0,0,0,0,0,0
+"IKBKE",,,,-1,0,0,0,0,0,0,0,0
+"IKZF1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"IL10",,,,-1,0,0,0,0,-1,0,0,0
+"IL1B",,,,0,0,0,0,0,-1,0,0,0
+"IL6","Oncogene","ThermoFisher",,0,0,0,-1,0,0,0,0,0
+"IL7R","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"INHA",,,,-1,0,0,0,0,0,0,0,0
+"INHBA",,,,-1,0,0,0,0,0,0,0,0
+"INPP4A",,,,-1,0,0,0,0,0,0,0,0
+"INPP4B",,,,-1,0,0,0,0,0,0,0,0
+"INSR",,,,-1,0,0,0,0,0,0,0,0
+"IRF2",,,,-1,0,0,0,0,0,0,0,0
+"IRF4","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"IRS1",,,,-1,0,0,0,0,0,0,0,0
+"IRS2",,,,-1,0,0,0,0,0,0,0,0
+"JAK1","Oncogene","ThermoFisher","COSMIC has as both",-1,0,-1,0,0,0,0,0,0
+"JAK2","Oncogene","ThermoFisher",,-1,-1,-1,0,0,0,0,0,0
+"JAK3","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"JUN","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"KAT6A","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"KDM5A","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"KDM5C","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"KDM6A","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"KDR","Oncogene","ThermoFisher",,-1,-1,-1,0,0,0,0,0,0
+"KEAP1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"KEL",,,,-1,0,0,0,0,0,0,0,0
+"KIF5B",,,"COSMIC has as fusion",-1,-1,0,0,0,0,0,0,0
+"KIT","Oncogene","ThermoFisher",,-1,-1,-1,-1,0,0,0,0,0
+"KLF4","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"KLHL6",,,,-1,0,0,0,0,0,0,0,0
+"KLRD1",,,,0,0,0,0,0,-1,0,0,0
+"KMT2B",,,,-1,0,0,0,0,0,0,0,0
+"KMT2C","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"KMT2D","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"KNSTRN","Oncogene","ThermoFisher",,0,0,-1,0,0,0,0,0,0
+"KRAS","Oncogene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"LAG3",,,,0,0,0,0,0,-1,0,0,0
+"LAMP1",,,,-1,0,0,0,0,0,0,0,0
+"LATS1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"LATS2","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"LMO1","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"LRP1B","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"LYN","Oncogene","JAX","gene name is LYN proto-oncogene",-1,0,0,0,0,0,0,0,0
+"LZTR1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"MAGI2",,,,-1,0,0,0,0,0,0,0,0
+"MAGOH","Oncogene","ThermoFisher",,0,0,-1,0,0,0,0,0,0
+"MALT1","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"MAP2K1","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"MAP2K2","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"MAP2K4","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"MAP3K1","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"MAP3K13","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"MAP3K14",,,,-1,0,0,0,0,0,0,0,0
+"MAP3K4",,,,-1,0,0,0,0,0,0,0,0
+"MAPK1","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"MAPK3",,,,-1,0,0,0,0,0,0,0,0
+"MAX","Oncogene","ThermoFisher","COSMIC has as TSG",-1,0,-1,0,0,0,0,0,0
+"MCL1","Oncogene","ThermoFisher",,-1,0,0,-1,0,0,0,0,0
+"MDC1",,,,-1,0,0,0,0,0,0,0,0
+"MDM2","Oncogene","ThermoFisher",,-1,0,0,-1,0,0,0,0,0
+"MDM4","Oncogene","ThermoFisher",,-1,0,0,-1,0,0,0,0,0
+"MED12","Oncogene","ThermoFisher","COSMIC has as TSG",-1,0,-1,0,0,0,0,0,0
+"MEF2B",,,,-1,0,0,0,0,0,0,0,0
+"MEN1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"MET","Oncogene","ThermoFisher",,-1,-1,-1,-1,-1,0,0,0,0
+"MGA",,,,-1,0,0,0,0,0,0,0,0
+"MITF","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"MLH1","Tumor Suppressor Gene","ThermoFisher","listed as hotspot rather than CDS check gene type",-1,0,-1,0,0,0,0,0,0
+"MLL",,,,-1,-1,0,0,0,0,0,0,0
+"MLLT3",,,"COSMIC has as fusion",-1,-1,0,0,0,0,0,0,0
+"MONO-27_A27",,,,-1,0,0,0,0,0,0,0,0
+"MPL","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"MRE11A",,,,-1,0,0,0,0,0,0,0,0
+"MS4A1",,,,0,0,0,0,0,-1,0,0,0
+"MSH2","Tumor Suppressor Gene","ThermoFisher",,-1,-1,-1,-1,0,0,0,0,0
+"MSH3",,,,-1,0,0,0,0,0,0,0,0
+"MSH6","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"MSI",,,,-1,0,0,0,0,0,0,0,-1
+"MST1",,,,-1,0,0,0,0,0,0,0,0
+"MST1R",,,,-1,0,0,0,0,0,0,0,0
+"MTOR","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"MUTYH","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"MX1",,,,0,0,0,0,0,-1,0,0,0
+"MYB","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"MYC","Oncogene","ThermoFisher",,-1,-1,0,-1,0,0,0,0,0
+"MYCL","Oncogene","ThermoFisher",,-1,0,0,-1,0,0,0,0,0
+"MYCL1",,,"This is the previous symbol for MYCL",-1,0,0,0,0,0,0,0,0
+"MYCN","Oncogene","ThermoFisher",,-1,0,0,-1,0,0,0,0,0
+"MYD88","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"MYO18A","Oncogene","ThermoFisher",,0,0,0,-1,0,0,0,0,0
+"MYOD1","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"NAB2","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"NBN","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"NCOA3",,,,-1,0,0,0,0,0,0,0,0
+"NCOR1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"NEGR1",,,,-1,0,0,0,0,0,0,0,0
+"NF1","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"NF2","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"NFE2L2","Oncogene","ThermoFisher","COSMIC has as both",-1,0,-1,0,0,0,0,0,0
+"NFKBIA",,,,-1,0,0,0,0,0,0,0,0
+"NKX2-1","Oncogene","ThermoFisher","COSMIC has as both",-1,0,0,-1,0,0,0,0,0
+"NKX2-8","Oncogene","ThermoFisher",,0,0,0,-1,0,0,0,0,0
+"NKX3-1",,,,-1,0,0,0,0,0,0,0,0
+"NOTCH1","Tumor Suppressor Gene","ThermoFisher","COSMIC has as both",-1,-1,-1,-1,0,0,0,0,0
+"NOTCH2","Both","COSMIC",,-1,-1,0,0,0,0,0,0,0
+"NOTCH3","Tumor Suppressor Gene","OKR",,-1,-1,0,0,0,0,0,0,0
+"NOTCH4","Oncogene","OKR",,-1,0,0,0,0,0,0,0,0
+"NPM1","Oncogene","ThermoFisher","OKR has as LOF",-1,0,-1,0,0,0,0,0,0
+"NR-21_A21",,,,-1,0,0,0,0,0,0,0,0
+"NR-22_T21",,,,-1,0,0,0,0,0,0,0,0
+"NR-24_T23",,,,-1,0,0,0,0,0,0,0,0
+"NR-27_A26",,,,-1,0,0,0,0,0,0,0,0
+"NRAS","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"NRG1","Tumor Suppressor Gene","COSMIC","OKR has as GOF",-1,-1,0,0,0,0,0,0,0
+"NSD1",,,"COSMIC has as fusion",-1,0,0,0,0,0,0,0,0
+"NTRK1","Oncogene","ThermoFisher",,-1,-1,0,0,-1,0,0,0,0
+"NTRK2","Oncogene","ThermoFisher",,-1,-1,0,0,-1,0,0,0,0
+"NTRK3","Oncogene","ThermoFisher",,-1,-1,0,0,-1,0,0,0,0
+"NUP93",,,,-1,0,0,0,0,0,0,0,0
+"NUTM1","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"PAK1",,,,-1,0,0,0,0,0,0,0,0
+"PAK3",,,,-1,0,0,0,0,0,0,0,0
+"PAK7",,,,-1,0,0,0,0,0,0,0,0
+"PALB2","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"PARK2",,,,-1,0,0,0,0,0,0,0,0
+"PARP1",,,,-1,0,0,0,0,0,0,0,0
+"PAX3","Oncogene","COSMIC",,-1,-1,0,0,0,0,0,0,0
+"PAX5","Oncogene","ThermoFisher","COSMIC has as both",-1,0,-1,0,0,0,0,0,0
+"PAX7",,,"COSMIC has as fusion",-1,-1,0,0,0,0,0,0,0
+"PAX8",,,"COSMIC has as fusion",-1,0,0,0,0,0,0,0,0
+"PBRM1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"PDCD1",,,,-1,0,0,0,0,-1,0,0,0
+"PDCD1LG2","Oncogene","ThermoFisher",,-1,0,0,-1,0,-1,0,0,0
+"PDGFRA","Oncogene","ThermoFisher",,-1,-1,-1,-1,-1,0,0,0,0
+"PDGFRB","Oncogene","COSMIC",,-1,-1,0,0,0,0,0,0,0
+"PDK1",,,,-1,0,0,0,0,0,0,0,0
+"PDPK1",,,,-1,0,0,0,0,0,0,0,0
+"PGR",,,,-1,0,0,0,0,0,0,0,0
+"PHF6","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"PHOX2B","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"PIK3C2B",,,,-1,0,0,0,0,0,0,0,0
+"PIK3C2G",,,,-1,0,0,0,0,0,0,0,0
+"PIK3C3",,,,-1,0,0,0,0,0,0,0,0
+"PIK3CA","Oncogene","ThermoFisher",,-1,-1,-1,-1,0,0,0,0,0
+"PIK3CB","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"PIK3CD",,,,-1,0,0,0,0,0,0,0,0
+"PIK3CG",,,,-1,0,0,0,0,0,0,0,0
+"PIK3R1","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"PIK3R2",,,,-1,0,0,0,0,0,0,0,0
+"PIK3R3",,,,-1,0,0,0,0,0,0,0,0
+"PIM1","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"PLCG2",,,,-1,0,0,0,0,0,0,0,0
+"PLK2",,,,-1,0,0,0,0,0,0,0,0
+"PMAIP1",,,,-1,0,0,0,0,0,0,0,0
+"PMS1",,,"COSMIC has as blank",-1,0,0,0,0,0,0,0,0
+"PMS2","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"PNP","Oncogene","ThermoFisher",,0,0,0,-1,0,0,0,0,0
+"PNRC1",,,,-1,0,0,0,0,0,0,0,0
+"POLD1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"POLE","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"PPARG","Oncogene","ThermoFisher",,-1,-1,0,-1,-1,0,0,0,0
+"PPM1D","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"PPP2R1A","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"PPP2R2A",,,,-1,0,0,0,0,0,0,0,0
+"PPP6C","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"PRDM1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"PREX2","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"PRKAR1A","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"PRKCI",,,,-1,0,0,0,0,0,0,0,0
+"PRKDC",,,,-1,0,0,0,0,0,0,0,0
+"PRSS8",,,,-1,0,0,0,0,0,0,0,0
+"PTCH1","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"PTEN","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"PTPN11","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"PTPRD","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"PTPRS",,,,-1,0,0,0,0,0,0,0,0
+"PTPRT","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"QKI","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"RAB35",,,,-1,0,0,0,0,0,0,0,0
+"RAC1","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"RAD21","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"RAD50","Tumor Suppressor Gene","OKR",,-1,0,0,0,0,0,0,0,0
+"RAD51","Tumor Suppressor Gene","OKR",,-1,0,0,0,0,0,0,0,0
+"RAD51B","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"RAD51C","Tumor Suppressor Gene","OKR",,-1,0,0,0,0,0,0,0,0
+"RAD51D","Tumor Suppressor Gene",,"imputed from other RAD genes",-1,0,0,0,0,0,0,0,0
+"RAD52","Tumor Suppressor Gene",,"imputed from other RAD genes",-1,0,0,0,0,0,0,0,0
+"RAD54L","Tumor Suppressor Gene",,"imputed from other RAD genes",-1,0,0,0,0,0,0,0,0
+"RAF1","Oncogene","ThermoFisher",,-1,-1,-1,0,-1,0,0,0,0
+"RANBP2","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"RARA","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"RASA1",,,,-1,0,0,0,0,0,0,0,0
+"RB1","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"RBM10","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"RECQL4","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"REL","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"RET","Oncogene","ThermoFisher",,-1,-1,-1,0,-1,0,0,0,0
+"RFWD2",,,,-1,0,0,0,0,0,0,0,0
+"RHEB","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"RHOA","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"RICTOR","Oncogene","OKR",,-1,0,0,0,0,0,0,0,0
+"RIT1",,,,-1,0,0,0,0,0,0,0,0
+"RNF43","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"ROS1","Oncogene","ThermoFisher",,-1,-1,0,0,-1,0,0,0,0
+"RPS6KA4",,,,-1,0,0,0,0,0,0,0,0
+"RPS6KB1","Oncogene","ThermoFisher",,-1,-1,0,-1,0,0,0,0,0
+"RPS6KB2",,,,-1,0,0,0,0,0,0,0,0
+"RPTOR",,,,-1,0,0,0,0,0,0,0,0
+"RUNX1","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"RUNX1T1","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"RYBP",,,,-1,0,0,0,0,0,0,0,0
+"SDHA","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"SDHAF2","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"SDHB","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"SDHC","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"SDHD","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"SETBP1","Tumor Suppressor Gene","JAX","COSMIC has as oncogene, OKR has as GOF",-1,0,0,0,0,0,0,0,0
+"SETD2","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"SF3B1","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"SH2B3","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"SH2D1A",,,,-1,0,0,0,0,0,0,0,0
+"SHQ1",,,,-1,0,0,0,0,0,0,0,0
+"SLIT2",,,,-1,0,0,0,0,0,0,0,0
+"SLX4","Tumor Suppressor Gene","OKR",,-1,0,0,0,0,0,0,0,0
+"SMAD2","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"SMAD3","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"SMAD4","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"SMARCA4","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"SMARCB1","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"SMARCD1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"SMC1A","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"SMC3",,,,-1,0,0,0,0,0,0,0,0
+"SMO","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"SNCAIP",,,,-1,0,0,0,0,0,0,0,0
+"SOCS1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"SOX10",,,,-1,0,0,0,0,0,0,0,0
+"SOX17",,,,-1,0,0,0,0,0,0,0,0
+"SOX2","Oncogene","ThermoFisher",,-1,0,0,-1,0,0,0,0,0
+"SOX9",,,,-1,0,0,0,0,0,0,0,0
+"SPEN","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"SPOP","Oncogene","ThermoFisher","COSMIC has as TSG",-1,0,-1,0,0,0,0,0,0
+"SPTA1",,,,-1,0,0,0,0,0,0,0,0
+"SRC","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"SRSF2","Oncogene","COSMIC","OKR has as LOF",-1,0,0,0,0,0,0,0,0
+"STAG1","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"STAG2","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"STAT1",,,,0,0,0,0,0,-1,0,0,0
+"STAT3","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"STAT4",,,,-1,0,0,0,0,0,0,0,0
+"STAT5A",,,,-1,0,0,0,0,0,0,0,0
+"STAT5B","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"STK11","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"STK40",,,,-1,0,0,0,0,0,0,0,0
+"SUFU","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"SUZ12","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"SYK","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"TAF1",,,,-1,0,0,0,0,0,0,0,0
+"TBX21",,,,0,0,0,0,0,-1,0,0,0
+"TBX3","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"TCEB1",,,,-1,0,0,0,0,0,0,0,0
+"TCF3","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"TCF7L2","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"TERC",,,,-1,0,0,0,0,0,0,0,0
+"TERT","Oncogene","ThermoFisher",,-1,0,0,-1,0,0,0,0,0
+"TET1","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"TET2","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"TFE3","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"TFRC",,,"COSMIC has as fusion",-1,0,0,0,0,0,0,0,0
+"TGFB1",,,,0,0,0,0,0,-1,0,0,0
+"TGFBR1",,,,-1,0,0,0,0,0,0,0,0
+"TGFBR2","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"TIAF1","Oncogene","ThermoFisher",,0,0,0,-1,0,0,0,0,0
+"TMB",,,,-1,0,0,0,0,0,-1,0,0
+"TMEM127","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"TMPRSS2",,,"COSMIC has as fusion",-1,-1,0,0,0,0,0,0,0
+"TNF",,,,0,0,0,0,0,-1,0,0,0
+"TNFAIP3","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"TNFRSF14","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,-1,0,0,0
+"TNFRSF18",,,,0,0,0,0,0,-1,0,0,0
+"TNFRSF4",,,,0,0,0,0,0,-1,0,0,0
+"TNFRSF9",,,,0,0,0,0,0,-1,0,0,0
+"TNFSF4",,,,0,0,0,0,0,-1,0,0,0
+"TOP1","Oncogene","OKR","COSMIC has as fusion",-1,0,0,0,0,0,0,0,0
+"TOP2A",,,,-1,0,0,0,0,0,0,0,0
+"TP53","Tumor Suppressor Gene","ThermoFisher","COSMIC has as both",-1,0,-1,-1,0,0,0,0,0
+"TP63","Both","COSMIC",,-1,0,0,0,0,0,0,0,0
+"TRAF2",,,,-1,0,0,0,0,0,0,0,0
+"TRAF7","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"TSC1","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"TSC2","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"TSHR","Oncogene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"U2AF1","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"VEGFA",,,,-1,0,0,0,0,0,0,0,0
+"VHL","Tumor Suppressor Gene","ThermoFisher",,-1,0,-1,-1,0,0,0,0,0
+"VTCN1",,,,-1,0,0,0,0,0,0,0,0
+"WISP3",,,,-1,0,0,0,0,0,0,0,0
+"WT1","Tumor Suppressor Gene","ThermoFisher","COSMIC has as both",-1,0,-1,-1,0,0,0,0,0
+"XIAP",,,,-1,0,0,0,0,0,0,0,0
+"XPO1","Oncogene","ThermoFisher",,-1,0,-1,0,0,0,0,0,0
+"XRCC2",,,,-1,0,0,0,0,0,0,0,0
+"YAP1",,,,-1,0,0,0,0,0,0,0,0
+"YES1",,,,-1,0,0,0,0,0,0,0,0
+"ZBTB2",,,,-1,0,0,0,0,0,0,0,0
+"ZBTB7A",,,,-1,0,0,0,0,0,0,0,0
+"ZFHX3","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0
+"ZNF217","Oncogene","ThermoFisher",,-1,0,0,-1,0,0,0,0,0
+"ZNF703",,,,-1,0,0,0,0,0,0,0,0
+"ZRSR2","Tumor Suppressor Gene","COSMIC",,-1,0,0,0,0,0,0,0,0

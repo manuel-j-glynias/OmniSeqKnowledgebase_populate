@@ -1,0 +1,597 @@
+gene_name,oncogenicCategory,editor,edit_date
+ABL1,Oncogene,loader,2020-04-22-17-20-57-009374
+ABL2,Oncogene,loader,2020-04-22-17-20-59-166344
+ABRAXAS1,Neither,loader,2020-04-22-17-30-36-728421
+ACVR1,Oncogene,loader,2020-04-22-17-21-01-224462
+ACVR1B,Tumor Suppressor Gene,loader,2020-04-22-17-21-03-499054
+ACVRL1,Oncogene,loader,2020-04-22-17-21-05-978721
+ADGRA2,Neither,loader,2020-04-22-17-33-21-459945
+ADORA2A,Neither,loader,2020-04-22-17-21-08-446620
+AKT1,Oncogene,loader,2020-04-22-17-21-20-404444
+AKT2,Oncogene,loader,2020-04-22-17-21-25-256566
+AKT3,Oncogene,loader,2020-04-22-17-21-27-386598
+ALK,Oncogene,loader,2020-04-22-17-21-29-607557
+ALOX12B,Neither,loader,2020-04-22-17-21-32-055960
+AMER1,Neither,loader,2020-04-22-17-30-35-106499
+ANKRD11,Neither,loader,2020-04-22-17-21-34-927991
+ANKRD26,Neither,loader,2020-04-22-17-21-36-480721
+APC,Tumor Suppressor Gene,loader,2020-04-22-17-21-39-748030
+APEX1,Oncogene,loader,2020-04-22-17-21-41-997843
+AR,Oncogene,loader,2020-04-22-17-21-45-719434
+ARAF,Oncogene,loader,2020-04-22-17-21-48-041121
+ARFRP1,Neither,loader,2020-04-22-17-21-49-598556
+ARID1A,Tumor Suppressor Gene,loader,2020-04-22-17-21-52-135103
+ARID1B,Tumor Suppressor Gene,loader,2020-04-22-17-21-55-004436
+ARID2,Tumor Suppressor Gene,loader,2020-04-22-17-21-56-821514
+ARID5B,Tumor Suppressor Gene,loader,2020-04-22-17-21-59-557068
+ASXL1,Tumor Suppressor Gene,loader,2020-04-22-17-22-02-681962
+ASXL2,Tumor Suppressor Gene,loader,2020-04-22-17-22-05-386440
+ATM,Tumor Suppressor Gene,loader,2020-04-22-17-22-12-848285
+ATP11B,Oncogene,loader,2020-04-22-17-22-16-588485
+ATR,Tumor Suppressor Gene,loader,2020-04-22-17-22-18-754842
+ATRX,Tumor Suppressor Gene,loader,2020-04-22-17-22-21-913425
+AURKA,Neither,loader,2020-04-22-17-22-26-067821
+AURKB,Neither,loader,2020-04-22-17-22-29-278596
+AXIN1,Tumor Suppressor Gene,loader,2020-04-22-17-22-34-216416
+AXIN2,Tumor Suppressor Gene,loader,2020-04-22-17-22-36-236775
+AXL,Oncogene,loader,2020-04-22-17-22-39-650467
+B2M,Tumor Suppressor Gene,loader,2020-04-22-17-22-42-855102
+BAP1,Tumor Suppressor Gene,loader,2020-04-22-17-22-50-640600
+BARD1,Tumor Suppressor Gene,loader,2020-04-22-17-22-53-885271
+BBC3,Oncogene,loader,2020-04-22-17-22-56-906804
+BCL10,Tumor Suppressor Gene,loader,2020-04-22-17-22-59-963549
+BCL2,Oncogene,loader,2020-04-22-17-23-02-748967
+BCL2L1,Oncogene,loader,2020-04-22-17-23-05-355164
+BCL2L11,Oncogene,loader,2020-04-22-17-23-08-001170
+BCL2L2,Neither,loader,2020-04-22-17-23-09-847337
+BCL6,Oncogene,loader,2020-04-22-17-23-11-839465
+BCL9,Oncogene,loader,2020-04-22-17-23-13-429329
+BCOR,Tumor Suppressor Gene,loader,2020-04-22-17-23-15-556738
+BCORL1,Both,loader,2020-04-22-17-23-18-539770
+BCR,Neither,loader,2020-04-22-17-23-22-946383
+BIRC2,Oncogene,loader,2020-04-22-17-23-25-608415
+BIRC3,Oncogene,loader,2020-04-22-17-23-27-988694
+BLM,Tumor Suppressor Gene,loader,2020-04-22-17-23-40-348536
+BMPR1A,Both,loader,2020-04-22-17-23-43-346040
+BRAF,Oncogene,loader,2020-04-22-17-23-47-022013
+BRCA1,Tumor Suppressor Gene,loader,2020-04-22-17-23-51-689816
+BRCA2,Tumor Suppressor Gene,loader,2020-04-22-17-23-55-530572
+BRD4,Oncogene,loader,2020-04-22-17-24-01-850155
+BRIP1,Tumor Suppressor Gene,loader,2020-04-22-17-24-05-042535
+BTG1,Tumor Suppressor Gene,loader,2020-04-22-17-24-07-033672
+BTK,Oncogene,loader,2020-04-22-17-24-09-753387
+BTLA,Neither,loader,2020-04-22-17-24-13-237315
+CALR,Oncogene,loader,2020-04-22-17-24-22-753258
+CARD11,Oncogene,loader,2020-04-22-17-24-25-372430
+CASP8,Tumor Suppressor Gene,loader,2020-04-22-17-24-28-451211
+CBFB,Tumor Suppressor Gene,loader,2020-04-22-17-24-30-070762
+CBL,Oncogene,loader,2020-04-22-17-24-32-220715
+CCL2,Neither,loader,2020-04-22-17-24-35-653189
+CCN6,Neither,loader,2020-04-22-17-51-04-241995
+CCND1,Oncogene,loader,2020-04-22-17-24-37-864853
+CCND2,Oncogene,loader,2020-04-22-17-24-39-423943
+CCND3,Oncogene,loader,2020-04-22-17-24-41-583097
+CCNE1,Oncogene,loader,2020-04-22-17-24-43-224819
+CCR2,Neither,loader,2020-04-22-17-24-46-200881
+CD163,Neither,loader,2020-04-22-17-24-49-280289
+CD2,Neither,loader,2020-04-22-17-24-50-884143
+CD244,Neither,loader,2020-04-22-17-24-54-847912
+CD27,Neither,loader,2020-04-22-17-24-57-014155
+CD274,Oncogene,loader,2020-04-22-17-25-01-035147
+CD276,Neither,loader,2020-04-22-17-25-04-808570
+CD28,Neither,loader,2020-04-22-17-25-08-095938
+CD38,Neither,loader,2020-04-22-17-25-18-035623
+CD3D,Neither,loader,2020-04-22-17-25-09-938321
+CD3E,Neither,loader,2020-04-22-17-25-13-262349
+CD3G,Neither,loader,2020-04-22-17-25-15-620117
+CD4,Neither,loader,2020-04-22-17-25-20-373361
+CD40,Neither,loader,2020-04-22-17-25-23-262538
+CD40LG,Neither,loader,2020-04-22-17-25-25-885539
+CD44,Oncogene,loader,2020-04-22-17-25-34-530036
+CD68,Neither,loader,2020-04-22-17-25-38-081305
+CD74,Oncogene,loader,2020-04-22-17-25-40-013565
+CD79A,Oncogene,loader,2020-04-22-17-25-42-270522
+CD79B,Oncogene,loader,2020-04-22-17-25-43-977661
+CD80,Neither,loader,2020-04-22-17-25-49-529761
+CD86,Neither,loader,2020-04-22-17-25-51-249507
+CD8A,Neither,loader,2020-04-22-17-25-53-594681
+CD8A,Neither,loader,2020-04-22-17-25-53-594681
+CD8B,Neither,loader,2020-04-22-17-25-55-342348
+CD8B,Neither,loader,2020-04-22-17-25-55-342348
+CDC73,Tumor Suppressor Gene,loader,2020-04-22-17-25-57-609198
+CDH1,Tumor Suppressor Gene,loader,2020-04-22-17-26-03-333153
+CDK12,Tumor Suppressor Gene,loader,2020-04-22-17-26-05-398385
+CDK4,Oncogene,loader,2020-04-22-17-26-08-878850
+CDK6,Oncogene,loader,2020-04-22-17-26-11-719241
+CDK8,Oncogene,loader,2020-04-22-17-26-13-865554
+CDKN1A,Both,loader,2020-04-22-17-26-18-237584
+CDKN1B,Tumor Suppressor Gene,loader,2020-04-22-17-26-20-992235
+CDKN2A,Tumor Suppressor Gene,loader,2020-04-22-17-26-24-107686
+CDKN2B,Tumor Suppressor Gene,loader,2020-04-22-17-26-25-828448
+CDKN2C,Tumor Suppressor Gene,loader,2020-04-22-17-26-28-794265
+CEBPA,Tumor Suppressor Gene,loader,2020-04-22-17-26-31-300896
+CENPA,Neither,loader,2020-04-22-17-26-40-336192
+CHD2,Tumor Suppressor Gene,loader,2020-04-22-17-26-43-215128
+CHD4,Oncogene,loader,2020-04-22-17-26-45-582728
+CHEK1,Tumor Suppressor Gene,loader,2020-04-22-17-26-48-196636
+CHEK2,Oncogene,loader,2020-04-22-17-26-51-316650
+CIC,Both,loader,2020-04-22-17-26-53-219292
+COP1,Neither,loader,2020-04-22-17-45-53-077073
+CREBBP,Both,loader,2020-04-22-17-27-01-130956
+CRKL,Oncogene,loader,2020-04-22-17-27-04-578354
+CRLF2,Oncogene,loader,2020-04-22-17-27-06-147071
+CSF1R,Oncogene,loader,2020-04-22-17-27-10-118028
+CSF3R,Oncogene,loader,2020-04-22-17-27-12-612340
+CSNK1A1,Neither,loader,2020-04-22-17-27-15-853911
+CSNK2A1,Oncogene,loader,2020-04-22-17-27-23-908295
+CTAG1B,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-15-26-766182
+CTAG2,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-15-30-260614
+CTCF,Tumor Suppressor Gene,loader,2020-04-22-17-27-29-029269
+CTLA4,Neither,loader,2020-04-22-17-27-31-290033
+CTNNA1,Neither,loader,2020-04-22-17-27-34-436934
+CTNNB1,Oncogene,loader,2020-04-22-17-27-43-598318
+CUL3,Tumor Suppressor Gene,loader,2020-04-22-17-28-00-408736
+CUX1,Both,loader,2020-04-22-17-28-05-076361
+CXCL10,Neither,loader,2020-04-22-17-28-08-962276
+CXCR2,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-15-38-558693
+CXCR4,Oncogene,loader,2020-04-22-17-28-14-627255
+CXCR6,Neither,loader,2020-04-22-17-28-16-457786
+CYLD,Tumor Suppressor Gene,loader,2020-04-22-17-28-24-478082
+DAXX,Both,loader,2020-04-22-17-28-29-815776
+DCUN1D1,Oncogene,loader,2020-04-22-17-28-32-863909
+DDR2,Oncogene,loader,2020-04-22-17-28-36-294021
+DDX41,Neither,loader,2020-04-22-17-28-38-831476
+DDX58,Neither,loader,2020-04-22-17-28-42-178675
+DHX15,Neither,loader,2020-04-22-17-28-43-999292
+DICER1,Tumor Suppressor Gene,loader,2020-04-22-17-28-46-458140
+DIS3,Neither,loader,2020-04-22-17-28-48-021250
+DNAJB1,Neither,loader,2020-04-22-17-28-50-190868
+DNMT1,Neither,loader,2020-04-22-17-28-52-977804
+DNMT3A,Oncogene,loader,2020-04-22-17-28-55-052712
+DNMT3B,Neither,loader,2020-04-22-17-28-57-988068
+DOT1L,Neither,loader,2020-04-22-17-29-00-509580
+E2F3,Neither,loader,2020-04-22-17-29-02-082632
+EED,Tumor Suppressor Gene,loader,2020-04-22-17-29-03-946552
+EGFL7,Neither,loader,2020-04-22-17-29-06-289964
+EGFR,Oncogene,loader,2020-04-22-17-29-14-591232
+EIF1AX,Neither,loader,2020-04-22-17-29-17-499035
+EIF4A2,Neither,loader,2020-04-22-17-29-20-136898
+EIF4E,Neither,loader,2020-04-22-17-29-23-005857
+ELOC,Neither,loader,2020-04-22-17-49-23-077889
+EML4,Neither,loader,2020-04-22-17-29-24-625221
+EMSY,Neither,loader,2020-04-22-17-24-19-695748
+ENTPD1,Neither,loader,2020-04-22-17-29-27-054319
+EP300,Tumor Suppressor Gene,loader,2020-04-22-17-29-37-605662
+EPCAM,Neither,loader,2020-04-22-17-29-41-188854
+EPHA3,Neither,loader,2020-04-22-17-29-43-136086
+EPHA5,Neither,loader,2020-04-22-17-29-44-673328
+EPHA7,Neither,loader,2020-04-22-17-29-46-986931
+EPHB1,Neither,loader,2020-04-22-17-29-49-118703
+ERBB2,Oncogene,loader,2020-04-22-17-29-52-131380
+ERBB3,Oncogene,loader,2020-04-22-17-29-55-326032
+ERBB4,Oncogene,loader,2020-04-22-17-29-58-944542
+ERCC1,Neither,loader,2020-04-22-17-30-00-706329
+ERCC2,Tumor Suppressor Gene,loader,2020-04-22-17-30-03-373946
+ERCC3,Tumor Suppressor Gene,loader,2020-04-22-17-30-05-550218
+ERCC4,Tumor Suppressor Gene,loader,2020-04-22-17-30-08-122994
+ERCC5,Tumor Suppressor Gene,loader,2020-04-22-17-30-09-912124
+ERG,Oncogene,loader,2020-04-22-17-30-11-704325
+ERRFI1,Neither,loader,2020-04-22-17-30-13-223350
+ESR1,Oncogene,loader,2020-04-22-17-30-16-760912
+ETS1,Oncogene,loader,2020-04-22-17-30-18-916280
+ETV1,Oncogene,loader,2020-04-22-17-30-21-338927
+ETV4,Oncogene,loader,2020-04-22-17-30-22-853504
+ETV5,Oncogene,loader,2020-04-22-17-30-24-563274
+ETV6,Tumor Suppressor Gene,loader,2020-04-22-17-30-26-386935
+EWSR1,Oncogene,loader,2020-04-22-17-30-28-761196
+EZH2,Oncogene,loader,2020-04-22-17-30-32-567203
+FANCA,Tumor Suppressor Gene,loader,2020-04-22-17-30-41-722470
+FANCC,Tumor Suppressor Gene,loader,2020-04-22-17-30-43-172369
+FANCD2,Tumor Suppressor Gene,loader,2020-04-22-17-30-45-664711
+FANCE,Tumor Suppressor Gene,loader,2020-04-22-17-30-47-368648
+FANCF,Tumor Suppressor Gene,loader,2020-04-22-17-30-48-947307
+FANCG,Tumor Suppressor Gene,loader,2020-04-22-17-30-50-580804
+FANCI,Tumor Suppressor Gene,loader,2020-04-22-17-30-52-515635
+FANCL,Tumor Suppressor Gene,loader,2020-04-22-17-30-56-614660
+FAS,Tumor Suppressor Gene,loader,2020-04-22-17-31-00-143048
+FAT1,Tumor Suppressor Gene,loader,2020-04-22-17-31-01-834208
+FBXW7,Tumor Suppressor Gene,loader,2020-04-22-17-31-10-374080
+FGF1,Oncogene,loader,2020-04-22-17-31-15-575866
+FGF10,Oncogene,loader,2020-04-22-17-31-18-317079
+FGF14,Oncogene,loader,2020-04-22-17-31-20-547168
+FGF19,Oncogene,loader,2020-04-22-17-31-21-981495
+FGF2,Oncogene,loader,2020-04-22-17-31-25-776011
+FGF23,Oncogene,loader,2020-04-22-17-31-27-431389
+FGF3,Oncogene,loader,2020-04-22-17-31-29-608934
+FGF4,Oncogene,loader,2020-04-22-17-31-31-013169
+FGF5,Oncogene,loader,2020-04-22-17-31-32-591693
+FGF6,Oncogene,loader,2020-04-22-17-31-34-100629
+FGF7,Oncogene,loader,2020-04-22-17-31-35-542115
+FGF8,Oncogene,loader,2020-04-22-17-31-38-153584
+FGF9,Oncogene,loader,2020-04-22-17-31-40-685212
+FGFR1,Oncogene,loader,2020-04-22-17-31-43-175843
+FGFR2,Oncogene,loader,2020-04-22-17-31-45-408927
+FGFR3,Oncogene,loader,2020-04-22-17-31-47-895666
+FGFR4,Oncogene,loader,2020-04-22-17-31-49-711171
+FH,Tumor Suppressor Gene,loader,2020-04-22-17-31-52-233116
+FLCN,Tumor Suppressor Gene,loader,2020-04-22-17-31-58-880751
+FLI1,Oncogene,loader,2020-04-22-17-32-03-170551
+FLT1,Neither,loader,2020-04-22-17-32-05-871883
+FLT3,Oncogene,loader,2020-04-22-17-32-08-665677
+FLT4,Oncogene,loader,2020-04-22-17-32-10-515654
+FOXA1,Oncogene,loader,2020-04-22-17-32-12-773564
+FOXL2,Oncogene,loader,2020-04-22-17-32-14-443306
+FOXO1,Both,loader,2020-04-22-17-32-16-938145
+FOXP1,Oncogene,loader,2020-04-22-17-32-21-971844
+FOXP3,Neither,loader,2020-04-22-17-32-26-537807
+FRS2,Neither,loader,2020-04-22-17-32-28-883980
+FUBP1,Oncogene,loader,2020-04-22-17-32-30-310458
+FYN,Oncogene,loader,2020-04-22-17-32-32-805334
+GABRA6,Neither,loader,2020-04-22-17-32-34-229034
+GAS6,Oncogene,loader,2020-04-22-17-32-36-666010
+GATA1,Both,loader,2020-04-22-17-32-38-757556
+GATA2,Oncogene,loader,2020-04-22-17-32-40-764000
+GATA3,Tumor Suppressor Gene,loader,2020-04-22-17-32-42-735723
+GATA4,Neither,loader,2020-04-22-17-32-46-846676
+GATA6,Neither,loader,2020-04-22-17-32-53-161274
+GEN1,Neither,loader,2020-04-22-17-32-59-024333
+GID4,Neither,loader,2020-04-22-17-33-02-030308
+GLI1,Oncogene,loader,2020-04-22-17-33-07-289247
+GNA11,Oncogene,loader,2020-04-22-17-33-09-504852
+GNA13,Neither,loader,2020-04-22-17-33-13-668606
+GNAQ,Oncogene,loader,2020-04-22-17-33-15-825485
+GNAS,Oncogene,loader,2020-04-22-17-33-18-541094
+GPS2,Tumor Suppressor Gene,loader,2020-04-22-17-33-25-456963
+GREM1,Neither,loader,2020-04-22-17-33-28-416259
+GRIN2A,Tumor Suppressor Gene,loader,2020-04-22-17-33-32-128066
+GRM3,Oncogene,loader,2020-04-22-17-33-33-921183
+GSK3B,Neither,loader,2020-04-22-17-33-38-678673
+GZMB,Neither,loader,2020-04-22-17-33-41-121022
+H1-2,Neither,loader,2020-04-22-17-33-59-647016
+H2BC5,Neither,loader,2020-04-22-17-34-01-499403
+H3-3A,Oncogene,loader,2020-04-22-17-33-43-782919
+H3-3B,Oncogene,loader,2020-04-22-17-33-47-215337
+H3-4,Neither,loader,2020-04-22-17-34-35-561132
+H3-5,Neither,loader,2020-04-22-17-33-48-720552
+H3C1,Neither,loader,2020-04-22-17-34-04-122361
+H3C10,Neither,loader,2020-04-22-17-34-19-376117
+H3C11,Neither,loader,2020-04-22-17-34-22-405349
+H3C12,Neither,loader,2020-04-22-17-34-25-386471
+H3C13,Neither,loader,2020-04-22-17-34-33-381307
+H3C14,Neither,loader,2020-04-22-17-34-30-506850
+H3C15,Neither,loader,2020-04-22-17-34-27-833802
+H3C2,Oncogene,loader,2020-04-22-17-34-06-683474
+H3C6,Neither,loader,2020-04-22-17-34-09-632740
+H3C7,Neither,loader,2020-04-22-17-34-13-104969
+H3C8,Neither,loader,2020-04-22-17-34-16-147782
+HAVCR2,Neither,loader,2020-04-22-17-33-54-524555
+HGF,Neither,loader,2020-04-22-17-33-58-090452
+HLA-A,Neither,loader,2020-04-22-17-34-53-250499
+HNF1A,Oncogene,loader,2020-04-22-17-34-58-239850
+HNRNPK,Neither,loader,2020-04-22-17-35-01-056960
+HOXB13,Neither,loader,2020-04-22-17-35-03-561102
+HRAS,Oncogene,loader,2020-04-22-17-35-07-972070
+HSD3B1,Neither,loader,2020-04-22-17-35-10-271888
+HSP90AA1,Neither,loader,2020-04-22-17-35-16-957137
+ICOS,Neither,loader,2020-04-22-17-35-19-292158
+ICOSLG,Neither,loader,2020-04-22-17-35-21-516511
+ID3,Tumor Suppressor Gene,loader,2020-04-22-17-35-23-087141
+IDH1,Oncogene,loader,2020-04-22-17-35-26-227208
+IDH2,Oncogene,loader,2020-04-22-17-35-28-854913
+IDO1,Neither,loader,2020-04-22-17-35-32-744768
+IFITM1,Oncogene,loader,2020-04-22-17-35-34-796054
+IFITM3,Oncogene,loader,2020-04-22-17-35-36-865067
+IFNG,Neither,loader,2020-04-22-17-35-39-129677
+IFNGR1,Neither,loader,2020-04-22-17-35-42-048749
+IGF1,Neither,loader,2020-04-22-17-35-46-657029
+IGF1R,Oncogene,loader,2020-04-22-17-35-50-464759
+IGF2,Neither,loader,2020-04-22-17-35-53-592149
+IKBKE,Neither,loader,2020-04-22-17-35-55-789646
+IKZF1,Tumor Suppressor Gene,loader,2020-04-22-17-35-58-707152
+IL10,Neither,loader,2020-04-22-17-36-02-225096
+IL1B,Neither,loader,2020-04-22-17-36-05-639597
+IL6,Oncogene,loader,2020-04-22-17-36-08-404163
+IL7R,Oncogene,loader,2020-04-22-17-36-11-075220
+INHA,Neither,loader,2020-04-22-17-36-12-536262
+INHBA,Neither,loader,2020-04-22-17-36-14-459218
+INPP4A,Neither,loader,2020-04-22-17-36-17-632538
+INPP4B,Neither,loader,2020-04-22-17-36-21-160279
+INSR,Neither,loader,2020-04-22-17-36-25-319400
+IRF2,Neither,loader,2020-04-22-17-36-27-918153
+IRF4,Both,loader,2020-04-22-17-36-30-684843
+IRS1,Neither,loader,2020-04-22-17-36-32-823005
+IRS2,Neither,loader,2020-04-22-17-36-34-639538
+JAK1,Oncogene,loader,2020-04-22-17-36-37-455842
+JAK2,Oncogene,loader,2020-04-22-17-36-41-970891
+JAK3,Oncogene,loader,2020-04-22-17-36-44-292974
+JUN,Oncogene,loader,2020-04-22-17-36-48-303372
+KAT6A,Oncogene,loader,2020-04-22-17-36-50-804638
+KDM5A,Oncogene,loader,2020-04-22-17-36-54-354982
+KDM5C,Tumor Suppressor Gene,loader,2020-04-22-17-36-56-947953
+KDM6A,Both,loader,2020-04-22-17-37-00-236351
+KDR,Oncogene,loader,2020-04-22-17-37-04-248223
+KEAP1,Tumor Suppressor Gene,loader,2020-04-22-17-37-11-442354
+KEL,Neither,loader,2020-04-22-17-37-15-098926
+KIF5B,Neither,loader,2020-04-22-17-37-17-919952
+KIT,Oncogene,loader,2020-04-22-17-37-20-745492
+KLF4,Both,loader,2020-04-22-17-37-23-277668
+KLHL6,Neither,loader,2020-04-22-17-37-24-816499
+KLRD1,Neither,loader,2020-04-22-17-37-27-039836
+KMT2A,Neither,loader,2020-04-22-17-39-16-192846
+KMT2B,Neither,loader,2020-04-22-17-37-29-451642
+KMT2C,Tumor Suppressor Gene,loader,2020-04-22-17-37-32-236569
+KMT2D,Both,loader,2020-04-22-17-37-35-531531
+KNSTRN,Oncogene,loader,2020-04-22-17-37-39-355415
+KRAS,Oncogene,loader,2020-04-22-17-37-43-640869
+LAG3,Neither,loader,2020-04-22-17-37-47-039823
+LAMP1,Neither,loader,2020-04-22-17-37-48-969134
+LATS1,Tumor Suppressor Gene,loader,2020-04-22-17-37-51-961094
+LATS2,Tumor Suppressor Gene,loader,2020-04-22-17-37-54-390396
+LMO1,Oncogene,loader,2020-04-22-17-37-55-968843
+LRP1B,Tumor Suppressor Gene,loader,2020-04-22-17-37-58-716214
+LYN,Oncogene,loader,2020-04-22-17-38-00-932366
+LZTR1,Tumor Suppressor Gene,loader,2020-04-22-17-38-04-051558
+MAGEA1,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-15-57-373970
+MAGEA3,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-15-59-825060
+MAGEA4,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-16-03-230723
+MAGI2,Neither,loader,2020-04-22-17-38-06-596314
+MAGOH,Oncogene,loader,2020-04-22-17-38-08-988109
+MALT1,Oncogene,loader,2020-04-22-17-38-11-789326
+MAP2K1,Oncogene,loader,2020-04-22-17-38-14-422318
+MAP2K2,Oncogene,loader,2020-04-22-17-38-16-552663
+MAP2K4,Both,loader,2020-04-22-17-38-18-847988
+MAP3K1,Both,loader,2020-04-22-17-38-21-449166
+MAP3K13,Both,loader,2020-04-22-17-38-23-165902
+MAP3K4,Neither,loader,2020-04-22-17-38-25-176646
+MAPK1,Oncogene,loader,2020-04-22-17-38-28-800064
+MAPK3,Neither,loader,2020-04-22-17-38-31-582022
+MAX,Oncogene,loader,2020-04-22-17-38-34-618513
+MCL1,Oncogene,loader,2020-04-22-17-38-37-200401
+MDC1,Neither,loader,2020-04-22-17-38-39-384372
+MDM2,Oncogene,loader,2020-04-22-17-38-48-488749
+MDM4,Oncogene,loader,2020-04-22-17-38-52-349483
+MED12,Oncogene,loader,2020-04-22-17-38-54-548117
+MEF2B,Neither,loader,2020-04-22-17-38-55-967701
+MEN1,Tumor Suppressor Gene,loader,2020-04-22-17-38-58-514751
+MET,Oncogene,loader,2020-04-22-17-39-02-363874
+MGA,Neither,loader,2020-04-22-17-39-04-813862
+MITF,Oncogene,loader,2020-04-22-17-39-07-194602
+MLH1,Tumor Suppressor Gene,loader,2020-04-22-17-39-10-571665
+MLLT3,Neither,loader,2020-04-22-17-39-21-707214
+MPL,Oncogene,loader,2020-04-22-17-39-24-788271
+MRE11,Neither,loader,2020-04-22-17-39-32-811577
+MS4A1,Neither,loader,2020-04-22-17-39-36-075620
+MSH2,Tumor Suppressor Gene,loader,2020-04-22-17-39-39-768040
+MSH3,Neither,loader,2020-04-22-17-39-41-755859
+MSH6,Tumor Suppressor Gene,loader,2020-04-22-17-39-44-238172
+MST1,Neither,loader,2020-04-22-17-39-46-200045
+MST1R,Neither,loader,2020-04-22-17-39-48-404524
+MTOR,Oncogene,loader,2020-04-22-17-40-01-098266
+MUTYH,Tumor Suppressor Gene,loader,2020-04-22-17-40-07-073417
+MX1,Neither,loader,2020-04-22-17-40-09-851109
+MYB,Oncogene,loader,2020-04-22-17-40-11-914463
+MYC,Oncogene,loader,2020-04-22-17-40-14-843626
+MYCL,Neither,loader,2020-04-22-17-40-18-250907
+MYCL,Neither,loader,2020-04-22-17-40-18-250907
+MYCN,Oncogene,loader,2020-04-22-17-40-20-190488
+MYD88,Oncogene,loader,2020-04-22-17-40-27-501184
+MYO18A,Oncogene,loader,2020-04-22-17-40-32-134773
+MYOD1,Oncogene,loader,2020-04-22-17-40-35-788677
+NAB2,Tumor Suppressor Gene,loader,2020-04-22-17-40-37-618727
+NBN,Tumor Suppressor Gene,loader,2020-04-22-17-40-40-123198
+NCOA3,Neither,loader,2020-04-22-17-40-41-921169
+NCOR1,Tumor Suppressor Gene,loader,2020-04-22-17-40-44-320243
+NECTIN2,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-16-09-478140
+NEGR1,Neither,loader,2020-04-22-17-40-46-039532
+NF1,Tumor Suppressor Gene,loader,2020-04-22-17-40-48-596181
+NF2,Tumor Suppressor Gene,loader,2020-04-22-17-40-50-668597
+NFE2L2,Oncogene,loader,2020-04-22-17-40-55-419980
+NFKBIA,Neither,loader,2020-04-22-17-40-58-096807
+NKX2-1,Oncogene,loader,2020-04-22-17-41-00-477980
+NKX2-8,Oncogene,loader,2020-04-22-17-41-01-891785
+NKX3-1,Neither,loader,2020-04-22-17-41-04-461516
+NOTCH1,Tumor Suppressor Gene,loader,2020-04-22-17-41-07-695897
+NOTCH2,Both,loader,2020-04-22-17-41-11-940549
+NOTCH3,Tumor Suppressor Gene,loader,2020-04-22-17-41-15-198871
+NOTCH4,Oncogene,loader,2020-04-22-17-41-17-027464
+NPM1,Oncogene,loader,2020-04-22-17-41-20-727515
+NRAS,Oncogene,loader,2020-04-22-17-41-23-759444
+NRG1,Tumor Suppressor Gene,loader,2020-04-22-17-41-26-716967
+NSD1,Neither,loader,2020-04-22-17-41-28-436400
+NTRK1,Oncogene,loader,2020-04-22-17-41-32-775919
+NTRK2,Oncogene,loader,2020-04-22-17-41-35-828468
+NTRK3,Oncogene,loader,2020-04-22-17-41-37-665517
+NUP93,Neither,loader,2020-04-22-17-41-40-322370
+NUTM1,Oncogene,loader,2020-04-22-17-41-42-754877
+PAK1,Neither,loader,2020-04-22-17-41-45-888535
+PAK3,Neither,loader,2020-04-22-17-41-48-069952
+PAK5,Neither,loader,2020-04-22-17-41-49-904315
+PALB2,Tumor Suppressor Gene,loader,2020-04-22-17-41-55-805781
+PARP1,Neither,loader,2020-04-22-17-42-20-242961
+PAX3,Oncogene,loader,2020-04-22-17-42-23-782237
+PAX5,Oncogene,loader,2020-04-22-17-42-26-553852
+PAX7,Neither,loader,2020-04-22-17-42-28-656652
+PAX8,Neither,loader,2020-04-22-17-42-30-240267
+PBRM1,Tumor Suppressor Gene,loader,2020-04-22-17-42-33-191529
+PDCD1,Neither,loader,2020-04-22-17-42-36-411006
+PDCD1LG2,Oncogene,loader,2020-04-22-17-42-38-551128
+PDGFRA,Oncogene,loader,2020-04-22-17-42-41-213828
+PDGFRB,Oncogene,loader,2020-04-22-17-42-43-741668
+PDK1,Neither,loader,2020-04-22-17-42-46-104464
+PDPK1,Neither,loader,2020-04-22-17-42-48-353668
+PGR,Neither,loader,2020-04-22-17-42-50-740170
+PHF6,Tumor Suppressor Gene,loader,2020-04-22-17-42-52-173399
+PHOX2B,Tumor Suppressor Gene,loader,2020-04-22-17-42-54-384120
+PIK3C2B,Neither,loader,2020-04-22-17-42-56-004643
+PIK3C2G,Neither,loader,2020-04-22-17-42-58-256285
+PIK3C3,Neither,loader,2020-04-22-17-43-00-615569
+PIK3CA,Oncogene,loader,2020-04-22-17-43-03-746744
+PIK3CB,Oncogene,loader,2020-04-22-17-43-06-066601
+PIK3CD,Neither,loader,2020-04-22-17-43-07-767333
+PIK3CG,Neither,loader,2020-04-22-17-43-09-827606
+PIK3R1,Tumor Suppressor Gene,loader,2020-04-22-17-43-13-616136
+PIK3R2,Neither,loader,2020-04-22-17-43-17-166564
+PIK3R3,Neither,loader,2020-04-22-17-43-19-621067
+PIM1,Oncogene,loader,2020-04-22-17-43-22-694512
+PLCG2,Neither,loader,2020-04-22-17-43-24-277752
+PLK2,Neither,loader,2020-04-22-17-43-25-754806
+PMAIP1,Neither,loader,2020-04-22-17-43-27-472935
+PMS1,Neither,loader,2020-04-22-17-43-29-297941
+PMS2,Tumor Suppressor Gene,loader,2020-04-22-17-43-31-363667
+PNP,Oncogene,loader,2020-04-22-17-43-33-809121
+PNRC1,Neither,loader,2020-04-22-17-43-35-324532
+POLD1,Tumor Suppressor Gene,loader,2020-04-22-17-43-42-506304
+POLE,Tumor Suppressor Gene,loader,2020-04-22-17-43-46-851083
+PPARG,Oncogene,loader,2020-04-22-17-43-49-941045
+PPM1D,Oncogene,loader,2020-04-22-17-43-53-818370
+PPP2R1A,Oncogene,loader,2020-04-22-17-43-57-558294
+PPP2R2A,Neither,loader,2020-04-22-17-43-59-821600
+PPP6C,Tumor Suppressor Gene,loader,2020-04-22-17-44-04-628983
+PRDM1,Tumor Suppressor Gene,loader,2020-04-22-17-44-07-861600
+PREX2,Oncogene,loader,2020-04-22-17-44-09-895513
+PRKAR1A,Both,loader,2020-04-22-17-44-11-781902
+PRKCI,Neither,loader,2020-04-22-17-44-14-424098
+PRKDC,Neither,loader,2020-04-22-17-44-22-546540
+PRKN,Neither,loader,2020-04-22-17-42-08-606693
+PRSS8,Neither,loader,2020-04-22-17-44-26-092043
+PTCH1,Tumor Suppressor Gene,loader,2020-04-22-17-44-28-886585
+PTEN,Tumor Suppressor Gene,loader,2020-04-22-17-44-32-765768
+PTPN11,Oncogene,loader,2020-04-22-17-44-35-933766
+PTPRD,Tumor Suppressor Gene,loader,2020-04-22-17-44-38-619505
+PTPRS,Neither,loader,2020-04-22-17-44-42-777254
+PTPRT,Tumor Suppressor Gene,loader,2020-04-22-17-44-45-759330
+PVR,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-16-15-641447
+QKI,Both,loader,2020-04-22-17-44-50-117185
+RAB35,Neither,loader,2020-04-22-17-44-52-091742
+RAC1,Oncogene,loader,2020-04-22-17-44-55-166320
+RAD21,Both,loader,2020-04-22-17-44-59-030592
+RAD50,Tumor Suppressor Gene,loader,2020-04-22-17-45-02-264238
+RAD51,Tumor Suppressor Gene,loader,2020-04-22-17-45-06-241489
+RAD51B,Tumor Suppressor Gene,loader,2020-04-22-17-45-08-183709
+RAD51C,Tumor Suppressor Gene,loader,2020-04-22-17-45-10-796616
+RAD51D,Tumor Suppressor Gene,loader,2020-04-22-17-45-12-651435
+RAD52,Tumor Suppressor Gene,loader,2020-04-22-17-45-14-876119
+RAD54L,Tumor Suppressor Gene,loader,2020-04-22-17-45-16-226123
+RAF1,Oncogene,loader,2020-04-22-17-45-19-864201
+RANBP2,Tumor Suppressor Gene,loader,2020-04-22-17-45-27-557615
+RARA,Oncogene,loader,2020-04-22-17-45-32-340841
+RASA1,Neither,loader,2020-04-22-17-45-34-657154
+RB1,Tumor Suppressor Gene,loader,2020-04-22-17-45-38-599917
+RBM10,Tumor Suppressor Gene,loader,2020-04-22-17-45-41-174730
+RECQL4,Both,loader,2020-04-22-17-45-44-230481
+REL,Oncogene,loader,2020-04-22-17-45-46-121289
+RET,Oncogene,loader,2020-04-22-17-45-50-647811
+RHEB,Oncogene,loader,2020-04-22-17-45-55-081463
+RHOA,Oncogene,loader,2020-04-22-17-46-02-447964
+RICTOR,Oncogene,loader,2020-04-22-17-46-05-118443
+RIT1,Neither,loader,2020-04-22-17-46-07-370765
+RNF43,Tumor Suppressor Gene,loader,2020-04-22-17-46-11-032494
+ROS1,Oncogene,loader,2020-04-22-17-46-13-370828
+RPS6KA4,Neither,loader,2020-04-22-17-46-15-077837
+RPS6KB1,Oncogene,loader,2020-04-22-17-46-23-325895
+RPS6KB2,Neither,loader,2020-04-22-17-46-26-827619
+RPTOR,Neither,loader,2020-04-22-17-46-29-013545
+RUNX1,Both,loader,2020-04-22-17-46-34-227017
+RUNX1T1,Both,loader,2020-04-22-17-46-38-521405
+RYBP,Neither,loader,2020-04-22-17-46-44-957048
+SDHA,Tumor Suppressor Gene,loader,2020-04-22-17-46-48-100294
+SDHAF2,Tumor Suppressor Gene,loader,2020-04-22-17-46-50-268208
+SDHB,Tumor Suppressor Gene,loader,2020-04-22-17-46-52-148005
+SDHC,Tumor Suppressor Gene,loader,2020-04-22-17-46-54-270619
+SDHD,Tumor Suppressor Gene,loader,2020-04-22-17-46-57-366016
+SETBP1,Tumor Suppressor Gene,loader,2020-04-22-17-46-59-551242
+SETD2,Tumor Suppressor Gene,loader,2020-04-22-17-47-07-392201
+SF3B1,Oncogene,loader,2020-04-22-17-47-12-787255
+SH2B3,Tumor Suppressor Gene,loader,2020-04-22-17-47-15-053528
+SH2D1A,Neither,loader,2020-04-22-17-47-18-143287
+SHQ1,Neither,loader,2020-04-22-17-47-20-053484
+SLIT2,Neither,loader,2020-04-22-17-47-22-526911
+SLX4,Tumor Suppressor Gene,loader,2020-04-22-17-47-25-558385
+SMAD2,Tumor Suppressor Gene,loader,2020-04-22-17-47-28-628296
+SMAD3,Tumor Suppressor Gene,loader,2020-04-22-17-47-31-333998
+SMAD4,Tumor Suppressor Gene,loader,2020-04-22-17-47-34-021246
+SMARCA4,Tumor Suppressor Gene,loader,2020-04-22-17-47-36-348964
+SMARCB1,Tumor Suppressor Gene,loader,2020-04-22-17-47-39-312852
+SMARCD1,Tumor Suppressor Gene,loader,2020-04-22-17-47-43-632860
+SMC1A,Tumor Suppressor Gene,loader,2020-04-22-17-47-46-453401
+SMC3,Neither,loader,2020-04-22-17-47-49-866391
+SMO,Oncogene,loader,2020-04-22-17-47-51-881736
+SNCAIP,Neither,loader,2020-04-22-17-47-53-885324
+SOCS1,Tumor Suppressor Gene,loader,2020-04-22-17-47-56-766690
+SOX10,Neither,loader,2020-04-22-17-48-00-270411
+SOX17,Neither,loader,2020-04-22-17-48-02-264700
+SOX2,Oncogene,loader,2020-04-22-17-48-04-486864
+SOX9,Neither,loader,2020-04-22-17-48-07-494995
+SPEN,Tumor Suppressor Gene,loader,2020-04-22-17-48-09-887608
+SPOP,Oncogene,loader,2020-04-22-17-48-12-634061
+SPTA1,Neither,loader,2020-04-22-17-48-15-095948
+SRC,Oncogene,loader,2020-04-22-17-48-22-128012
+SRSF2,Oncogene,loader,2020-04-22-17-48-25-384625
+SSX2,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-16-18-429416
+STAG1,Tumor Suppressor Gene,loader,2020-04-22-17-48-26-952760
+STAG2,Tumor Suppressor Gene,loader,2020-04-22-17-48-29-982740
+STAT1,Neither,loader,2020-04-22-17-48-33-968059
+STAT3,Oncogene,loader,2020-04-22-17-48-42-732593
+STAT4,Neither,loader,2020-04-22-17-48-45-439715
+STAT5A,Neither,loader,2020-04-22-17-48-48-555505
+STAT5B,Both,loader,2020-04-22-17-48-50-530383
+STK11,Tumor Suppressor Gene,loader,2020-04-22-17-48-53-589899
+STK40,Neither,loader,2020-04-22-17-48-55-260837
+SUFU,Tumor Suppressor Gene,loader,2020-04-22-17-49-02-267344
+SUZ12,Both,loader,2020-04-22-17-49-06-024470
+SYK,Oncogene,loader,2020-04-22-17-49-09-985128
+TAF1,Neither,loader,2020-04-22-17-49-14-911534
+TBX21,Neither,loader,2020-04-22-17-49-18-700183
+TBX3,Both,loader,2020-04-22-17-49-21-416218
+TCF3,Both,loader,2020-04-22-17-49-25-149767
+TCF7L2,Oncogene,loader,2020-04-22-17-49-28-633558
+TENT5C,Neither,loader,2020-04-22-17-30-39-389430
+TERC,Neither,loader,2020-04-22-17-49-29-434730
+TERT,Oncogene,loader,2020-04-22-17-49-32-629084
+TET1,Both,loader,2020-04-22-17-49-35-712357
+TET2,Tumor Suppressor Gene,loader,2020-04-22-17-49-38-984539
+TFE3,Oncogene,loader,2020-04-22-17-49-41-964091
+TFRC,Neither,loader,2020-04-22-17-49-44-522612
+TGFB1,Neither,loader,2020-04-22-17-49-47-462782
+TGFBR1,Neither,loader,2020-04-22-17-49-49-958806
+TGFBR2,Tumor Suppressor Gene,loader,2020-04-22-17-49-52-160955
+TIAF1,Oncogene,loader,2020-04-22-17-49-54-328600
+TIGIT,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-16-22-733289
+TLR7,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-16-27-172338
+TLR8,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-16-36-396851
+TLR9,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-16-41-056731
+TMEM127,Tumor Suppressor Gene,loader,2020-04-22-17-49-56-356129
+TMPRSS2,Neither,loader,2020-04-22-17-49-59-977618
+TNF,Neither,loader,2020-04-22-17-50-04-127358
+TNFAIP3,Tumor Suppressor Gene,loader,2020-04-22-17-50-07-143997
+TNFRSF14,Tumor Suppressor Gene,loader,2020-04-22-17-50-10-193803
+TNFRSF18,Neither,loader,2020-04-22-17-50-11-869053
+TNFRSF4,Neither,loader,2020-04-22-17-50-13-390373
+TNFRSF9,Neither,loader,2020-04-22-17-50-15-449278
+TNFSF4,Neither,loader,2020-04-22-17-50-18-320728
+TOP1,Oncogene,loader,2020-04-22-17-50-20-380331
+TOP2A,Neither,loader,2020-04-22-17-50-24-007816
+TP53,Tumor Suppressor Gene,loader,2020-04-22-17-50-30-548240
+TP63,Both,loader,2020-04-22-17-50-33-168692
+TRAF2,Neither,loader,2020-04-22-17-50-35-826636
+TRAF7,Tumor Suppressor Gene,loader,2020-04-22-17-50-38-751558
+TSC1,Tumor Suppressor Gene,loader,2020-04-22-17-50-44-164328
+TSC2,Tumor Suppressor Gene,loader,2020-04-22-17-50-48-425736
+TSHR,Oncogene,loader,2020-04-22-17-50-52-010155
+U2AF1,Oncogene,loader,2020-04-22-17-50-53-665166
+VEGFA,Neither,loader,2020-04-22-17-50-56-224755
+VHL,Tumor Suppressor Gene,loader,2020-04-22-17-50-59-543631
+VSIR,Neither,loader,2020-04-22-17-24-16-087225
+VTCN1,Neither,loader,2020-04-22-17-51-01-899951
+WT1,Tumor Suppressor Gene,loader,2020-04-22-17-51-08-629547
+XIAP,Neither,loader,2020-04-22-17-51-11-270556
+XPO1,Oncogene,loader,2020-04-22-17-51-13-853760
+XRCC2,Neither,loader,2020-04-22-17-51-16-245875
+YAP1,Neither,loader,2020-04-22-17-51-22-744782
+YES1,Neither,loader,2020-04-22-17-51-24-989080
+ZBTB2,Neither,loader,2020-04-22-17-51-27-618083
+ZBTB7A,Neither,loader,2020-04-22-17-51-32-126539
+ZFHX3,Tumor Suppressor Gene,loader,2020-04-22-17-51-37-225639
+ZNF217,Oncogene,loader,2020-04-22-17-51-39-284104
+ZNF703,Neither,loader,2020-04-22-17-51-41-228273
+ZRSR2,Tumor Suppressor Gene,loader,2020-04-22-17-51-42-801078
