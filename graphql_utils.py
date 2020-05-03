@@ -79,6 +79,7 @@ def send_mutation(mutation_payload:str, server:str) -> str:
     # print(responseBody)
     return responseBody
 
+
 def get_editor_id(name:str,server:str)->str:
     id = None
     query = f'{{ User(name:"{name}"){{id}} }}'
@@ -88,6 +89,20 @@ def get_editor_id(name:str,server:str)->str:
         result = response['data']['User'][0]
         id = result['id']
     return id
+
+
+def get_editor_ids(server:str)->dict:
+    id = None
+    query = f'{{ User{{id,name}} }}'
+    user_dict = {}
+    response = send_query(query, server)
+    if len(response['data']['User'])>0:
+
+        for u in response['data']['User']:
+            name = u['name']
+            id = u['id']
+            user_dict[name] = id
+    return user_dict
 
 def get_jax_descriptions(server)->dict:
     jax_dict: dict = {}
@@ -116,18 +131,26 @@ def get_jax_gene_ids(server)->dict:
     return jax_dict
 
 
+def get_dict_from_omnigene_es_fragment(es):
+    id: str =es['id']
+    statement: str = es['statement']
+    field: str = es['field']
+    es_dict = {'id': id, 'statement': statement, 'field': field}
+    return es_dict
+
+
 def get_omnigene_descriptions(server)->dict:
     omnigene_dict: dict = {}
-    query = f'{{ OmniGene  {{ id, name, geneDescription {{ statement,field }} }} }}'
+    query = f'{{ OmniGene  {{ id, name, geneDescription {{ id, statement,field }}, oncogenicCategory {{ id, statement,field }}, synonymsString {{ id, statement,field }} }} }}'
     response = send_query(query, server)
     if len(response['data']['OmniGene'])>0:
         for item in response['data']['OmniGene']:
             id: str = item['id']
             name: str = item['name']
-            description: str = item['geneDescription']
-            statement: str = description['statement']
-            field: str = description['field']
-            omnigene_dict[name] = {'id':id, 'statement':statement, 'field':field}
+            description = get_dict_from_omnigene_es_fragment(item['geneDescription'])
+            oncogenic_category = get_dict_from_omnigene_es_fragment(item['oncogenicCategory'])
+            synonyms = get_dict_from_omnigene_es_fragment(item['synonymsString'])
+            omnigene_dict[name] = {'id':id, 'description':description, 'oncogenic_category':oncogenic_category, 'synonyms':synonyms}
     return omnigene_dict
 
 
@@ -361,10 +384,10 @@ def PubMed_extractor(text:str)->list:
     return pmids
 
 def get_reference_from_pmid_by_metapub(pmid:str)->dict:
-    fetch = PubMedFetcher()
+    fetch = PubMedFetcher(cachedir='/Users/mglynias/Documents/GitHub/OmniSeqKnowledgebase_populate/cache')
     reference = None
     try:
-        time.sleep(0.1)
+        time.sleep(0.34)
         article = fetch.article_by_pmid(pmid)
         reference = {'journal':article.journal,
                      'authors': article.authors,
@@ -497,6 +520,14 @@ def createEditableStatement(statement:str, field:str, editor_id:str,pmid_extract
     s += write_references(id,statement,pmid_extractor,reference_dict,journal_dict,author_dict)
     return s, id
 
+def createEditableStatement_with_date(statement:str, field:str, editor_id:str,edit_date:str,pmid_extractor:callable,reference_dict:dict,journal_dict:dict,author_dict:dict) -> (str,str):
+    id:str = 'es_' + edit_date.replace('-','')
+    ede_id:str = 'ese_' + edit_date.replace('-','')
+    s = f'''{id} : createEditableStatement(deleted: false, edit_date: \\"{edit_date}\\", field: \\"{field}\\", id: \\"{id}\\",statement: \\"{statement}\\"),'''
+    s += f'{ede_id}: addEditableStatementEditor(editor:[\\"{editor_id}\\"], id:\\"{id}\\" ),'
+    s += write_references(id,statement,pmid_extractor,reference_dict,journal_dict,author_dict)
+    return s, id
+
 
 def create_jax_description(id,field,description,editor_id,pmid_extractor:callable,reference_dict:dict,journal_dict:dict,author_dict:dict):
     s, es_id = createEditableStatement(description,field,editor_id,pmid_extractor,reference_dict,journal_dict,author_dict)
@@ -588,7 +619,7 @@ def create_uniprot_entry(omni_gene: dict, editor_id: str,pmid_extractor:callable
         mutation_payload += s
     return mutation_payload
 
-def create_omniGene(omni_gene:dict, jax_gene_dict:dict, gene_description:str, editor_id, pmid_extractor:callable, reference_dict:dict, journal_dict:dict, author_dict:dict)->str:
+def create_omniGene(omni_gene:dict, jax_gene_dict:dict, gene_description:str, editor_id, pmid_extractor:callable, reference_dict:dict, journal_dict:dict, author_dict:dict)->(str,str,str,str):
     id = get_omnigene_id_from_entrez_id(omni_gene['entrez_gene_id'])
     gene: str = omni_gene['symbol']
     panel_name = omni_gene['panel_name']
@@ -647,7 +678,7 @@ def create_omniGene(omni_gene:dict, jax_gene_dict:dict, gene_description:str, ed
     else:
         print("no Uniprot_entry for ", gene)
 
-    return s
+    return s, id, id2, id3
 
 
 def return_graphql_boolean(b):

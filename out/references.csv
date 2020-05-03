@@ -1,19 +1,75 @@
 PMID,DOI,title,journal_name,volume,first_page,last_page,publication_Year,authors_names
 24456693,10.1016/j.leukres.2013.12.025,"BCR-ABL kinase domain mutations, including 2 novel mutations in imatinib resistant Malaysian chronic myeloid leukemia patients-Frequency and clinical outcome.",Leuk. Res.,38,454,459,2014,Azlan et al.
 10373409,10.1074/jbc.274.26.18141,Signaling pathways activated by oncogenic forms of Abl tyrosine kinase.,J. Biol. Chem.,274,18141,18144,1999,Zou & Calame
+23842646,10.1038/nrc3563,Role of ABL family kinases in cancer: from leukaemia to solid tumours.,Nat. Rev. Cancer,13,559,571,2013,Pendergast et al.
 17525340,10.1126/science.1139476,Abraxas and RAP80 form a BRCA1 protein complex required for the DNA damage response.,Science,316,1194,1198,2007,Smogorzewska et al.
+28780023,10.1016/j.bone.2017.08.001,Shared ACVR1 mutations in FOP and DIPG: Opportunities and challenges in extending biological and clinical implications across rare diseases.,Bone,109,91,None,2018,Jain et al.
+28232325,10.1161/ATVBAHA.116.308422,Alk2/ACVR1 and Alk3/BMPR1A Provide Essential Function for Bone Morphogenetic Protein-Induced Retinal Angiogenesis.,Arterioscler. Thromb. Vasc. Biol.,37,657,None,2017,Ola et al.
+15451563,10.1016/j.mce.2004.02.008,Modulation of activin and BMP signaling.,Mol. Cell. Endocrinol.,225,19,None,2004,Harrison et al.
+24886203,10.1186/1476-4598-13-126,"Homozygous deletion of the activin A receptor, type IB gene is associated with an aggressive cancer phenotype in pancreatic cancer.",Mol. Cancer,13,126,None,2014,de et al.
 28174424,10.1038/icb.2017.8,Targeting A2 adenosine receptors in cancer.,Immunol. Cell Biol.,95,333,None,2017,Turcotte et al.
 23856527,10.1016/j.phrs.2013.07.002,Adenosine receptors as potential targets in melanoma.,Pharmacol. Res.,76,34,None,2013,Montinaro et al.
 25377469,10.1158/0008-5472.CAN-13-3583,Myeloid expression of adenosine A2A receptor suppresses T and NK cell responses in the solid tumor microenvironment.,Cancer Res.,74,7250,7259,2014,Sag et al.
+26698230,10.3892/ijo.2015.3306,Akt inhibitors in cancer treatment: The long journey from drug discovery to clinical use (Review).,Int. J. Oncol.,48,869,885,2016,Libra et al.
+23297823,10.2174/1568009611313030002,Diverse mechanisms of AKT pathway activation in human malignancy.,Curr Cancer Drug Targets,13,234,244,2013,Cheung & Testa
+28557977,10.1038/bjc.2017.153,Akt as a target for cancer therapy: more is not always better (lessons from studies in mice).,Br. J. Cancer,117,159,None,2017,Chen et al.
+21620960,10.1016/j.cellsig.2011.05.004,Akt signalling in health and disease.,Cell. Signal.,23,1515,1527,2011,Vincent et al.
+18955974,10.1038/onc.2008.313,PI3K/Akt: getting it right matters.,Oncogene,27,6473,6488,2008,Franke
+27573755,10.1093/annonc/mdw301,The role of the ALK receptor in cancer biology.,Ann. Oncol.,27 Suppl 3,iii4,iii15,2016,Hallberg & Palmer
+25749034,10.18632/oncotarget.3122,NPM/ALK mutants resistant to ASP3026 display variable sensitivity to alternative ALK inhibitors but succumb to the novel compound PF-06463922.,Oncotarget,6,5720,5734,2015,Ceccon et al.
+21948233,10.1158/1078-0432.CCR-11-1648,ALK mutations conferring differential resistance to structurally diverse ALK inhibitors.,Clin. Cancer Res.,17,7394,7401,2011,Sos et al.
+21502284,10.1530/JME-11-0004,Anaplastic lymphoma kinase in human cancer.,J. Mol. Endocrinol.,47,R11,23,2011,Inghirami et al.
+24021977,10.1016/j.bbalip.2013.08.020,The importance of the lipoxygenase-hepoxilin pathway in the mammalian epidermal barrier.,Biochim. Biophys. Acta,1841,401,408,2014,Brash et al.
+23954555,10.1016/j.bbalip.2013.08.005,The role of lipoxygenases in epidermis.,Biochim. Biophys. Acta,1841,390,None,2014,F�rstenberger & Krieg
 17510365,10.1126/science/1141515,Wilms tumor suppressor WTX negatively regulates WNT/beta-catenin signaling.,Science,316,1043,1046,2007,Biechele et al.
 17925383,10.1242/jcs.011320,AMER1 regulates the distribution of the tumor suppressor APC between microtubules and the plasma membrane.,J. Cell. Sci.,120,3738,3747,2007,Alzner et al.
 21498506,10.1074/jbc.M111.224881,Structural and functional characterization of the Wnt inhibitor APC membrane recruitment 1 (Amer1).,J. Biol. Chem.,286,19204,19214,2011,Schambony et al.
+29258554,10.1186/s13023-017-0736-8,KBG syndrome.,Orphanet J Rare Dis,12,183,None,2017,Foster et al.
+18840648,10.1242/jcs.026351,Identification of ANKRD11 as a p53 coactivator.,J. Cell. Sci.,121,3541,3552,2008,Chen et al.
+15184363,10.1074/jbc.M403997200,Identification of a novel family of ankyrin repeats containing cofactors for p160 nuclear receptor coactivators.,J. Biol. Chem.,279,33799,33805,2004,Zhang et al.
+17521611,10.1016/j.bbrc.2007.05.017,Characterization of transcriptional regulatory domains of ankyrin repeat cofactor-1.,Biochem. Biophys. Res. Commun.,358,1034,1040,2007,Li et al.
+24430186,10.1172/JCI71861,Thrombocytopenia-associated mutations in the ANKRD26 regulatory region induce MAPK hyperactivation.,J. Clin. Invest.,124,580,591,2014,Solary et al.
+21669876,10.1074/jbc.M111.248435,Ankrd26 gene disruption enhances adipogenesis of mouse embryonic fibroblasts.,J. Biol. Chem.,286,27761,27768,2011,Xiang et al.
+29545013,10.1016/j.ejmg.2018.01.014,"Clinic, pathogenic mechanisms and drug testing of two inherited thrombocytopenias, ANKRD26-related Thrombocytopenia and MYH9-related diseases.",Eur J Med Genet,61,715,None,2018,Di et al.
+30562755,10.1159/000495956,Loss of Tumor Suppressor Gene Function in Human Cancer: An Overview.,Cell. Physiol. Biochem.,51,2647,None,2018,Shin et al.
+10959075,10.1016/s1359-6101(00)00011-3,Wnt/beta-catenin signaling.,Cytokine Growth Factor Rev.,11,273,282,2000,Akiyama
+24909511,10.1038/aps.2014.18,"Androgen receptor: structure, role in prostate cancer and drug discovery.",Acta Pharmacol. Sin.,36,3,None,2015,Li et al.
+21784131,10.1016/j.mce.2011.06.032,Androgen receptor-mediated gene repression.,Mol. Cell. Endocrinol.,352,46,None,2012,Baniahmad et al.
+24569458,10.1172/JCI72763,Oncogenic and sorafenib-sensitive ARAF mutations in lung adenocarcinoma.,J. Clin. Invest.,124,1582,1586,2014,Horn et al.
+17535970,10.1083/jcb.200703195,"DA-Raf1, a competent intrinsic dominant-negative antagonist of the Ras-ERK pathway, is required for myogenic differentiation.",J. Cell Biol.,177,781,793,2007,Takano et al.
+16129887,10.1242/jcs.02524,Roles of ARFRP1 (ADP-ribosylation factor-related protein 1) in post-Golgi membrane trafficking.,J. Cell. Sci.,118,4039,4048,2005,Kitamura et al.
+29136504,10.1016/j.ccell.2017.10.007,Arid1a Has Context-Dependent Oncogenic and Tumor Suppressor Functions in Liver Cancer.,Cancer Cell,32,574,589.e6,2017,Zhu et al.
+15170388,10.1042/BJ20040524,Two related ARID family proteins are alternative subunits of human SWI/SNF complexes.,Biochem. J.,383,319,325,2004,Van et al.
+25674384,10.5582/irdr.2014.01021,ARID1B-mediated disorders: Mutations and possible mechanisms.,Intractable Rare Dis Res,4,17,None,2015,Lockhart et al.
+28238438,10.1016/j.jhep.2016.12.026,ARID2 modulates DNA damage response in human hepatocellular carcinoma cells.,J. Hepatol.,66,942,None,2017,Tanaka et al.
+11959810,None,"ARID proteins: a diverse family of DNA binding proteins implicated in the control of cell growth, differentiation, and development.",Cell Growth Differ.,13,95,None,2002,Wilsker et al.
+21532585,10.1038/ncb2228,PKA-dependent regulation of the histone lysine demethylase complex PHF2-ARID5B.,Nat. Cell Biol.,13,668,675,2011,Imai et al.
+21890642,10.1101/sqb.2011.76.010736,Regulated histone methyltransferase and demethylase complexes in the control of genes by nuclear receptors.,Cold Spring Harb. Symp. Quant. Biol.,76,165,173,2011,Fujiki et al.
+23736028,10.1038/bjc.2013.281,Functional and cancer genomics of ASXL family members.,Br. J. Cancer,109,299,None,2013,Katoh
+28516957,10.1038/ncomms15429,ASXL2 is essential for haematopoiesis and acts as a haploinsufficient tumour suppressor in leukemia.,Nat Commun,8,15429,None,2017,Durham et al.
+21047783,10.1074/jbc.M110.177816,Additional sex comb-like (ASXL) proteins 1 and 2 play opposite roles in adipogenesis via reciprocal regulation of peroxisome proliferator-activated receptor {gamma}.,J. Biol. Chem.,286,1354,1363,2011,Kim et al.
+22079189,10.1016/j.tibs.2011.10.002,The ATM protein kinase and cellular redox signaling: beyond the DNA damage response.,Trends Biochem. Sci.,37,15,None,2012,Paull & Ditch
+31836456,10.1016/j.pharmthera.2019.107450,Targeting ATR as Cancer Therapy: A new era for synthetic lethality and synergistic combinations?,Pharmacol. Ther.,207,107450,None,2020,Hall et al.
+23583268,10.1016/j.ctrv.2013.03.002,Targeting ATR in DNA damage response and cancer therapeutics.,Cancer Treat. Rev.,40,109,117,2014,Prevo et al.
+25512053,10.1016/j.pharmthera.2014.12.001,ATM and ATR as therapeutic targets in cancer.,Pharmacol. Ther.,149,124,138,2015,Weber & Ryan
+29054375,10.1016/j.radonc.2017.09.043,ATR/CHK1 inhibitors and cancer therapy.,Radiother Oncol,126,450,None,2018,Qiu et al.
+28218735,10.1038/oncsis.2016.80,Aurora kinase A regulates Survivin stability through targeting FBXL7 in gastric cancer drug resistance and prognosis.,Oncogenesis,6,e298,None,2017,Xu et al.
+26246606,10.1091/mbc.E15-02-0113,The nucleoporin ALADIN regulates Aurora A localization to ensure robust mitotic spindle formation.,Mol. Biol. Cell,26,3424,3438,2015,Arocena et al.
+22864622,10.1007/s00018-012-1073-7,Aurora A kinase (AURKA) in normal and pathological cell division.,Cell. Mol. Life Sci.,70,661,687,2013,Serebriiskii et al.
+28095398,10.1038/bjc.2016.453,Aurora B expression modulates paclitaxel response in non-small cell lung cancer.,Br. J. Cancer,116,592,None,2017,Gosney et al.
+24814515,10.1038/ncb2959,ANCHR mediates Aurora-B-dependent abscission checkpoint control through retention of VPS4.,Nat. Cell Biol.,16,550,560,2014,Thoresen et al.
+30166345,10.1074/jbc.RA118.005127,Analysis of binding interfaces of the human scaffold protein AXIN1 by peptide microarrays.,J. Biol. Chem.,293,16337,None,2018,Harnos et al.
+10700176,10.1038/73448,"AXIN1 mutations in hepatocellular carcinomas, and growth suppression in cancer cells by virus-mediated transfer of AXIN1.",Nat. Genet.,24,245,250,2000,Sasaki et al.
+25236910,10.1016/j.canlet.2014.09.018,AXIN1 and AXIN2 variants in gastrointestinal cancers.,Cancer Lett.,355,1,None,2014,Fearon & Mazzoni
+28072762,10.1038/bjc.2016.428,Giving AXL the axe: targeting AXL in human malignancy.,Br. J. Cancer,116,415,None,2017,Byers et al.
+28251492,10.1007/s11912-017-0579-4,Key Roles of AXL and MER Receptor Tyrosine Kinases in Resistance to Multiple Anticancer Therapies.,Curr Oncol Rep,19,19,None,2017,Schoumacher & Burbridge
 21220749,10.1182/blood-2010-08-301325,Dichotomous regulation of GVHD through bidirectional functions of the BTLA-HVEM pathway.,Blood,117,2506,2514,2011,Sakoda et al.
 31774112,10.1042/BSR20191770,Investigation of BTLA tagging variants with risk of esophagogastric junction adenocarcinoma.,Biosci. Rep.,39,None,None,2019,Liu et al.
 27717503,10.1016/j.cellimm.2016.09.015,BTLA-expressing CD11c antigen presenting cells in patients with active tuberculosis exhibit low capacity to stimulate T cell proliferation.,Cell. Immunol.,311,28,None,2017,Xiang et al.
 26885690,10.18632/oncotarget.7376,Targeting the CCL2-CCR2 signaling axis in cancer metastasis.,Oncotarget,7,28697,28710,2016,Lim et al.
 22789541,10.1016/j.ccr.2012.05.023,Endothelial CCR2 signaling induced by colon carcinoma cells enables extravasation via the JAK2-Stat5 and p38MAPK pathway.,Cancer Cell,22,91,None,2012,Knust et al.
 15900302,10.1038/sj.bjc.6602596,Reduced expression of chemokine (C-C motif) ligand-2 (CCL2) in ovarian adenocarcinoma.,Br. J. Cancer,92,2024,2031,2005,Huggard et al.
+27252383,10.1242/jcs.186247,CCN6 regulates mitochondrial function.,J. Cell. Sci.,129,2841,2851,2016,Patra et al.
 23938203,10.1016/j.jmb.2013.08.001,Structural basis for the interaction of human beta-defensin 6 and its putative chemokine receptor CCR2 and breast cancer microvesicles.,J. Mol. Biol.,425,4479,4495,2013,Lima et al.
 15995708,10.1038/ni1222,Pivotal function for cytoplasmic protein FROUNT in CCR2-mediated monocyte chemotaxis.,Nat. Immunol.,6,827,835,2005,Motomura et al.
 23408426,10.1074/jbc.M112.447359,Tyrosine sulfation of chemokine receptor CCR2 enhances interactions with both monomeric and dimeric forms of the chemokine monocyte chemoattractant protein-1 (MCP-1).,J. Biol. Chem.,288,10024,10034,2013,Wedderburn et al.
@@ -72,6 +128,8 @@ PMID,DOI,title,journal_name,volume,first_page,last_page,publication_Year,authors
 28053024,10.1158/1078-0432.CCR-15-2240,Molecular Pathways: Revisiting Glycogen Synthase Kinase-3beta as a Target for the Treatment of Cancer.,Clin. Cancer Res.,23,1891,None,2017,Ugolkov et al.
 29379583,10.1155/2017/4629495,Multifaceted Roles of GSK-3 in Cancer and Autophagy-Related Diseases.,Oxid Med Cell Longev,2017,4629495,None,2017,Carpino et al.
 29669300,10.1016/j.biopha.2018.04.023,GZMB gene silencing confers protection against synovial tissue hyperplasia and articular cartilage tissue injury in rheumatoid arthritis through the MAPK signaling pathway.,Biomed. Pharmacother.,103,346,None,2018,Mou et al.
+29184082,10.1038/s41598-017-16472-5,Identification of a histone family gene signature for predicting the prognosis of cervical cancer patients.,Sci Rep,7,16495,None,2017,Tian et al.
+23717473,10.1371/journal.pone.0063745,A subset of histone H2B genes produces polyadenylated mRNAs under a variety of cellular conditions.,PLoS ONE,8,e63745,None,2013,Kriegs et al.
 14718166,10.1016/s0092-8674(03)01064-x,Histone H3.1 and H3.3 complexes mediate nucleosome assembly pathways dependent or independent of DNA synthesis.,Cell,116,51,None,2004,Almouzni et al.
 24825777,10.1007/s12026-014-8524-1,Regulation of T cell responses by the receptor molecule Tim-3.,Immunol. Res.,59,56,None,2014,Gorman & Colgan
 31733828,10.1053/j.seminoncol.2019.08.005,Significance of TIM3 expression in cancer: From biology to the clinic.,Semin. Oncol.,46,372,None,2019,Solinas et al.
@@ -88,6 +146,7 @@ PMID,DOI,title,journal_name,volume,first_page,last_page,publication_Year,authors
 18424693,10.4049/jimmunol.180.9.5771,IL-10: the master regulator of immunity to infection.,J. Immunol.,180,5771,5777,2008,Riley et al.
 18083576,10.1016/j.immuni.2007.10.013,The heterodimeric assembly of the CD94-NKG2 receptor family and implications for human leukocyte antigen-E recognition.,Immunity,27,900,911,2007,Johnson et al.
 10023772,10.1016/s1074-7613(00)80008-4,Structure of CD94 reveals a novel C-type lectin fold: implications for the NK cell-associated CD94/NKG2 receptors.,Immunity,10,75,None,1999,Boyington et al.
+23622131,10.1053/j.gastro.2013.01.071,Roles for KRAS in pancreatic tumor development and progression.,Gastroenterology,144,1220,1229,2013,di & Logsdon
 29439955,10.1182/blood-2017-06-792267,Dual PD1/LAG3 immune checkpoint blockade limits tumor development in a murine model of chronic lymphocytic leukemia.,Blood,131,1617,None,2018,Berchem et al.
 28258692,10.1111/imr.12519,LAG3 (CD223) as a cancer immunotherapy target.,Immunol. Rev.,276,80,None,2017,Marciscano et al.
 29900067,10.1080/2162402X.2018.1448332,Blockade of LAG3 enhances responses of tumor-infiltrating T cells in mismatch repair-proficient liver metastases of colorectal cancer.,Oncoimmunology,7,e1448332,None,2018,Mancham et al.
@@ -112,6 +171,8 @@ PMID,DOI,title,journal_name,volume,first_page,last_page,publication_Year,authors
 26432723,10.1016/j.bbcan.2015.09.002,Signaling pathway and dysregulation of PD1 and its ligands in lymphoid malignancies.,Biochim. Biophys. Acta,1865,58,None,2016,Xia et al.
 11224527,10.1038/85330,PD-L2 is a second ligand for PD-1 and inhibits T cell activation.,Nat. Immunol.,2,261,268,2001,Latchman et al.
 28018338,10.3389/fimmu.2016.00550,The PD1:PD-L1/2 Pathway from Discovery to Clinical Implementation.,Front Immunol,7,550,None,2016,Boussiotis et al.
+19801972,10.1038/ncb1981,Transcriptional repression of p53 by parkin and impairment by mutations associated with autosomal recessive juvenile Parkinson's disease.,Nat. Cell Biol.,11,1370,1375,2009,Checler et al.
+25621951,10.1038/ncb3097,USP30 and parkin homeostatically regulate atypical ubiquitin chains on mitochondria.,Nat. Cell Biol.,17,160,169,2015,Cunningham et al.
 28730595,10.1111/cas.13324,"CD155, an onco-immunologic molecule in human tumors.",Cancer Sci.,108,1934,None,2017,Zheng et al.
 15194502,10.1016/j.bbrc.2004.05.111,Ligand stimulation of CD155alpha inhibits cell adhesion and enhances cell migration in fibroblasts.,Biochem. Biophys. Res. Commun.,319,1253,1264,2004,Ohka et al.
 30186454,10.3892/etm.2018.6425,Antitumor effect of recombinant Mycobacterium smegmatis expressing MAGEA3 and SSX2 fusion proteins.,Exp Ther Med,16,2160,None,2018,Lei et al.
@@ -137,6 +198,9 @@ PMID,DOI,title,journal_name,volume,first_page,last_page,publication_Year,authors
 26215166,10.1007/s12016-015-8498-3,"OX40, OX40L and Autoimmunity: a Comprehensive Review.",Clin Rev Allergy Immunol,50,312,332,2016,Lane et al.
 28092803,10.1016/j.molimm.2017.01.006,OX40: Structure and function - What questions remain?,Mol. Immunol.,83,13,None,2017,Willoughby et al.
 12384425,10.1182/blood-2001-11-0136,Role of 4-1BB (CD137) in the functional activation of cord blood CD28(-)CD8(+) T cells.,Blood,100,3253,3260,2002,Kim et al.
+10065147,10.1007/s000180050265,Introduction: p53--the first twenty years.,Cell. Mol. Life Sci.,55,9,None,1999,Oren & Rotter
+30577483,10.3390/cancers11010004,Regulators of Oncogenic Mutant TP53 Gain of Function.,Cancers (Basel),11,None,None,2018,Yamamoto & Iwakuma
+22713868,10.1101/gad.190678.112,"Mutant p53: one name, many proteins.",Genes Dev.,26,1268,1286,2012,Prives & Freed-Pastor
 28776578,10.1038/modpathol.2017.89,Negative immune checkpoint regulation by VISTA: a mechanism of acquired resistance to anti-PD-1 therapy in metastatic melanoma patients.,Mod. Pathol.,30,1666,None,2017,Scolyer et al.
 31781843,10.1007/s00262-019-02434-5,VISTA expression is associated with a favorable prognosis in patients with high-grade serous ovarian cancer.,Cancer Immunol. Immunother.,69,33,None,2020,Xiang et al.
 30382166,10.1038/s41416-018-0313-5,VISTA expressed in tumour cells regulates T cell function.,Br. J. Cancer,120,115,None,2019,Yamaguchi et al.

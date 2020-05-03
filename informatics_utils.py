@@ -25,8 +25,11 @@ def fetch_gene_id_by_gene_name(gene_name:str)->str:
 
     responseBody = r.json()
     # print(responseBody)
-    if 'hits' in responseBody and len(responseBody['hits'])>0 and 'entrezgene' in responseBody['hits'][0]:
-        entrezgene_id = responseBody['hits'][0]['entrezgene']
+    if 'hits' in responseBody and len(responseBody['hits'])>0:
+        for entry in responseBody['hits']:
+            if "entrezgene" in entry:
+                entrezgene_id = entry['entrezgene']
+                break;
     return entrezgene_id
 
 

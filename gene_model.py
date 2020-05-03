@@ -126,8 +126,9 @@ def write_omni_genes(omini_genes:list, server:str,editor_id:str,jax_gene_dict,pm
                                            author_dict)
                 s += create_uniprot_entry(omni_gene, editor_id, sp_pmid_extractor, reference_dict, journal_dict,
                                           author_dict)
-                s += create_omniGene(omni_gene, jax_gene_dict, omni_gene['summary'], editor_id, pmid_extractor,
+                m, omnigene_id, cat_id, syn_id  = create_omniGene(omni_gene, jax_gene_dict, omni_gene['summary'], editor_id, pmid_extractor,
                                      reference_dict, journal_dict, author_dict)
+                s += m
                 send_mutation(s,server)
             else:
                 print('no gene_info for',gene_name)

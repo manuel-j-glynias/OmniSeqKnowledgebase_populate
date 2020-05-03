@@ -1,0 +1,597 @@
+gene_name,oncogenicCategory,editor,edit_date,field
+ABL1,Oncogene,loader,2020-04-22-17-20-57-009374,OncogenicCategory_omnigene_25
+ABL2,Oncogene,loader,2020-04-22-17-20-59-166344,OncogenicCategory_omnigene_27
+ABRAXAS1,Neither,loader,2020-04-22-17-30-36-728421,OncogenicCategory_omnigene_84142
+ACVR1,Oncogene,loader,2020-04-22-17-21-01-224462,OncogenicCategory_omnigene_90
+ACVR1B,Tumor Suppressor Gene,loader,2020-04-22-17-21-03-499054,OncogenicCategory_omnigene_91
+ACVRL1,Oncogene,loader,2020-04-22-17-21-05-978721,OncogenicCategory_omnigene_94
+ADGRA2,Neither,loader,2020-04-22-17-33-21-459945,OncogenicCategory_omnigene_25960
+ADORA2A,Neither,loader,2020-04-22-17-21-08-446620,OncogenicCategory_omnigene_135
+AKT1,Oncogene,loader,2020-04-22-17-21-20-404444,OncogenicCategory_omnigene_207
+AKT2,Oncogene,loader,2020-04-22-17-21-25-256566,OncogenicCategory_omnigene_208
+AKT3,Oncogene,loader,2020-04-22-17-21-27-386598,OncogenicCategory_omnigene_10000
+ALK,Oncogene,loader,2020-04-22-17-21-29-607557,OncogenicCategory_omnigene_238
+ALOX12B,Neither,loader,2020-04-22-17-21-32-055960,OncogenicCategory_omnigene_242
+AMER1,Neither,loader,2020-04-22-17-30-35-106499,OncogenicCategory_omnigene_139285
+ANKRD11,Neither,loader,2020-04-22-17-21-34-927991,OncogenicCategory_omnigene_29123
+ANKRD26,Neither,loader,2020-04-22-17-21-36-480721,OncogenicCategory_omnigene_22852
+APC,Tumor Suppressor Gene,loader,2020-04-22-17-21-39-748030,OncogenicCategory_omnigene_324
+APEX1,Oncogene,loader,2020-04-22-17-21-41-997843,OncogenicCategory_omnigene_328
+AR,Oncogene,loader,2020-04-22-17-21-45-719434,OncogenicCategory_omnigene_367
+ARAF,Oncogene,loader,2020-04-22-17-21-48-041121,OncogenicCategory_omnigene_369
+ARFRP1,Neither,loader,2020-04-22-17-21-49-598556,OncogenicCategory_omnigene_10139
+ARID1A,Tumor Suppressor Gene,loader,2020-04-22-17-21-52-135103,OncogenicCategory_omnigene_8289
+ARID1B,Tumor Suppressor Gene,loader,2020-04-22-17-21-55-004436,OncogenicCategory_omnigene_57492
+ARID2,Tumor Suppressor Gene,loader,2020-04-22-17-21-56-821514,OncogenicCategory_omnigene_196528
+ARID5B,Tumor Suppressor Gene,loader,2020-04-22-17-21-59-557068,OncogenicCategory_omnigene_84159
+ASXL1,Tumor Suppressor Gene,loader,2020-04-22-17-22-02-681962,OncogenicCategory_omnigene_171023
+ASXL2,Tumor Suppressor Gene,loader,2020-04-22-17-22-05-386440,OncogenicCategory_omnigene_55252
+ATM,Tumor Suppressor Gene,loader,2020-04-22-17-22-12-848285,OncogenicCategory_omnigene_472
+ATP11B,Oncogene,loader,2020-04-22-17-22-16-588485,OncogenicCategory_omnigene_23200
+ATR,Tumor Suppressor Gene,loader,2020-04-22-17-22-18-754842,OncogenicCategory_omnigene_545
+ATRX,Tumor Suppressor Gene,loader,2020-04-22-17-22-21-913425,OncogenicCategory_omnigene_546
+AURKA,Neither,loader,2020-04-22-17-22-26-067821,OncogenicCategory_omnigene_6790
+AURKB,Neither,loader,2020-04-22-17-22-29-278596,OncogenicCategory_omnigene_9212
+AXIN1,Tumor Suppressor Gene,loader,2020-04-22-17-22-34-216416,OncogenicCategory_omnigene_8312
+AXIN2,Tumor Suppressor Gene,loader,2020-04-22-17-22-36-236775,OncogenicCategory_omnigene_8313
+AXL,Oncogene,loader,2020-04-22-17-22-39-650467,OncogenicCategory_omnigene_558
+B2M,Tumor Suppressor Gene,loader,2020-04-22-17-22-42-855102,OncogenicCategory_omnigene_567
+BAP1,Tumor Suppressor Gene,loader,2020-04-22-17-22-50-640600,OncogenicCategory_omnigene_8314
+BARD1,Tumor Suppressor Gene,loader,2020-04-22-17-22-53-885271,OncogenicCategory_omnigene_580
+BBC3,Oncogene,loader,2020-04-22-17-22-56-906804,OncogenicCategory_omnigene_27113
+BCL10,Tumor Suppressor Gene,loader,2020-04-22-17-22-59-963549,OncogenicCategory_omnigene_8915
+BCL2,Oncogene,loader,2020-04-22-17-23-02-748967,OncogenicCategory_omnigene_596
+BCL2L1,Oncogene,loader,2020-04-22-17-23-05-355164,OncogenicCategory_omnigene_598
+BCL2L11,Oncogene,loader,2020-04-22-17-23-08-001170,OncogenicCategory_omnigene_10018
+BCL2L2,Neither,loader,2020-04-22-17-23-09-847337,OncogenicCategory_omnigene_599
+BCL6,Oncogene,loader,2020-04-22-17-23-11-839465,OncogenicCategory_omnigene_604
+BCL9,Oncogene,loader,2020-04-22-17-23-13-429329,OncogenicCategory_omnigene_607
+BCOR,Tumor Suppressor Gene,loader,2020-04-22-17-23-15-556738,OncogenicCategory_omnigene_54880
+BCORL1,Both,loader,2020-04-22-17-23-18-539770,OncogenicCategory_omnigene_63035
+BCR,Neither,loader,2020-04-22-17-23-22-946383,OncogenicCategory_omnigene_613
+BIRC2,Oncogene,loader,2020-04-22-17-23-25-608415,OncogenicCategory_omnigene_329
+BIRC3,Oncogene,loader,2020-04-22-17-23-27-988694,OncogenicCategory_omnigene_330
+BLM,Tumor Suppressor Gene,loader,2020-04-22-17-23-40-348536,OncogenicCategory_omnigene_641
+BMPR1A,Both,loader,2020-04-22-17-23-43-346040,OncogenicCategory_omnigene_657
+BRAF,Oncogene,loader,2020-04-22-17-23-47-022013,OncogenicCategory_omnigene_673
+BRCA1,Tumor Suppressor Gene,loader,2020-04-22-17-23-51-689816,OncogenicCategory_omnigene_672
+BRCA2,Tumor Suppressor Gene,loader,2020-04-22-17-23-55-530572,OncogenicCategory_omnigene_675
+BRD4,Oncogene,loader,2020-04-22-17-24-01-850155,OncogenicCategory_omnigene_23476
+BRIP1,Tumor Suppressor Gene,loader,2020-04-22-17-24-05-042535,OncogenicCategory_omnigene_83990
+BTG1,Tumor Suppressor Gene,loader,2020-04-22-17-24-07-033672,OncogenicCategory_omnigene_694
+BTK,Oncogene,loader,2020-04-22-17-24-09-753387,OncogenicCategory_omnigene_695
+BTLA,Neither,loader,2020-04-22-17-24-13-237315,OncogenicCategory_omnigene_151888
+CALR,Oncogene,loader,2020-04-22-17-24-22-753258,OncogenicCategory_omnigene_811
+CARD11,Oncogene,loader,2020-04-22-17-24-25-372430,OncogenicCategory_omnigene_84433
+CASP8,Tumor Suppressor Gene,loader,2020-04-22-17-24-28-451211,OncogenicCategory_omnigene_841
+CBFB,Tumor Suppressor Gene,loader,2020-04-22-17-24-30-070762,OncogenicCategory_omnigene_865
+CBL,Oncogene,loader,2020-04-22-17-24-32-220715,OncogenicCategory_omnigene_867
+CCL2,Neither,loader,2020-04-22-17-24-35-653189,OncogenicCategory_omnigene_6347
+CCN6,Neither,loader,2020-04-22-17-51-04-241995,OncogenicCategory_omnigene_8838
+CCND1,Oncogene,loader,2020-04-22-17-24-37-864853,OncogenicCategory_omnigene_595
+CCND2,Oncogene,loader,2020-04-22-17-24-39-423943,OncogenicCategory_omnigene_894
+CCND3,Oncogene,loader,2020-04-22-17-24-41-583097,OncogenicCategory_omnigene_896
+CCNE1,Oncogene,loader,2020-04-22-17-24-43-224819,OncogenicCategory_omnigene_898
+CCR2,Neither,loader,2020-04-22-17-24-46-200881,OncogenicCategory_omnigene_729230
+CD163,Neither,loader,2020-04-22-17-24-49-280289,OncogenicCategory_omnigene_9332
+CD2,Neither,loader,2020-04-22-17-24-50-884143,OncogenicCategory_omnigene_914
+CD244,Neither,loader,2020-04-22-17-24-54-847912,OncogenicCategory_omnigene_51744
+CD27,Neither,loader,2020-04-22-17-24-57-014155,OncogenicCategory_omnigene_939
+CD274,Oncogene,loader,2020-04-22-17-25-01-035147,OncogenicCategory_omnigene_29126
+CD276,Neither,loader,2020-04-22-17-25-04-808570,OncogenicCategory_omnigene_80381
+CD28,Neither,loader,2020-04-22-17-25-08-095938,OncogenicCategory_omnigene_940
+CD38,Neither,loader,2020-04-22-17-25-18-035623,OncogenicCategory_omnigene_952
+CD3D,Neither,loader,2020-04-22-17-25-09-938321,OncogenicCategory_omnigene_915
+CD3E,Neither,loader,2020-04-22-17-25-13-262349,OncogenicCategory_omnigene_916
+CD3G,Neither,loader,2020-04-22-17-25-15-620117,OncogenicCategory_omnigene_917
+CD4,Neither,loader,2020-04-22-17-25-20-373361,OncogenicCategory_omnigene_920
+CD40,Neither,loader,2020-04-22-17-25-23-262538,OncogenicCategory_omnigene_958
+CD40LG,Neither,loader,2020-04-22-17-25-25-885539,OncogenicCategory_omnigene_959
+CD44,Oncogene,loader,2020-04-22-17-25-34-530036,OncogenicCategory_omnigene_960
+CD68,Neither,loader,2020-04-22-17-25-38-081305,OncogenicCategory_omnigene_968
+CD74,Oncogene,loader,2020-04-22-17-25-40-013565,OncogenicCategory_omnigene_972
+CD79A,Oncogene,loader,2020-04-22-17-25-42-270522,OncogenicCategory_omnigene_973
+CD79B,Oncogene,loader,2020-04-22-17-25-43-977661,OncogenicCategory_omnigene_974
+CD80,Neither,loader,2020-04-22-17-25-49-529761,OncogenicCategory_omnigene_941
+CD86,Neither,loader,2020-04-22-17-25-51-249507,OncogenicCategory_omnigene_942
+CD8A,Neither,loader,2020-04-22-17-25-53-594681,OncogenicCategory_omnigene_925
+CD8A,Neither,loader,2020-04-22-17-25-53-594681,OncogenicCategory_omnigene_925
+CD8B,Neither,loader,2020-04-22-17-25-55-342348,OncogenicCategory_omnigene_926
+CD8B,Neither,loader,2020-04-22-17-25-55-342348,OncogenicCategory_omnigene_926
+CDC73,Tumor Suppressor Gene,loader,2020-04-22-17-25-57-609198,OncogenicCategory_omnigene_79577
+CDH1,Tumor Suppressor Gene,loader,2020-04-22-17-26-03-333153,OncogenicCategory_omnigene_999
+CDK12,Tumor Suppressor Gene,loader,2020-04-22-17-26-05-398385,OncogenicCategory_omnigene_51755
+CDK4,Oncogene,loader,2020-04-22-17-26-08-878850,OncogenicCategory_omnigene_1019
+CDK6,Oncogene,loader,2020-04-22-17-26-11-719241,OncogenicCategory_omnigene_1021
+CDK8,Oncogene,loader,2020-04-22-17-26-13-865554,OncogenicCategory_omnigene_1024
+CDKN1A,Both,loader,2020-04-22-17-26-18-237584,OncogenicCategory_omnigene_1026
+CDKN1B,Tumor Suppressor Gene,loader,2020-04-22-17-26-20-992235,OncogenicCategory_omnigene_1027
+CDKN2A,Tumor Suppressor Gene,loader,2020-04-22-17-26-24-107686,OncogenicCategory_omnigene_1029
+CDKN2B,Tumor Suppressor Gene,loader,2020-04-22-17-26-25-828448,OncogenicCategory_omnigene_1030
+CDKN2C,Tumor Suppressor Gene,loader,2020-04-22-17-26-28-794265,OncogenicCategory_omnigene_1031
+CEBPA,Tumor Suppressor Gene,loader,2020-04-22-17-26-31-300896,OncogenicCategory_omnigene_1050
+CENPA,Neither,loader,2020-04-22-17-26-40-336192,OncogenicCategory_omnigene_1058
+CHD2,Tumor Suppressor Gene,loader,2020-04-22-17-26-43-215128,OncogenicCategory_omnigene_1106
+CHD4,Oncogene,loader,2020-04-22-17-26-45-582728,OncogenicCategory_omnigene_1108
+CHEK1,Tumor Suppressor Gene,loader,2020-04-22-17-26-48-196636,OncogenicCategory_omnigene_1111
+CHEK2,Oncogene,loader,2020-04-22-17-26-51-316650,OncogenicCategory_omnigene_11200
+CIC,Both,loader,2020-04-22-17-26-53-219292,OncogenicCategory_omnigene_23152
+COP1,Neither,loader,2020-04-22-17-45-53-077073,OncogenicCategory_omnigene_64326
+CREBBP,Both,loader,2020-04-22-17-27-01-130956,OncogenicCategory_omnigene_1387
+CRKL,Oncogene,loader,2020-04-22-17-27-04-578354,OncogenicCategory_omnigene_1399
+CRLF2,Oncogene,loader,2020-04-22-17-27-06-147071,OncogenicCategory_omnigene_64109
+CSF1R,Oncogene,loader,2020-04-22-17-27-10-118028,OncogenicCategory_omnigene_1436
+CSF3R,Oncogene,loader,2020-04-22-17-27-12-612340,OncogenicCategory_omnigene_1441
+CSNK1A1,Neither,loader,2020-04-22-17-27-15-853911,OncogenicCategory_omnigene_1452
+CSNK2A1,Oncogene,loader,2020-04-22-17-27-23-908295,OncogenicCategory_omnigene_1457
+CTAG1B,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-15-26-766182,OncogenicCategory_omnigene_1485
+CTAG2,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-15-30-260614,OncogenicCategory_omnigene_30848
+CTCF,Tumor Suppressor Gene,loader,2020-04-22-17-27-29-029269,OncogenicCategory_omnigene_10664
+CTLA4,Neither,loader,2020-04-22-17-27-31-290033,OncogenicCategory_omnigene_1493
+CTNNA1,Neither,loader,2020-04-22-17-27-34-436934,OncogenicCategory_omnigene_1495
+CTNNB1,Oncogene,loader,2020-04-22-17-27-43-598318,OncogenicCategory_omnigene_1499
+CUL3,Tumor Suppressor Gene,loader,2020-04-22-17-28-00-408736,OncogenicCategory_omnigene_8452
+CUX1,Both,loader,2020-04-22-17-28-05-076361,OncogenicCategory_omnigene_1523
+CXCL10,Neither,loader,2020-04-22-17-28-08-962276,OncogenicCategory_omnigene_3627
+CXCR2,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-15-38-558693,OncogenicCategory_omnigene_3579
+CXCR4,Oncogene,loader,2020-04-22-17-28-14-627255,OncogenicCategory_omnigene_7852
+CXCR6,Neither,loader,2020-04-22-17-28-16-457786,OncogenicCategory_omnigene_10663
+CYLD,Tumor Suppressor Gene,loader,2020-04-22-17-28-24-478082,OncogenicCategory_omnigene_1540
+DAXX,Both,loader,2020-04-22-17-28-29-815776,OncogenicCategory_omnigene_1616
+DCUN1D1,Oncogene,loader,2020-04-22-17-28-32-863909,OncogenicCategory_omnigene_54165
+DDR2,Oncogene,loader,2020-04-22-17-28-36-294021,OncogenicCategory_omnigene_4921
+DDX41,Neither,loader,2020-04-22-17-28-38-831476,OncogenicCategory_omnigene_51428
+DDX58,Neither,loader,2020-04-22-17-28-42-178675,OncogenicCategory_omnigene_23586
+DHX15,Neither,loader,2020-04-22-17-28-43-999292,OncogenicCategory_omnigene_1665
+DICER1,Tumor Suppressor Gene,loader,2020-04-22-17-28-46-458140,OncogenicCategory_omnigene_23405
+DIS3,Neither,loader,2020-04-22-17-28-48-021250,OncogenicCategory_omnigene_22894
+DNAJB1,Neither,loader,2020-04-22-17-28-50-190868,OncogenicCategory_omnigene_3337
+DNMT1,Neither,loader,2020-04-22-17-28-52-977804,OncogenicCategory_omnigene_1786
+DNMT3A,Oncogene,loader,2020-04-22-17-28-55-052712,OncogenicCategory_omnigene_1788
+DNMT3B,Neither,loader,2020-04-22-17-28-57-988068,OncogenicCategory_omnigene_1789
+DOT1L,Neither,loader,2020-04-22-17-29-00-509580,OncogenicCategory_omnigene_84444
+E2F3,Neither,loader,2020-04-22-17-29-02-082632,OncogenicCategory_omnigene_1871
+EED,Tumor Suppressor Gene,loader,2020-04-22-17-29-03-946552,OncogenicCategory_omnigene_8726
+EGFL7,Neither,loader,2020-04-22-17-29-06-289964,OncogenicCategory_omnigene_51162
+EGFR,Oncogene,loader,2020-04-22-17-29-14-591232,OncogenicCategory_omnigene_1956
+EIF1AX,Neither,loader,2020-04-22-17-29-17-499035,OncogenicCategory_omnigene_1964
+EIF4A2,Neither,loader,2020-04-22-17-29-20-136898,OncogenicCategory_omnigene_1974
+EIF4E,Neither,loader,2020-04-22-17-29-23-005857,OncogenicCategory_omnigene_1977
+ELOC,Neither,loader,2020-04-22-17-49-23-077889,OncogenicCategory_omnigene_6921
+EML4,Neither,loader,2020-04-22-17-29-24-625221,OncogenicCategory_omnigene_27436
+EMSY,Neither,loader,2020-04-22-17-24-19-695748,OncogenicCategory_omnigene_56946
+ENTPD1,Neither,loader,2020-04-22-17-29-27-054319,OncogenicCategory_omnigene_953
+EP300,Tumor Suppressor Gene,loader,2020-04-22-17-29-37-605662,OncogenicCategory_omnigene_2033
+EPCAM,Neither,loader,2020-04-22-17-29-41-188854,OncogenicCategory_omnigene_4072
+EPHA3,Neither,loader,2020-04-22-17-29-43-136086,OncogenicCategory_omnigene_2042
+EPHA5,Neither,loader,2020-04-22-17-29-44-673328,OncogenicCategory_omnigene_2044
+EPHA7,Neither,loader,2020-04-22-17-29-46-986931,OncogenicCategory_omnigene_2045
+EPHB1,Neither,loader,2020-04-22-17-29-49-118703,OncogenicCategory_omnigene_2047
+ERBB2,Oncogene,loader,2020-04-22-17-29-52-131380,OncogenicCategory_omnigene_2064
+ERBB3,Oncogene,loader,2020-04-22-17-29-55-326032,OncogenicCategory_omnigene_2065
+ERBB4,Oncogene,loader,2020-04-22-17-29-58-944542,OncogenicCategory_omnigene_2066
+ERCC1,Neither,loader,2020-04-22-17-30-00-706329,OncogenicCategory_omnigene_2067
+ERCC2,Tumor Suppressor Gene,loader,2020-04-22-17-30-03-373946,OncogenicCategory_omnigene_2068
+ERCC3,Tumor Suppressor Gene,loader,2020-04-22-17-30-05-550218,OncogenicCategory_omnigene_2071
+ERCC4,Tumor Suppressor Gene,loader,2020-04-22-17-30-08-122994,OncogenicCategory_omnigene_2072
+ERCC5,Tumor Suppressor Gene,loader,2020-04-22-17-30-09-912124,OncogenicCategory_omnigene_2073
+ERG,Oncogene,loader,2020-04-22-17-30-11-704325,OncogenicCategory_omnigene_2078
+ERRFI1,Neither,loader,2020-04-22-17-30-13-223350,OncogenicCategory_omnigene_54206
+ESR1,Oncogene,loader,2020-04-22-17-30-16-760912,OncogenicCategory_omnigene_2099
+ETS1,Oncogene,loader,2020-04-22-17-30-18-916280,OncogenicCategory_omnigene_2113
+ETV1,Oncogene,loader,2020-04-22-17-30-21-338927,OncogenicCategory_omnigene_2115
+ETV4,Oncogene,loader,2020-04-22-17-30-22-853504,OncogenicCategory_omnigene_2118
+ETV5,Oncogene,loader,2020-04-22-17-30-24-563274,OncogenicCategory_omnigene_2119
+ETV6,Tumor Suppressor Gene,loader,2020-04-22-17-30-26-386935,OncogenicCategory_omnigene_2120
+EWSR1,Oncogene,loader,2020-04-22-17-30-28-761196,OncogenicCategory_omnigene_2130
+EZH2,Oncogene,loader,2020-04-22-17-30-32-567203,OncogenicCategory_omnigene_2146
+FANCA,Tumor Suppressor Gene,loader,2020-04-22-17-30-41-722470,OncogenicCategory_omnigene_2175
+FANCC,Tumor Suppressor Gene,loader,2020-04-22-17-30-43-172369,OncogenicCategory_omnigene_2176
+FANCD2,Tumor Suppressor Gene,loader,2020-04-22-17-30-45-664711,OncogenicCategory_omnigene_2177
+FANCE,Tumor Suppressor Gene,loader,2020-04-22-17-30-47-368648,OncogenicCategory_omnigene_2178
+FANCF,Tumor Suppressor Gene,loader,2020-04-22-17-30-48-947307,OncogenicCategory_omnigene_2188
+FANCG,Tumor Suppressor Gene,loader,2020-04-22-17-30-50-580804,OncogenicCategory_omnigene_2189
+FANCI,Tumor Suppressor Gene,loader,2020-04-22-17-30-52-515635,OncogenicCategory_omnigene_55215
+FANCL,Tumor Suppressor Gene,loader,2020-04-22-17-30-56-614660,OncogenicCategory_omnigene_55120
+FAS,Tumor Suppressor Gene,loader,2020-04-22-17-31-00-143048,OncogenicCategory_omnigene_355
+FAT1,Tumor Suppressor Gene,loader,2020-04-22-17-31-01-834208,OncogenicCategory_omnigene_2195
+FBXW7,Tumor Suppressor Gene,loader,2020-04-22-17-31-10-374080,OncogenicCategory_omnigene_55294
+FGF1,Oncogene,loader,2020-04-22-17-31-15-575866,OncogenicCategory_omnigene_2246
+FGF10,Oncogene,loader,2020-04-22-17-31-18-317079,OncogenicCategory_omnigene_2255
+FGF14,Oncogene,loader,2020-04-22-17-31-20-547168,OncogenicCategory_omnigene_2259
+FGF19,Oncogene,loader,2020-04-22-17-31-21-981495,OncogenicCategory_omnigene_9965
+FGF2,Oncogene,loader,2020-04-22-17-31-25-776011,OncogenicCategory_omnigene_2247
+FGF23,Oncogene,loader,2020-04-22-17-31-27-431389,OncogenicCategory_omnigene_8074
+FGF3,Oncogene,loader,2020-04-22-17-31-29-608934,OncogenicCategory_omnigene_2248
+FGF4,Oncogene,loader,2020-04-22-17-31-31-013169,OncogenicCategory_omnigene_2249
+FGF5,Oncogene,loader,2020-04-22-17-31-32-591693,OncogenicCategory_omnigene_2250
+FGF6,Oncogene,loader,2020-04-22-17-31-34-100629,OncogenicCategory_omnigene_2251
+FGF7,Oncogene,loader,2020-04-22-17-31-35-542115,OncogenicCategory_omnigene_2252
+FGF8,Oncogene,loader,2020-04-22-17-31-38-153584,OncogenicCategory_omnigene_2253
+FGF9,Oncogene,loader,2020-04-22-17-31-40-685212,OncogenicCategory_omnigene_2254
+FGFR1,Oncogene,loader,2020-04-22-17-31-43-175843,OncogenicCategory_omnigene_2260
+FGFR2,Oncogene,loader,2020-04-22-17-31-45-408927,OncogenicCategory_omnigene_2263
+FGFR3,Oncogene,loader,2020-04-22-17-31-47-895666,OncogenicCategory_omnigene_2261
+FGFR4,Oncogene,loader,2020-04-22-17-31-49-711171,OncogenicCategory_omnigene_2264
+FH,Tumor Suppressor Gene,loader,2020-04-22-17-31-52-233116,OncogenicCategory_omnigene_2271
+FLCN,Tumor Suppressor Gene,loader,2020-04-22-17-31-58-880751,OncogenicCategory_omnigene_201163
+FLI1,Oncogene,loader,2020-04-22-17-32-03-170551,OncogenicCategory_omnigene_2313
+FLT1,Neither,loader,2020-04-22-17-32-05-871883,OncogenicCategory_omnigene_2321
+FLT3,Oncogene,loader,2020-04-22-17-32-08-665677,OncogenicCategory_omnigene_2322
+FLT4,Oncogene,loader,2020-04-22-17-32-10-515654,OncogenicCategory_omnigene_2324
+FOXA1,Oncogene,loader,2020-04-22-17-32-12-773564,OncogenicCategory_omnigene_3169
+FOXL2,Oncogene,loader,2020-04-22-17-32-14-443306,OncogenicCategory_omnigene_668
+FOXO1,Both,loader,2020-04-22-17-32-16-938145,OncogenicCategory_omnigene_2308
+FOXP1,Oncogene,loader,2020-04-22-17-32-21-971844,OncogenicCategory_omnigene_27086
+FOXP3,Neither,loader,2020-04-22-17-32-26-537807,OncogenicCategory_omnigene_50943
+FRS2,Neither,loader,2020-04-22-17-32-28-883980,OncogenicCategory_omnigene_10818
+FUBP1,Oncogene,loader,2020-04-22-17-32-30-310458,OncogenicCategory_omnigene_8880
+FYN,Oncogene,loader,2020-04-22-17-32-32-805334,OncogenicCategory_omnigene_2534
+GABRA6,Neither,loader,2020-04-22-17-32-34-229034,OncogenicCategory_omnigene_2559
+GAS6,Oncogene,loader,2020-04-22-17-32-36-666010,OncogenicCategory_omnigene_2621
+GATA1,Both,loader,2020-04-22-17-32-38-757556,OncogenicCategory_omnigene_2623
+GATA2,Oncogene,loader,2020-04-22-17-32-40-764000,OncogenicCategory_omnigene_2624
+GATA3,Tumor Suppressor Gene,loader,2020-04-22-17-32-42-735723,OncogenicCategory_omnigene_2625
+GATA4,Neither,loader,2020-04-22-17-32-46-846676,OncogenicCategory_omnigene_2626
+GATA6,Neither,loader,2020-04-22-17-32-53-161274,OncogenicCategory_omnigene_2627
+GEN1,Neither,loader,2020-04-22-17-32-59-024333,OncogenicCategory_omnigene_348654
+GID4,Neither,loader,2020-04-22-17-33-02-030308,OncogenicCategory_omnigene_79018
+GLI1,Oncogene,loader,2020-04-22-17-33-07-289247,OncogenicCategory_omnigene_2735
+GNA11,Oncogene,loader,2020-04-22-17-33-09-504852,OncogenicCategory_omnigene_2767
+GNA13,Neither,loader,2020-04-22-17-33-13-668606,OncogenicCategory_omnigene_10672
+GNAQ,Oncogene,loader,2020-04-22-17-33-15-825485,OncogenicCategory_omnigene_2776
+GNAS,Oncogene,loader,2020-04-22-17-33-18-541094,OncogenicCategory_omnigene_2778
+GPS2,Tumor Suppressor Gene,loader,2020-04-22-17-33-25-456963,OncogenicCategory_omnigene_2874
+GREM1,Neither,loader,2020-04-22-17-33-28-416259,OncogenicCategory_omnigene_26585
+GRIN2A,Tumor Suppressor Gene,loader,2020-04-22-17-33-32-128066,OncogenicCategory_omnigene_2903
+GRM3,Oncogene,loader,2020-04-22-17-33-33-921183,OncogenicCategory_omnigene_2913
+GSK3B,Neither,loader,2020-04-22-17-33-38-678673,OncogenicCategory_omnigene_2932
+GZMB,Neither,loader,2020-04-22-17-33-41-121022,OncogenicCategory_omnigene_3002
+H1-2,Neither,loader,2020-04-22-17-33-59-647016,OncogenicCategory_omnigene_3006
+H2BC5,Neither,loader,2020-04-22-17-34-01-499403,OncogenicCategory_omnigene_3017
+H3-3A,Oncogene,loader,2020-04-22-17-33-43-782919,OncogenicCategory_omnigene_3020
+H3-3B,Oncogene,loader,2020-04-22-17-33-47-215337,OncogenicCategory_omnigene_3021
+H3-4,Neither,loader,2020-04-22-17-34-35-561132,OncogenicCategory_omnigene_8290
+H3-5,Neither,loader,2020-04-22-17-33-48-720552,OncogenicCategory_omnigene_440093
+H3C1,Neither,loader,2020-04-22-17-34-04-122361,OncogenicCategory_omnigene_8350
+H3C10,Neither,loader,2020-04-22-17-34-19-376117,OncogenicCategory_omnigene_8357
+H3C11,Neither,loader,2020-04-22-17-34-22-405349,OncogenicCategory_omnigene_8354
+H3C12,Neither,loader,2020-04-22-17-34-25-386471,OncogenicCategory_omnigene_8356
+H3C13,Neither,loader,2020-04-22-17-34-33-381307,OncogenicCategory_omnigene_653604
+H3C14,Neither,loader,2020-04-22-17-34-30-506850,OncogenicCategory_omnigene_126961
+H3C15,Neither,loader,2020-04-22-17-34-27-833802,OncogenicCategory_omnigene_333932
+H3C2,Oncogene,loader,2020-04-22-17-34-06-683474,OncogenicCategory_omnigene_8358
+H3C6,Neither,loader,2020-04-22-17-34-09-632740,OncogenicCategory_omnigene_8353
+H3C7,Neither,loader,2020-04-22-17-34-13-104969,OncogenicCategory_omnigene_8968
+H3C8,Neither,loader,2020-04-22-17-34-16-147782,OncogenicCategory_omnigene_8355
+HAVCR2,Neither,loader,2020-04-22-17-33-54-524555,OncogenicCategory_omnigene_84868
+HGF,Neither,loader,2020-04-22-17-33-58-090452,OncogenicCategory_omnigene_3082
+HLA-A,Neither,loader,2020-04-22-17-34-53-250499,OncogenicCategory_omnigene_3105
+HNF1A,Oncogene,loader,2020-04-22-17-34-58-239850,OncogenicCategory_omnigene_6927
+HNRNPK,Neither,loader,2020-04-22-17-35-01-056960,OncogenicCategory_omnigene_3190
+HOXB13,Neither,loader,2020-04-22-17-35-03-561102,OncogenicCategory_omnigene_10481
+HRAS,Oncogene,loader,2020-04-22-17-35-07-972070,OncogenicCategory_omnigene_3265
+HSD3B1,Neither,loader,2020-04-22-17-35-10-271888,OncogenicCategory_omnigene_3283
+HSP90AA1,Neither,loader,2020-04-22-17-35-16-957137,OncogenicCategory_omnigene_3320
+ICOS,Neither,loader,2020-04-22-17-35-19-292158,OncogenicCategory_omnigene_29851
+ICOSLG,Neither,loader,2020-04-22-17-35-21-516511,OncogenicCategory_omnigene_23308
+ID3,Tumor Suppressor Gene,loader,2020-04-22-17-35-23-087141,OncogenicCategory_omnigene_3399
+IDH1,Oncogene,loader,2020-04-22-17-35-26-227208,OncogenicCategory_omnigene_3417
+IDH2,Oncogene,loader,2020-04-22-17-35-28-854913,OncogenicCategory_omnigene_3418
+IDO1,Neither,loader,2020-04-22-17-35-32-744768,OncogenicCategory_omnigene_3620
+IFITM1,Oncogene,loader,2020-04-22-17-35-34-796054,OncogenicCategory_omnigene_8519
+IFITM3,Oncogene,loader,2020-04-22-17-35-36-865067,OncogenicCategory_omnigene_10410
+IFNG,Neither,loader,2020-04-22-17-35-39-129677,OncogenicCategory_omnigene_3458
+IFNGR1,Neither,loader,2020-04-22-17-35-42-048749,OncogenicCategory_omnigene_3459
+IGF1,Neither,loader,2020-04-22-17-35-46-657029,OncogenicCategory_omnigene_3479
+IGF1R,Oncogene,loader,2020-04-22-17-35-50-464759,OncogenicCategory_omnigene_3480
+IGF2,Neither,loader,2020-04-22-17-35-53-592149,OncogenicCategory_omnigene_3481
+IKBKE,Neither,loader,2020-04-22-17-35-55-789646,OncogenicCategory_omnigene_9641
+IKZF1,Tumor Suppressor Gene,loader,2020-04-22-17-35-58-707152,OncogenicCategory_omnigene_10320
+IL10,Neither,loader,2020-04-22-17-36-02-225096,OncogenicCategory_omnigene_3586
+IL1B,Neither,loader,2020-04-22-17-36-05-639597,OncogenicCategory_omnigene_3553
+IL6,Oncogene,loader,2020-04-22-17-36-08-404163,OncogenicCategory_omnigene_3569
+IL7R,Oncogene,loader,2020-04-22-17-36-11-075220,OncogenicCategory_omnigene_3575
+INHA,Neither,loader,2020-04-22-17-36-12-536262,OncogenicCategory_omnigene_3623
+INHBA,Neither,loader,2020-04-22-17-36-14-459218,OncogenicCategory_omnigene_3624
+INPP4A,Neither,loader,2020-04-22-17-36-17-632538,OncogenicCategory_omnigene_3631
+INPP4B,Neither,loader,2020-04-22-17-36-21-160279,OncogenicCategory_omnigene_8821
+INSR,Neither,loader,2020-04-22-17-36-25-319400,OncogenicCategory_omnigene_3643
+IRF2,Neither,loader,2020-04-22-17-36-27-918153,OncogenicCategory_omnigene_3660
+IRF4,Both,loader,2020-04-22-17-36-30-684843,OncogenicCategory_omnigene_3662
+IRS1,Neither,loader,2020-04-22-17-36-32-823005,OncogenicCategory_omnigene_3667
+IRS2,Neither,loader,2020-04-22-17-36-34-639538,OncogenicCategory_omnigene_8660
+JAK1,Oncogene,loader,2020-04-22-17-36-37-455842,OncogenicCategory_omnigene_3716
+JAK2,Oncogene,loader,2020-04-22-17-36-41-970891,OncogenicCategory_omnigene_3717
+JAK3,Oncogene,loader,2020-04-22-17-36-44-292974,OncogenicCategory_omnigene_3718
+JUN,Oncogene,loader,2020-04-22-17-36-48-303372,OncogenicCategory_omnigene_3725
+KAT6A,Oncogene,loader,2020-04-22-17-36-50-804638,OncogenicCategory_omnigene_7994
+KDM5A,Oncogene,loader,2020-04-22-17-36-54-354982,OncogenicCategory_omnigene_5927
+KDM5C,Tumor Suppressor Gene,loader,2020-04-22-17-36-56-947953,OncogenicCategory_omnigene_8242
+KDM6A,Both,loader,2020-04-22-17-37-00-236351,OncogenicCategory_omnigene_7403
+KDR,Oncogene,loader,2020-04-22-17-37-04-248223,OncogenicCategory_omnigene_3791
+KEAP1,Tumor Suppressor Gene,loader,2020-04-22-17-37-11-442354,OncogenicCategory_omnigene_9817
+KEL,Neither,loader,2020-04-22-17-37-15-098926,OncogenicCategory_omnigene_3792
+KIF5B,Neither,loader,2020-04-22-17-37-17-919952,OncogenicCategory_omnigene_3799
+KIT,Oncogene,loader,2020-04-22-17-37-20-745492,OncogenicCategory_omnigene_3815
+KLF4,Both,loader,2020-04-22-17-37-23-277668,OncogenicCategory_omnigene_9314
+KLHL6,Neither,loader,2020-04-22-17-37-24-816499,OncogenicCategory_omnigene_89857
+KLRD1,Neither,loader,2020-04-22-17-37-27-039836,OncogenicCategory_omnigene_3824
+KMT2A,Neither,loader,2020-04-22-17-39-16-192846,OncogenicCategory_omnigene_4297
+KMT2B,Neither,loader,2020-04-22-17-37-29-451642,OncogenicCategory_omnigene_9757
+KMT2C,Tumor Suppressor Gene,loader,2020-04-22-17-37-32-236569,OncogenicCategory_omnigene_58508
+KMT2D,Both,loader,2020-04-22-17-37-35-531531,OncogenicCategory_omnigene_8085
+KNSTRN,Oncogene,loader,2020-04-22-17-37-39-355415,OncogenicCategory_omnigene_90417
+KRAS,Oncogene,loader,2020-04-22-17-37-43-640869,OncogenicCategory_omnigene_3845
+LAG3,Neither,loader,2020-04-22-17-37-47-039823,OncogenicCategory_omnigene_3902
+LAMP1,Neither,loader,2020-04-22-17-37-48-969134,OncogenicCategory_omnigene_3916
+LATS1,Tumor Suppressor Gene,loader,2020-04-22-17-37-51-961094,OncogenicCategory_omnigene_9113
+LATS2,Tumor Suppressor Gene,loader,2020-04-22-17-37-54-390396,OncogenicCategory_omnigene_26524
+LMO1,Oncogene,loader,2020-04-22-17-37-55-968843,OncogenicCategory_omnigene_4004
+LRP1B,Tumor Suppressor Gene,loader,2020-04-22-17-37-58-716214,OncogenicCategory_omnigene_53353
+LYN,Oncogene,loader,2020-04-22-17-38-00-932366,OncogenicCategory_omnigene_4067
+LZTR1,Tumor Suppressor Gene,loader,2020-04-22-17-38-04-051558,OncogenicCategory_omnigene_8216
+MAGEA1,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-15-57-373970,OncogenicCategory_omnigene_4100
+MAGEA3,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-15-59-825060,OncogenicCategory_omnigene_4102
+MAGEA4,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-16-03-230723,OncogenicCategory_omnigene_4103
+MAGI2,Neither,loader,2020-04-22-17-38-06-596314,OncogenicCategory_omnigene_9863
+MAGOH,Oncogene,loader,2020-04-22-17-38-08-988109,OncogenicCategory_omnigene_4116
+MALT1,Oncogene,loader,2020-04-22-17-38-11-789326,OncogenicCategory_omnigene_10892
+MAP2K1,Oncogene,loader,2020-04-22-17-38-14-422318,OncogenicCategory_omnigene_5604
+MAP2K2,Oncogene,loader,2020-04-22-17-38-16-552663,OncogenicCategory_omnigene_5605
+MAP2K4,Both,loader,2020-04-22-17-38-18-847988,OncogenicCategory_omnigene_6416
+MAP3K1,Both,loader,2020-04-22-17-38-21-449166,OncogenicCategory_omnigene_4214
+MAP3K13,Both,loader,2020-04-22-17-38-23-165902,OncogenicCategory_omnigene_9175
+MAP3K4,Neither,loader,2020-04-22-17-38-25-176646,OncogenicCategory_omnigene_4216
+MAPK1,Oncogene,loader,2020-04-22-17-38-28-800064,OncogenicCategory_omnigene_5594
+MAPK3,Neither,loader,2020-04-22-17-38-31-582022,OncogenicCategory_omnigene_5595
+MAX,Oncogene,loader,2020-04-22-17-38-34-618513,OncogenicCategory_omnigene_4149
+MCL1,Oncogene,loader,2020-04-22-17-38-37-200401,OncogenicCategory_omnigene_4170
+MDC1,Neither,loader,2020-04-22-17-38-39-384372,OncogenicCategory_omnigene_9656
+MDM2,Oncogene,loader,2020-04-22-17-38-48-488749,OncogenicCategory_omnigene_4193
+MDM4,Oncogene,loader,2020-04-22-17-38-52-349483,OncogenicCategory_omnigene_4194
+MED12,Oncogene,loader,2020-04-22-17-38-54-548117,OncogenicCategory_omnigene_9968
+MEF2B,Neither,loader,2020-04-22-17-38-55-967701,OncogenicCategory_omnigene_100271849
+MEN1,Tumor Suppressor Gene,loader,2020-04-22-17-38-58-514751,OncogenicCategory_omnigene_4221
+MET,Oncogene,loader,2020-04-22-17-39-02-363874,OncogenicCategory_omnigene_4233
+MGA,Neither,loader,2020-04-22-17-39-04-813862,OncogenicCategory_omnigene_23269
+MITF,Oncogene,loader,2020-04-22-17-39-07-194602,OncogenicCategory_omnigene_4286
+MLH1,Tumor Suppressor Gene,loader,2020-04-22-17-39-10-571665,OncogenicCategory_omnigene_4292
+MLLT3,Neither,loader,2020-04-22-17-39-21-707214,OncogenicCategory_omnigene_4300
+MPL,Oncogene,loader,2020-04-22-17-39-24-788271,OncogenicCategory_omnigene_4352
+MRE11,Neither,loader,2020-04-22-17-39-32-811577,OncogenicCategory_omnigene_4361
+MS4A1,Neither,loader,2020-04-22-17-39-36-075620,OncogenicCategory_omnigene_931
+MSH2,Tumor Suppressor Gene,loader,2020-04-22-17-39-39-768040,OncogenicCategory_omnigene_4436
+MSH3,Neither,loader,2020-04-22-17-39-41-755859,OncogenicCategory_omnigene_4437
+MSH6,Tumor Suppressor Gene,loader,2020-04-22-17-39-44-238172,OncogenicCategory_omnigene_2956
+MST1,Neither,loader,2020-04-22-17-39-46-200045,OncogenicCategory_omnigene_4485
+MST1R,Neither,loader,2020-04-22-17-39-48-404524,OncogenicCategory_omnigene_4486
+MTOR,Oncogene,loader,2020-04-22-17-40-01-098266,OncogenicCategory_omnigene_2475
+MUTYH,Tumor Suppressor Gene,loader,2020-04-22-17-40-07-073417,OncogenicCategory_omnigene_4595
+MX1,Neither,loader,2020-04-22-17-40-09-851109,OncogenicCategory_omnigene_4599
+MYB,Oncogene,loader,2020-04-22-17-40-11-914463,OncogenicCategory_omnigene_4602
+MYC,Oncogene,loader,2020-04-22-17-40-14-843626,OncogenicCategory_omnigene_4609
+MYCL,Neither,loader,2020-04-22-17-40-18-250907,OncogenicCategory_omnigene_4610
+MYCL,Neither,loader,2020-04-22-17-40-18-250907,OncogenicCategory_omnigene_4610
+MYCN,Oncogene,loader,2020-04-22-17-40-20-190488,OncogenicCategory_omnigene_4613
+MYD88,Oncogene,loader,2020-04-22-17-40-27-501184,OncogenicCategory_omnigene_4615
+MYO18A,Oncogene,loader,2020-04-22-17-40-32-134773,OncogenicCategory_omnigene_399687
+MYOD1,Oncogene,loader,2020-04-22-17-40-35-788677,OncogenicCategory_omnigene_4654
+NAB2,Tumor Suppressor Gene,loader,2020-04-22-17-40-37-618727,OncogenicCategory_omnigene_4665
+NBN,Tumor Suppressor Gene,loader,2020-04-22-17-40-40-123198,OncogenicCategory_omnigene_4683
+NCOA3,Neither,loader,2020-04-22-17-40-41-921169,OncogenicCategory_omnigene_8202
+NCOR1,Tumor Suppressor Gene,loader,2020-04-22-17-40-44-320243,OncogenicCategory_omnigene_9611
+NECTIN2,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-16-09-478140,OncogenicCategory_omnigene_5819
+NEGR1,Neither,loader,2020-04-22-17-40-46-039532,OncogenicCategory_omnigene_257194
+NF1,Tumor Suppressor Gene,loader,2020-04-22-17-40-48-596181,OncogenicCategory_omnigene_4763
+NF2,Tumor Suppressor Gene,loader,2020-04-22-17-40-50-668597,OncogenicCategory_omnigene_4771
+NFE2L2,Oncogene,loader,2020-04-22-17-40-55-419980,OncogenicCategory_omnigene_4780
+NFKBIA,Neither,loader,2020-04-22-17-40-58-096807,OncogenicCategory_omnigene_4792
+NKX2-1,Oncogene,loader,2020-04-22-17-41-00-477980,OncogenicCategory_omnigene_7080
+NKX2-8,Oncogene,loader,2020-04-22-17-41-01-891785,OncogenicCategory_omnigene_26257
+NKX3-1,Neither,loader,2020-04-22-17-41-04-461516,OncogenicCategory_omnigene_4824
+NOTCH1,Tumor Suppressor Gene,loader,2020-04-22-17-41-07-695897,OncogenicCategory_omnigene_4851
+NOTCH2,Both,loader,2020-04-22-17-41-11-940549,OncogenicCategory_omnigene_4853
+NOTCH3,Tumor Suppressor Gene,loader,2020-04-22-17-41-15-198871,OncogenicCategory_omnigene_4854
+NOTCH4,Oncogene,loader,2020-04-22-17-41-17-027464,OncogenicCategory_omnigene_4855
+NPM1,Oncogene,loader,2020-04-22-17-41-20-727515,OncogenicCategory_omnigene_4869
+NRAS,Oncogene,loader,2020-04-22-17-41-23-759444,OncogenicCategory_omnigene_4893
+NRG1,Tumor Suppressor Gene,loader,2020-04-22-17-41-26-716967,OncogenicCategory_omnigene_3084
+NSD1,Neither,loader,2020-04-22-17-41-28-436400,OncogenicCategory_omnigene_64324
+NTRK1,Oncogene,loader,2020-04-22-17-41-32-775919,OncogenicCategory_omnigene_4914
+NTRK2,Oncogene,loader,2020-04-22-17-41-35-828468,OncogenicCategory_omnigene_4915
+NTRK3,Oncogene,loader,2020-04-22-17-41-37-665517,OncogenicCategory_omnigene_4916
+NUP93,Neither,loader,2020-04-22-17-41-40-322370,OncogenicCategory_omnigene_9688
+NUTM1,Oncogene,loader,2020-04-22-17-41-42-754877,OncogenicCategory_omnigene_256646
+PAK1,Neither,loader,2020-04-22-17-41-45-888535,OncogenicCategory_omnigene_5058
+PAK3,Neither,loader,2020-04-22-17-41-48-069952,OncogenicCategory_omnigene_5063
+PAK5,Neither,loader,2020-04-22-17-41-49-904315,OncogenicCategory_omnigene_57144
+PALB2,Tumor Suppressor Gene,loader,2020-04-22-17-41-55-805781,OncogenicCategory_omnigene_79728
+PARP1,Neither,loader,2020-04-22-17-42-20-242961,OncogenicCategory_omnigene_142
+PAX3,Oncogene,loader,2020-04-22-17-42-23-782237,OncogenicCategory_omnigene_5077
+PAX5,Oncogene,loader,2020-04-22-17-42-26-553852,OncogenicCategory_omnigene_5079
+PAX7,Neither,loader,2020-04-22-17-42-28-656652,OncogenicCategory_omnigene_5081
+PAX8,Neither,loader,2020-04-22-17-42-30-240267,OncogenicCategory_omnigene_7849
+PBRM1,Tumor Suppressor Gene,loader,2020-04-22-17-42-33-191529,OncogenicCategory_omnigene_55193
+PDCD1,Neither,loader,2020-04-22-17-42-36-411006,OncogenicCategory_omnigene_5133
+PDCD1LG2,Oncogene,loader,2020-04-22-17-42-38-551128,OncogenicCategory_omnigene_80380
+PDGFRA,Oncogene,loader,2020-04-22-17-42-41-213828,OncogenicCategory_omnigene_5156
+PDGFRB,Oncogene,loader,2020-04-22-17-42-43-741668,OncogenicCategory_omnigene_5159
+PDK1,Neither,loader,2020-04-22-17-42-46-104464,OncogenicCategory_omnigene_5163
+PDPK1,Neither,loader,2020-04-22-17-42-48-353668,OncogenicCategory_omnigene_5170
+PGR,Neither,loader,2020-04-22-17-42-50-740170,OncogenicCategory_omnigene_5241
+PHF6,Tumor Suppressor Gene,loader,2020-04-22-17-42-52-173399,OncogenicCategory_omnigene_84295
+PHOX2B,Tumor Suppressor Gene,loader,2020-04-22-17-42-54-384120,OncogenicCategory_omnigene_8929
+PIK3C2B,Neither,loader,2020-04-22-17-42-56-004643,OncogenicCategory_omnigene_5287
+PIK3C2G,Neither,loader,2020-04-22-17-42-58-256285,OncogenicCategory_omnigene_5288
+PIK3C3,Neither,loader,2020-04-22-17-43-00-615569,OncogenicCategory_omnigene_5289
+PIK3CA,Oncogene,loader,2020-04-22-17-43-03-746744,OncogenicCategory_omnigene_5290
+PIK3CB,Oncogene,loader,2020-04-22-17-43-06-066601,OncogenicCategory_omnigene_5291
+PIK3CD,Neither,loader,2020-04-22-17-43-07-767333,OncogenicCategory_omnigene_5293
+PIK3CG,Neither,loader,2020-04-22-17-43-09-827606,OncogenicCategory_omnigene_5294
+PIK3R1,Tumor Suppressor Gene,loader,2020-04-22-17-43-13-616136,OncogenicCategory_omnigene_5295
+PIK3R2,Neither,loader,2020-04-22-17-43-17-166564,OncogenicCategory_omnigene_5296
+PIK3R3,Neither,loader,2020-04-22-17-43-19-621067,OncogenicCategory_omnigene_8503
+PIM1,Oncogene,loader,2020-04-22-17-43-22-694512,OncogenicCategory_omnigene_5292
+PLCG2,Neither,loader,2020-04-22-17-43-24-277752,OncogenicCategory_omnigene_5336
+PLK2,Neither,loader,2020-04-22-17-43-25-754806,OncogenicCategory_omnigene_10769
+PMAIP1,Neither,loader,2020-04-22-17-43-27-472935,OncogenicCategory_omnigene_5366
+PMS1,Neither,loader,2020-04-22-17-43-29-297941,OncogenicCategory_omnigene_5378
+PMS2,Tumor Suppressor Gene,loader,2020-04-22-17-43-31-363667,OncogenicCategory_omnigene_5395
+PNP,Oncogene,loader,2020-04-22-17-43-33-809121,OncogenicCategory_omnigene_4860
+PNRC1,Neither,loader,2020-04-22-17-43-35-324532,OncogenicCategory_omnigene_10957
+POLD1,Tumor Suppressor Gene,loader,2020-04-22-17-43-42-506304,OncogenicCategory_omnigene_5424
+POLE,Tumor Suppressor Gene,loader,2020-04-22-17-43-46-851083,OncogenicCategory_omnigene_5426
+PPARG,Oncogene,loader,2020-04-22-17-43-49-941045,OncogenicCategory_omnigene_5468
+PPM1D,Oncogene,loader,2020-04-22-17-43-53-818370,OncogenicCategory_omnigene_8493
+PPP2R1A,Oncogene,loader,2020-04-22-17-43-57-558294,OncogenicCategory_omnigene_5518
+PPP2R2A,Neither,loader,2020-04-22-17-43-59-821600,OncogenicCategory_omnigene_5520
+PPP6C,Tumor Suppressor Gene,loader,2020-04-22-17-44-04-628983,OncogenicCategory_omnigene_5537
+PRDM1,Tumor Suppressor Gene,loader,2020-04-22-17-44-07-861600,OncogenicCategory_omnigene_639
+PREX2,Oncogene,loader,2020-04-22-17-44-09-895513,OncogenicCategory_omnigene_80243
+PRKAR1A,Both,loader,2020-04-22-17-44-11-781902,OncogenicCategory_omnigene_5573
+PRKCI,Neither,loader,2020-04-22-17-44-14-424098,OncogenicCategory_omnigene_5584
+PRKDC,Neither,loader,2020-04-22-17-44-22-546540,OncogenicCategory_omnigene_5591
+PRKN,Neither,loader,2020-04-22-17-42-08-606693,OncogenicCategory_omnigene_5071
+PRSS8,Neither,loader,2020-04-22-17-44-26-092043,OncogenicCategory_omnigene_5652
+PTCH1,Tumor Suppressor Gene,loader,2020-04-22-17-44-28-886585,OncogenicCategory_omnigene_5727
+PTEN,Tumor Suppressor Gene,loader,2020-04-22-17-44-32-765768,OncogenicCategory_omnigene_5728
+PTPN11,Oncogene,loader,2020-04-22-17-44-35-933766,OncogenicCategory_omnigene_5781
+PTPRD,Tumor Suppressor Gene,loader,2020-04-22-17-44-38-619505,OncogenicCategory_omnigene_5789
+PTPRS,Neither,loader,2020-04-22-17-44-42-777254,OncogenicCategory_omnigene_5802
+PTPRT,Tumor Suppressor Gene,loader,2020-04-22-17-44-45-759330,OncogenicCategory_omnigene_11122
+PVR,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-16-15-641447,OncogenicCategory_omnigene_5817
+QKI,Both,loader,2020-04-22-17-44-50-117185,OncogenicCategory_omnigene_9444
+RAB35,Neither,loader,2020-04-22-17-44-52-091742,OncogenicCategory_omnigene_11021
+RAC1,Oncogene,loader,2020-04-22-17-44-55-166320,OncogenicCategory_omnigene_5879
+RAD21,Both,loader,2020-04-22-17-44-59-030592,OncogenicCategory_omnigene_5885
+RAD50,Tumor Suppressor Gene,loader,2020-04-22-17-45-02-264238,OncogenicCategory_omnigene_10111
+RAD51,Tumor Suppressor Gene,loader,2020-04-22-17-45-06-241489,OncogenicCategory_omnigene_5888
+RAD51B,Tumor Suppressor Gene,loader,2020-04-22-17-45-08-183709,OncogenicCategory_omnigene_5890
+RAD51C,Tumor Suppressor Gene,loader,2020-04-22-17-45-10-796616,OncogenicCategory_omnigene_5889
+RAD51D,Tumor Suppressor Gene,loader,2020-04-22-17-45-12-651435,OncogenicCategory_omnigene_5892
+RAD52,Tumor Suppressor Gene,loader,2020-04-22-17-45-14-876119,OncogenicCategory_omnigene_5893
+RAD54L,Tumor Suppressor Gene,loader,2020-04-22-17-45-16-226123,OncogenicCategory_omnigene_8438
+RAF1,Oncogene,loader,2020-04-22-17-45-19-864201,OncogenicCategory_omnigene_5894
+RANBP2,Tumor Suppressor Gene,loader,2020-04-22-17-45-27-557615,OncogenicCategory_omnigene_5903
+RARA,Oncogene,loader,2020-04-22-17-45-32-340841,OncogenicCategory_omnigene_5914
+RASA1,Neither,loader,2020-04-22-17-45-34-657154,OncogenicCategory_omnigene_5921
+RB1,Tumor Suppressor Gene,loader,2020-04-22-17-45-38-599917,OncogenicCategory_omnigene_5925
+RBM10,Tumor Suppressor Gene,loader,2020-04-22-17-45-41-174730,OncogenicCategory_omnigene_8241
+RECQL4,Both,loader,2020-04-22-17-45-44-230481,OncogenicCategory_omnigene_9401
+REL,Oncogene,loader,2020-04-22-17-45-46-121289,OncogenicCategory_omnigene_5966
+RET,Oncogene,loader,2020-04-22-17-45-50-647811,OncogenicCategory_omnigene_5979
+RHEB,Oncogene,loader,2020-04-22-17-45-55-081463,OncogenicCategory_omnigene_6009
+RHOA,Oncogene,loader,2020-04-22-17-46-02-447964,OncogenicCategory_omnigene_387
+RICTOR,Oncogene,loader,2020-04-22-17-46-05-118443,OncogenicCategory_omnigene_253260
+RIT1,Neither,loader,2020-04-22-17-46-07-370765,OncogenicCategory_omnigene_6016
+RNF43,Tumor Suppressor Gene,loader,2020-04-22-17-46-11-032494,OncogenicCategory_omnigene_54894
+ROS1,Oncogene,loader,2020-04-22-17-46-13-370828,OncogenicCategory_omnigene_6098
+RPS6KA4,Neither,loader,2020-04-22-17-46-15-077837,OncogenicCategory_omnigene_8986
+RPS6KB1,Oncogene,loader,2020-04-22-17-46-23-325895,OncogenicCategory_omnigene_6198
+RPS6KB2,Neither,loader,2020-04-22-17-46-26-827619,OncogenicCategory_omnigene_6199
+RPTOR,Neither,loader,2020-04-22-17-46-29-013545,OncogenicCategory_omnigene_57521
+RUNX1,Both,loader,2020-04-22-17-46-34-227017,OncogenicCategory_omnigene_861
+RUNX1T1,Both,loader,2020-04-22-17-46-38-521405,OncogenicCategory_omnigene_862
+RYBP,Neither,loader,2020-04-22-17-46-44-957048,OncogenicCategory_omnigene_23429
+SDHA,Tumor Suppressor Gene,loader,2020-04-22-17-46-48-100294,OncogenicCategory_omnigene_6389
+SDHAF2,Tumor Suppressor Gene,loader,2020-04-22-17-46-50-268208,OncogenicCategory_omnigene_54949
+SDHB,Tumor Suppressor Gene,loader,2020-04-22-17-46-52-148005,OncogenicCategory_omnigene_6390
+SDHC,Tumor Suppressor Gene,loader,2020-04-22-17-46-54-270619,OncogenicCategory_omnigene_6391
+SDHD,Tumor Suppressor Gene,loader,2020-04-22-17-46-57-366016,OncogenicCategory_omnigene_6392
+SETBP1,Tumor Suppressor Gene,loader,2020-04-22-17-46-59-551242,OncogenicCategory_omnigene_26040
+SETD2,Tumor Suppressor Gene,loader,2020-04-22-17-47-07-392201,OncogenicCategory_omnigene_29072
+SF3B1,Oncogene,loader,2020-04-22-17-47-12-787255,OncogenicCategory_omnigene_23451
+SH2B3,Tumor Suppressor Gene,loader,2020-04-22-17-47-15-053528,OncogenicCategory_omnigene_10019
+SH2D1A,Neither,loader,2020-04-22-17-47-18-143287,OncogenicCategory_omnigene_4068
+SHQ1,Neither,loader,2020-04-22-17-47-20-053484,OncogenicCategory_omnigene_55164
+SLIT2,Neither,loader,2020-04-22-17-47-22-526911,OncogenicCategory_omnigene_9353
+SLX4,Tumor Suppressor Gene,loader,2020-04-22-17-47-25-558385,OncogenicCategory_omnigene_84464
+SMAD2,Tumor Suppressor Gene,loader,2020-04-22-17-47-28-628296,OncogenicCategory_omnigene_4087
+SMAD3,Tumor Suppressor Gene,loader,2020-04-22-17-47-31-333998,OncogenicCategory_omnigene_4088
+SMAD4,Tumor Suppressor Gene,loader,2020-04-22-17-47-34-021246,OncogenicCategory_omnigene_4089
+SMARCA4,Tumor Suppressor Gene,loader,2020-04-22-17-47-36-348964,OncogenicCategory_omnigene_6597
+SMARCB1,Tumor Suppressor Gene,loader,2020-04-22-17-47-39-312852,OncogenicCategory_omnigene_6598
+SMARCD1,Tumor Suppressor Gene,loader,2020-04-22-17-47-43-632860,OncogenicCategory_omnigene_6602
+SMC1A,Tumor Suppressor Gene,loader,2020-04-22-17-47-46-453401,OncogenicCategory_omnigene_8243
+SMC3,Neither,loader,2020-04-22-17-47-49-866391,OncogenicCategory_omnigene_9126
+SMO,Oncogene,loader,2020-04-22-17-47-51-881736,OncogenicCategory_omnigene_6608
+SNCAIP,Neither,loader,2020-04-22-17-47-53-885324,OncogenicCategory_omnigene_9627
+SOCS1,Tumor Suppressor Gene,loader,2020-04-22-17-47-56-766690,OncogenicCategory_omnigene_8651
+SOX10,Neither,loader,2020-04-22-17-48-00-270411,OncogenicCategory_omnigene_6663
+SOX17,Neither,loader,2020-04-22-17-48-02-264700,OncogenicCategory_omnigene_64321
+SOX2,Oncogene,loader,2020-04-22-17-48-04-486864,OncogenicCategory_omnigene_6657
+SOX9,Neither,loader,2020-04-22-17-48-07-494995,OncogenicCategory_omnigene_6662
+SPEN,Tumor Suppressor Gene,loader,2020-04-22-17-48-09-887608,OncogenicCategory_omnigene_23013
+SPOP,Oncogene,loader,2020-04-22-17-48-12-634061,OncogenicCategory_omnigene_8405
+SPTA1,Neither,loader,2020-04-22-17-48-15-095948,OncogenicCategory_omnigene_6708
+SRC,Oncogene,loader,2020-04-22-17-48-22-128012,OncogenicCategory_omnigene_6714
+SRSF2,Oncogene,loader,2020-04-22-17-48-25-384625,OncogenicCategory_omnigene_6427
+SSX2,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-16-18-429416,OncogenicCategory_omnigene_6757
+STAG1,Tumor Suppressor Gene,loader,2020-04-22-17-48-26-952760,OncogenicCategory_omnigene_10274
+STAG2,Tumor Suppressor Gene,loader,2020-04-22-17-48-29-982740,OncogenicCategory_omnigene_10735
+STAT1,Neither,loader,2020-04-22-17-48-33-968059,OncogenicCategory_omnigene_6772
+STAT3,Oncogene,loader,2020-04-22-17-48-42-732593,OncogenicCategory_omnigene_6774
+STAT4,Neither,loader,2020-04-22-17-48-45-439715,OncogenicCategory_omnigene_6775
+STAT5A,Neither,loader,2020-04-22-17-48-48-555505,OncogenicCategory_omnigene_6776
+STAT5B,Both,loader,2020-04-22-17-48-50-530383,OncogenicCategory_omnigene_6777
+STK11,Tumor Suppressor Gene,loader,2020-04-22-17-48-53-589899,OncogenicCategory_omnigene_6794
+STK40,Neither,loader,2020-04-22-17-48-55-260837,OncogenicCategory_omnigene_83931
+SUFU,Tumor Suppressor Gene,loader,2020-04-22-17-49-02-267344,OncogenicCategory_omnigene_51684
+SUZ12,Both,loader,2020-04-22-17-49-06-024470,OncogenicCategory_omnigene_23512
+SYK,Oncogene,loader,2020-04-22-17-49-09-985128,OncogenicCategory_omnigene_6850
+TAF1,Neither,loader,2020-04-22-17-49-14-911534,OncogenicCategory_omnigene_6872
+TBX21,Neither,loader,2020-04-22-17-49-18-700183,OncogenicCategory_omnigene_30009
+TBX3,Both,loader,2020-04-22-17-49-21-416218,OncogenicCategory_omnigene_6926
+TCF3,Both,loader,2020-04-22-17-49-25-149767,OncogenicCategory_omnigene_6929
+TCF7L2,Oncogene,loader,2020-04-22-17-49-28-633558,OncogenicCategory_omnigene_6934
+TENT5C,Neither,loader,2020-04-22-17-30-39-389430,OncogenicCategory_omnigene_54855
+TERC,Neither,loader,2020-04-22-17-49-29-434730,OncogenicCategory_omnigene_7012
+TERT,Oncogene,loader,2020-04-22-17-49-32-629084,OncogenicCategory_omnigene_7015
+TET1,Both,loader,2020-04-22-17-49-35-712357,OncogenicCategory_omnigene_80312
+TET2,Tumor Suppressor Gene,loader,2020-04-22-17-49-38-984539,OncogenicCategory_omnigene_54790
+TFE3,Oncogene,loader,2020-04-22-17-49-41-964091,OncogenicCategory_omnigene_7030
+TFRC,Neither,loader,2020-04-22-17-49-44-522612,OncogenicCategory_omnigene_7037
+TGFB1,Neither,loader,2020-04-22-17-49-47-462782,OncogenicCategory_omnigene_7040
+TGFBR1,Neither,loader,2020-04-22-17-49-49-958806,OncogenicCategory_omnigene_7046
+TGFBR2,Tumor Suppressor Gene,loader,2020-04-22-17-49-52-160955,OncogenicCategory_omnigene_7048
+TIAF1,Oncogene,loader,2020-04-22-17-49-54-328600,OncogenicCategory_omnigene_9220
+TIGIT,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-16-22-733289,OncogenicCategory_omnigene_201633
+TLR7,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-16-27-172338,OncogenicCategory_omnigene_51284
+TLR8,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-16-36-396851,OncogenicCategory_omnigene_51311
+TLR9,Neither,Carrie.Hoefer@omniseq.com,2020-04-22-18-16-41-056731,OncogenicCategory_omnigene_54106
+TMEM127,Tumor Suppressor Gene,loader,2020-04-22-17-49-56-356129,OncogenicCategory_omnigene_55654
+TMPRSS2,Neither,loader,2020-04-22-17-49-59-977618,OncogenicCategory_omnigene_7113
+TNF,Neither,loader,2020-04-22-17-50-04-127358,OncogenicCategory_omnigene_7124
+TNFAIP3,Tumor Suppressor Gene,loader,2020-04-22-17-50-07-143997,OncogenicCategory_omnigene_7128
+TNFRSF14,Tumor Suppressor Gene,loader,2020-04-22-17-50-10-193803,OncogenicCategory_omnigene_8764
+TNFRSF18,Neither,loader,2020-04-22-17-50-11-869053,OncogenicCategory_omnigene_8784
+TNFRSF4,Neither,loader,2020-04-22-17-50-13-390373,OncogenicCategory_omnigene_7293
+TNFRSF9,Neither,loader,2020-04-22-17-50-15-449278,OncogenicCategory_omnigene_3604
+TNFSF4,Neither,loader,2020-04-22-17-50-18-320728,OncogenicCategory_omnigene_7292
+TOP1,Oncogene,loader,2020-04-22-17-50-20-380331,OncogenicCategory_omnigene_7150
+TOP2A,Neither,loader,2020-04-22-17-50-24-007816,OncogenicCategory_omnigene_7153
+TP53,Tumor Suppressor Gene,loader,2020-04-22-17-50-30-548240,OncogenicCategory_omnigene_7157
+TP63,Both,loader,2020-04-22-17-50-33-168692,OncogenicCategory_omnigene_8626
+TRAF2,Neither,loader,2020-04-22-17-50-35-826636,OncogenicCategory_omnigene_7186
+TRAF7,Tumor Suppressor Gene,loader,2020-04-22-17-50-38-751558,OncogenicCategory_omnigene_84231
+TSC1,Tumor Suppressor Gene,loader,2020-04-22-17-50-44-164328,OncogenicCategory_omnigene_7248
+TSC2,Tumor Suppressor Gene,loader,2020-04-22-17-50-48-425736,OncogenicCategory_omnigene_7249
+TSHR,Oncogene,loader,2020-04-22-17-50-52-010155,OncogenicCategory_omnigene_7253
+U2AF1,Oncogene,loader,2020-04-22-17-50-53-665166,OncogenicCategory_omnigene_7307
+VEGFA,Neither,loader,2020-04-22-17-50-56-224755,OncogenicCategory_omnigene_7422
+VHL,Tumor Suppressor Gene,loader,2020-04-22-17-50-59-543631,OncogenicCategory_omnigene_7428
+VSIR,Neither,loader,2020-04-22-17-24-16-087225,OncogenicCategory_omnigene_64115
+VTCN1,Neither,loader,2020-04-22-17-51-01-899951,OncogenicCategory_omnigene_79679
+WT1,Tumor Suppressor Gene,loader,2020-04-22-17-51-08-629547,OncogenicCategory_omnigene_7490
+XIAP,Neither,loader,2020-04-22-17-51-11-270556,OncogenicCategory_omnigene_331
+XPO1,Oncogene,loader,2020-04-22-17-51-13-853760,OncogenicCategory_omnigene_7514
+XRCC2,Neither,loader,2020-04-22-17-51-16-245875,OncogenicCategory_omnigene_7516
+YAP1,Neither,loader,2020-04-22-17-51-22-744782,OncogenicCategory_omnigene_10413
+YES1,Neither,loader,2020-04-22-17-51-24-989080,OncogenicCategory_omnigene_7525
+ZBTB2,Neither,loader,2020-04-22-17-51-27-618083,OncogenicCategory_omnigene_57621
+ZBTB7A,Neither,loader,2020-04-22-17-51-32-126539,OncogenicCategory_omnigene_51341
+ZFHX3,Tumor Suppressor Gene,loader,2020-04-22-17-51-37-225639,OncogenicCategory_omnigene_463
+ZNF217,Oncogene,loader,2020-04-22-17-51-39-284104,OncogenicCategory_omnigene_7764
+ZNF703,Neither,loader,2020-04-22-17-51-41-228273,OncogenicCategory_omnigene_80139
+ZRSR2,Tumor Suppressor Gene,loader,2020-04-22-17-51-42-801078,OncogenicCategory_omnigene_8233

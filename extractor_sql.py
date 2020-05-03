@@ -23,6 +23,7 @@ def get_current_data(server:str)->list:
   }
 }
 fragment es_fields on EditableStatement {
+    field
   statement
   editor {
     name
@@ -89,7 +90,7 @@ def get_history(server:str)->list:
 
 def write_descriptions(descriptions:list):
     csv_file = "out/descriptions.csv"
-    csv_columns = ['gene_name','gene_description','editor','edit_date','references']
+    csv_columns = ['gene_name','gene_description','editor','edit_date','field','references']
     try:
         with open(csv_file, 'w') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
@@ -101,7 +102,7 @@ def write_descriptions(descriptions:list):
 
 def write_oncogenic_categories(oncogenic_categories:list):
     csv_file = "out/oncogenic_categories.csv"
-    csv_columns = ['gene_name','oncogenicCategory','editor','edit_date']
+    csv_columns = ['gene_name','oncogenicCategory','editor','edit_date','field']
     try:
         with open(csv_file, 'w') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
@@ -113,7 +114,7 @@ def write_oncogenic_categories(oncogenic_categories:list):
 
 def write_synonyms(synonyms:list):
     csv_file = "out/synonyms.csv"
-    csv_columns = ['gene_name','synonymsString','editor','edit_date']
+    csv_columns = ['gene_name','synonymsString','editor','edit_date','field']
     try:
         with open(csv_file, 'w') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
@@ -410,10 +411,11 @@ def extract_current_data(server:str,my_db,my_cursor):
 
 def handle_synonyms(entry, synonyms,my_db,my_cursor):
     synonym_entry = entry['synonymsString']
+    field = synonym_entry['field']
     editor = synonym_entry['editor']['name']
     edit_date = synonym_entry['edit_date']
     date_time_obj = datetime.datetime.strptime(edit_date, '%Y-%m-%d-%H-%M-%S-%f')
-    synonym: dict = {'gene_name': entry['name'], 'synonymsString': synonym_entry['statement'], 'editor': editor,
+    synonym: dict = {'gene_name': entry['name'], 'synonymsString': synonym_entry['statement'], 'field':field,'editor': editor,
                      'edit_date': edit_date}
     syn_list = synonym_entry['statement'].split(',')
     for syn in syn_list:
@@ -424,10 +426,11 @@ def handle_synonyms(entry, synonyms,my_db,my_cursor):
 
 def handle_categories(entry, oncogenic_categories,my_db,my_cursor):
     category = entry['oncogenicCategory']
+    field = category['field']
     editor = category['editor']['name']
     edit_date = category['edit_date']
     date_time_obj = datetime.datetime.strptime(edit_date, '%Y-%m-%d-%H-%M-%S-%f')
-    oncogenic_category: dict = {'gene_name': entry['name'], 'oncogenicCategory': category['statement'],
+    oncogenic_category: dict = {'gene_name': entry['name'], 'oncogenicCategory': category['statement'],'field':field,
                                 'editor': editor, 'edit_date': edit_date}
     insert_oncogenic_category(my_db,my_cursor,entry['name'],category['statement'],editor,edit_date,date_time_obj)
     oncogenic_categories.append(oncogenic_category)
@@ -435,12 +438,13 @@ def handle_categories(entry, oncogenic_categories,my_db,my_cursor):
 
 def handle_gene_descriptions(descriptions, entry, reference_dict,my_db,my_cursor):
     gene_description: dict = entry['geneDescription']
+    field = gene_description['field']
     editor = gene_description['editor']['name']
     edit_date = gene_description['edit_date']
     date_time_obj = datetime.datetime.strptime(edit_date, '%Y-%m-%d-%H-%M-%S-%f')
     references = gene_description['references']
     pmids: list = []
-    description: dict = {'gene_name': entry['name'], 'gene_description': gene_description['statement'],
+    description: dict = {'gene_name': entry['name'], 'gene_description': gene_description['statement'],'field':field,
                          'editor': editor, 'edit_date': edit_date, 'references': pmids}
     insert_description(my_db,my_cursor,entry['name'],gene_description['statement'],editor,edit_date,date_time_obj)
     description_id = get_id_from_gene_name(entry['name'],my_cursor)
@@ -501,9 +505,7 @@ def extract_history(server:str,my_db,my_cursor):
             history_list.append(history)
     write_history(history_list)
 
-def main():
-    # server:str = 'localhost'
-    server: str = '165.227.89.140'
+def extract_from_server(server:str):
     my_db = None
     my_cursor = None
     try:
@@ -528,5 +530,5 @@ def main():
 
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()

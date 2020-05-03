@@ -1,8 +1,13 @@
+
+directive @relation (
+    name:String
+    direction:String
+) on FIELD_DEFINITION
+
 interface NamedEntity {
     id: ID!
     name: String!
 }
-
 
 interface StatementWithEvidence {
     id: ID!
@@ -110,8 +115,12 @@ type Uniprot_Entry implements NamedEntity {
     gene: MyGeneInfo_Gene! @relation(name: "CODED_BY", direction: "OUT")
 }
 
+interface Target {
+    id: ID!
+    name: String!
+}
 
-type OmniGene implements NamedEntity  {
+type OmniGene implements NamedEntity & Target  {
     id: ID!
     name: String!
     panelName: String!
@@ -121,6 +130,157 @@ type OmniGene implements NamedEntity  {
     myGeneInfoGene: MyGeneInfo_Gene!
     uniprot_entry: Uniprot_Entry
     jaxGene:    JaxGene
+    variants: [GenomicVariant]! @relation(name: "CODED_BY", direction: "OUT")
+}
+
+enum OmniConjunction {
+    ANY
+    ALL
+    NONE
+}
+
+interface MarkerComponent {
+    id: ID!
+    name: String!
+    method: EditableStatement!
+}
+
+enum DNAMarkerType {
+    MicrosatelliteInstabilityLocus
+    Karyotype
+}
+
+type DNAMarker implements NamedEntity & MarkerComponent {
+    id: ID!
+    name: String!
+    method: EditableStatement!
+    definition: EditableStatement!
+    markerType: DNAMarkerType!
+}
+
+interface ProteinLevelAssay {
+    id: ID!
+    name: String!
+}
+
+enum AssayComparator {
+    ABOVE
+    BELOW
+}
+
+type IHC implements NamedEntity & ProteinLevelAssay {
+    id: ID!
+    name: String!
+    antibodyClone:   String!
+    comparator: AssayComparator!
+    percentPositive: Int!
+}
+
+type RNASeq implements NamedEntity & ProteinLevelAssay {
+    id: ID!
+    name: String!
+    comparator: AssayComparator!
+    rankScore: Int!
+}
+
+enum ImmunePhenotype {
+    AntiInflammatoryResponse,
+    CancerTestisAntigen
+    CheckpointBlockade_PD1_CTLA4
+    CheckpointBlockade_Other
+    MetabolicImmuneEscape
+    MyeloidSuppression
+    OtherImmunotherapyMarkers
+    ProInflammatoryResponse
+    T_CellPrimed
+    TumorInfiltratingLymphocytes
+}
+
+enum ImmuneFunction {
+    AntiInflammatory
+    B_Cells
+    CoInhibitory
+    CoStimulatory
+    CytotoxicT_Cells_T_Regs
+    Immunostimulatory
+    Immunosuppressive
+    NK_Cells
+    ProInflammatory
+    Unknown
+}
+
+enum ImmuneCycleRole {
+    CancerTestisAntigens
+    KillingCancerCells
+    T_CellInfiltration
+    T_CellPriming
+    T_CellRecognition
+    T_CellTrafficking
+}
+
+type ProteinExpressionMarker  implements NamedEntity & MarkerComponent {
+    id: ID!
+    name: String!
+    method: EditableStatement!
+    synonymsString: EditableStatement!
+    gene: OmniGene
+    assay: ProteinLevelAssay!
+    immunePhenotype: [ImmunePhenotype]!
+    immuneFunction: [ImmuneFunction]!
+    immuneCycleRole: [ImmuneCycleRole]!
+}
+
+type JaxVariant implements NamedEntity {
+    id: ID!
+    name: String!
+    description: EditableStatement!
+    jaxId:  String!
+    gene: JaxGene! @relation(name: "CODED_BY", direction: "OUT")
+    pDot:   String!
+    cDot:   String!
+    gDot:   String!
+    transcript: String!
+    variant_type: String!
+    proteinEffect: String!
+}
+
+enum VariantType {
+    SNV
+    CNV
+    Fusion
+}
+
+enum VariantProteinEffect {
+    Gain_of_Function
+    Gain_of_Function_Predicted
+    Loss_of_Function
+    Loss_of_Function_Predicted
+    No_Effect
+    Unknown
+}
+
+type GenomicVariant  implements NamedEntity & MarkerComponent {
+    id: ID!
+    name: String!
+    method: EditableStatement!
+    synonymsString: EditableStatement!
+    pDot:   String!
+    cDot:   String!
+    gDot:   String!
+    transcript: String!
+    variantType:    VariantType!
+    proteinEffect: VariantProteinEffect!
+    gene: OmniGene! @relation(name: "CODED_BY", direction: "OUT")
+    jaxVariant: JaxVariant
+}
+
+type MarkerProfile implements NamedEntity & MarkerComponent {
+    id: ID!
+    name: String!
+    method: EditableStatement!
+    conjunction: OmniConjunction!
+    components: [MarkerComponent]!
+    results: [OmniResult]!  @relation(name: "MARKER_FOR", direction: "IN")
 }
 
 type JaxDrugClass implements NamedEntity {
@@ -159,38 +319,99 @@ interface TherapyComponent {
     component_of: [Therapy]!
 }
 
+type DrugCategory implements NamedEntity {
+    id: ID!
+    name: String!
+    definition: EditableStatement!
+    jaxDrugClass: [JaxDrugClass]!
+    drugs: [OmniDrug]! @relation(name: "DRUG_CLASS_MEMBER", direction: "OUT")
+}
+
 type OmniDrug implements NamedEntity & TherapyComponent {
     id: ID!
     name: String!
     tradeName: String!
     definition: EditableStatement!
-    drugCategories: EditableStatement!
+    drugCategories: [DrugCategory]! @relation(name: "DRUG_CLASS_MEMBER", direction: "IN")
     synonymsString: EditableStatement!
     nciDrug:    NCIDrug
     jaxDrug:    JaxDrug
     component_of: [Therapy]! @relation(name: "THERAPY_COMPONENT", direction: "IN")
+    target: [Target]!
 }
 
-enum OmniConjuction {
-    ANY
-    ALL
-    NONE
-}
 
 type Therapy implements NamedEntity & TherapyComponent {
     id: ID!
     name: String!
-    conjuction: OmniConjuction
-    component: [TherapyComponent]! @relation(name: "THERAPY_COMPONENT", direction: "OUT")
+    definition: EditableStatement!
+    conjunction: OmniConjunction!
+    components: [TherapyComponent]! @relation(name: "THERAPY_COMPONENT", direction: "OUT")
     component_of: [Therapy]! @relation(name: "THERAPY_COMPONENT", direction: "IN")
 }
 
 
 type TherapeuticIntervention implements NamedEntity {
-     id: ID!
+    id: ID!
     name: String!
+    definition: EditableStatement!
     therapy: Therapy!
     preceded_by: [TherapeuticIntervention]!
     followed_by: [TherapeuticIntervention]!
     concurrent_with: [TherapeuticIntervention]!
 }
+
+type JaxDisease implements NamedEntity {
+    id: ID!
+    name: String!
+    parent: JaxDisease @relation(name: "PARENT", direction: "OUT")
+    children: [JaxDisease]! @relation(name: "PARENT", direction: "IN")
+}
+
+type MCode implements NamedEntity {
+    id: ID!
+    name: String!
+}
+
+type OmniMap implements NamedEntity {
+    id: ID!
+    name: String!
+    mCode: MCode!
+
+}
+
+type OntologicalDisease implements NamedEntity {
+    id: ID!
+    name: String!
+    omniDisease: String!
+    mCode: String!
+    jaxDisease: JaxDisease
+    parent: OntologicalDisease @relation(name: "PARENT", direction: "OUT")
+    children: [OntologicalDisease]! @relation(name: "PARENT", direction: "IN")
+    results: [OmniResult]!  @relation(name: "DISEASE", direction: "IN")
+}
+
+enum EvidenceType {
+    Actionable
+    Emerging
+}
+enum ResponseType {
+    Sensitive
+    NoBenefit
+    Resistant
+    Conflicting
+}
+
+type OmniResult implements NamedEntity {
+    id: ID!
+    name: String!
+    description: EditableStatement!
+    approvalStatus: String!
+    evidenceType: EvidenceType!
+    responseType: ResponseType!
+    ampCapAscoTier: String!
+    therapy: TherapyComponent!
+    markers: [MarkerProfile]! @relation(name: "MARKER_FOR", direction: "OUT")
+    diseases: [OntologicalDisease]! @relation(name: "DISEASE", direction: "OUT")
+}
+
